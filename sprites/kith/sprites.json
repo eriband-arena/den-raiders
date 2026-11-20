@@ -1,0 +1,909 @@
+{
+  "facing": "right",
+  "maxSide": 512,
+  "sprites": {
+    "pebbleplop_1": {
+      "file": "pebbleplop_1.webp",
+      "name": "Pebbleplop",
+      "width": 512,
+      "height": 503,
+      "heightPercent": 50
+    },
+    "pebbleplop_2": {
+      "file": "pebbleplop_2.webp",
+      "name": "Bouldaplop",
+      "width": 500,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "pebbleplop_3": {
+      "file": "pebbleplop_3.webp",
+      "name": "Cragtoad",
+      "width": 503,
+      "height": 512,
+      "heightPercent": 85
+    },
+    "pebbleplop_4": {
+      "file": "pebbleplop_4.webp",
+      "name": "Mountoad",
+      "width": 506,
+      "height": 512,
+      "heightPercent": 95
+    },
+    "cinderpup_1": {
+      "file": "cinderpup_1.webp",
+      "name": "Cinderpup",
+      "width": 512,
+      "height": 467,
+      "heightPercent": 50
+    },
+    "cinderpup_2": {
+      "file": "cinderpup_2.webp",
+      "name": "Cinderhound",
+      "width": 490,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "cinderpup_3": {
+      "file": "cinderpup_3.webp",
+      "name": "Blazehound",
+      "width": 479,
+      "height": 512,
+      "heightPercent": 85
+    },
+    "cinderpup_4": {
+      "file": "cinderpup_4.webp",
+      "name": "Infernox",
+      "width": 498,
+      "height": 512,
+      "heightPercent": 95
+    },
+    "puddlepaw_1": {
+      "file": "puddlepaw_1.webp",
+      "name": "Puddlepaw",
+      "width": 512,
+      "height": 484,
+      "heightPercent": 50
+    },
+    "puddlepaw_2": {
+      "file": "puddlepaw_2.webp",
+      "name": "Tidepaw",
+      "width": 499,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "puddlepaw_3": {
+      "file": "puddlepaw_3.webp",
+      "name": "Surfotter",
+      "width": 496,
+      "height": 512,
+      "heightPercent": 85
+    },
+    "puddlepaw_4": {
+      "file": "puddlepaw_4.webp",
+      "name": "Maelstrotter",
+      "width": 507,
+      "height": 512,
+      "heightPercent": 95
+    },
+    "nimblet_1": {
+      "file": "nimblet_1.webp",
+      "name": "Nimblet",
+      "width": 475,
+      "height": 512,
+      "heightPercent": 50
+    },
+    "nimblet_2": {
+      "file": "nimblet_2.webp",
+      "name": "Vinemonk",
+      "width": 491,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "nimblet_3": {
+      "file": "nimblet_3.webp",
+      "name": "Jungleape",
+      "width": 469,
+      "height": 512,
+      "heightPercent": 85
+    },
+    "nimblet_4": {
+      "file": "nimblet_4.webp",
+      "name": "Canopyking",
+      "width": 512,
+      "height": 508,
+      "heightPercent": 95
+    },
+    "wisplet_1": {
+      "file": "wisplet_1.webp",
+      "name": "Wisplet",
+      "width": 512,
+      "height": 505,
+      "heightPercent": 50
+    },
+    "wisplet_2": {
+      "file": "wisplet_2.webp",
+      "name": "Galefox",
+      "width": 512,
+      "height": 507,
+      "heightPercent": 70
+    },
+    "wisplet_3": {
+      "file": "wisplet_3.webp",
+      "name": "Zephyrfox",
+      "width": 512,
+      "height": 483,
+      "heightPercent": 85
+    },
+    "wisplet_4": {
+      "file": "wisplet_4.webp",
+      "name": "Skyvulpine",
+      "width": 512,
+      "height": 509,
+      "heightPercent": 95
+    },
+    "zapquill_1": {
+      "file": "zapquill_1.webp",
+      "name": "Zapquill",
+      "width": 481,
+      "height": 512,
+      "heightPercent": 50
+    },
+    "zapquill_2": {
+      "file": "zapquill_2.webp",
+      "name": "Voltquill",
+      "width": 512,
+      "height": 468,
+      "heightPercent": 70
+    },
+    "zapquill_3": {
+      "file": "zapquill_3.webp",
+      "name": "Thunderquill",
+      "width": 512,
+      "height": 488,
+      "heightPercent": 92
+    },
+    "mossmop_1": {
+      "file": "mossmop_1.webp",
+      "name": "Mossmop",
+      "width": 512,
+      "height": 505,
+      "heightPercent": 50
+    },
+    "mossmop_2": {
+      "file": "mossmop_2.webp",
+      "name": "Mossmound",
+      "width": 498,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "mossmop_3": {
+      "file": "mossmop_3.webp",
+      "name": "Meadowool",
+      "width": 498,
+      "height": 512,
+      "heightPercent": 92
+    },
+    "wickwisp_1": {
+      "file": "wickwisp_1.webp",
+      "name": "Wickwisp",
+      "width": 403,
+      "height": 512,
+      "heightPercent": 50
+    },
+    "wickwisp_2": {
+      "file": "wickwisp_2.webp",
+      "name": "Wickwraith",
+      "width": 451,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "wickwisp_3": {
+      "file": "wickwisp_3.webp",
+      "name": "Chandelurk",
+      "width": 500,
+      "height": 512,
+      "heightPercent": 92
+    },
+    "peekaroo_1": {
+      "file": "peekaroo_1.webp",
+      "name": "Peekaroo",
+      "width": 394,
+      "height": 512,
+      "heightPercent": 50
+    },
+    "peekaroo_2": {
+      "file": "peekaroo_2.webp",
+      "name": "Lanternroo",
+      "width": 406,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "peekaroo_3": {
+      "file": "peekaroo_3.webp",
+      "name": "Beaconroo",
+      "width": 491,
+      "height": 512,
+      "heightPercent": 92
+    },
+    "twinkits_1": {
+      "file": "twinkits_1.webp",
+      "name": "Twinkits",
+      "width": 512,
+      "height": 341,
+      "heightPercent": 50
+    },
+    "twinkits_2": {
+      "file": "twinkits_2.webp",
+      "name": "Twinstorm",
+      "width": 512,
+      "height": 396,
+      "heightPercent": 70
+    },
+    "twinkits_3": {
+      "file": "twinkits_3.webp",
+      "name": "Thunderpurr",
+      "width": 512,
+      "height": 417,
+      "heightPercent": 92
+    },
+    "grubbo_1": {
+      "file": "grubbo_1.webp",
+      "name": "Grubbo",
+      "width": 512,
+      "height": 492,
+      "heightPercent": 50
+    },
+    "grubbo_2": {
+      "file": "grubbo_2.webp",
+      "name": "Grubbolder",
+      "width": 485,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "grubbo_3": {
+      "file": "grubbo_3.webp",
+      "name": "Fortgrub",
+      "width": 497,
+      "height": 512,
+      "heightPercent": 92
+    },
+    "hushowl_1": {
+      "file": "hushowl_1.webp",
+      "name": "Hushowl",
+      "width": 508,
+      "height": 512,
+      "heightPercent": 50
+    },
+    "hushowl_2": {
+      "file": "hushowl_2.webp",
+      "name": "Lullowl",
+      "width": 445,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "hushowl_3": {
+      "file": "hushowl_3.webp",
+      "name": "Nocturnowl",
+      "width": 512,
+      "height": 493,
+      "heightPercent": 92
+    },
+    "burrowboom_1": {
+      "file": "burrowboom_1.webp",
+      "name": "Burrowboom",
+      "width": 478,
+      "height": 512,
+      "heightPercent": 50
+    },
+    "burrowboom_2": {
+      "file": "burrowboom_2.webp",
+      "name": "Magmole",
+      "width": 482,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "burrowboom_3": {
+      "file": "burrowboom_3.webp",
+      "name": "Volcamole",
+      "width": 510,
+      "height": 512,
+      "heightPercent": 92
+    },
+    "lumibee_1": {
+      "file": "lumibee_1.webp",
+      "name": "Lumibee",
+      "width": 461,
+      "height": 512,
+      "heightPercent": 50
+    },
+    "lumibee_2": {
+      "file": "lumibee_2.webp",
+      "name": "Lumiqueen",
+      "width": 484,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "lumibee_3": {
+      "file": "lumibee_3.webp",
+      "name": "Solarhive",
+      "width": 501,
+      "height": 512,
+      "heightPercent": 92
+    },
+    "krakkle_1": {
+      "file": "krakkle_1.webp",
+      "name": "Krakkle",
+      "width": 512,
+      "height": 444,
+      "heightPercent": 50
+    },
+    "krakkle_2": {
+      "file": "krakkle_2.webp",
+      "name": "Krakkdrill",
+      "width": 512,
+      "height": 409,
+      "heightPercent": 70
+    },
+    "krakkle_3": {
+      "file": "krakkle_3.webp",
+      "name": "Drillodon",
+      "width": 512,
+      "height": 489,
+      "heightPercent": 92
+    },
+    "skyray_1": {
+      "file": "skyray_1.webp",
+      "name": "Skyray",
+      "width": 512,
+      "height": 406,
+      "heightPercent": 50
+    },
+    "skyray_2": {
+      "file": "skyray_2.webp",
+      "name": "Skymanta",
+      "width": 512,
+      "height": 495,
+      "heightPercent": 70
+    },
+    "skyray_3": {
+      "file": "skyray_3.webp",
+      "name": "Cloudray",
+      "width": 512,
+      "height": 503,
+      "heightPercent": 92
+    },
+    "reefmaw_1": {
+      "file": "reefmaw_1.webp",
+      "name": "Reefmaw",
+      "width": 512,
+      "height": 451,
+      "heightPercent": 50
+    },
+    "reefmaw_2": {
+      "file": "reefmaw_2.webp",
+      "name": "Reefking",
+      "width": 512,
+      "height": 475,
+      "heightPercent": 70
+    },
+    "reefmaw_3": {
+      "file": "reefmaw_3.webp",
+      "name": "Atollmaw",
+      "width": 512,
+      "height": 492,
+      "heightPercent": 92
+    },
+    "thornelk_1": {
+      "file": "thornelk_1.webp",
+      "name": "Thornelk",
+      "width": 484,
+      "height": 512,
+      "heightPercent": 50
+    },
+    "thornelk_2": {
+      "file": "thornelk_2.webp",
+      "name": "Thornking",
+      "width": 496,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "thornelk_3": {
+      "file": "thornelk_3.webp",
+      "name": "Elderelk",
+      "width": 473,
+      "height": 512,
+      "heightPercent": 92
+    },
+    "pyrewing_1": {
+      "file": "pyrewing_1.webp",
+      "name": "Pyrewing",
+      "width": 508,
+      "height": 512,
+      "heightPercent": 50
+    },
+    "pyrewing_2": {
+      "file": "pyrewing_2.webp",
+      "name": "Pyrephoenix",
+      "width": 512,
+      "height": 507,
+      "heightPercent": 70
+    },
+    "pyrewing_3": {
+      "file": "pyrewing_3.webp",
+      "name": "Sunwing",
+      "width": 512,
+      "height": 512,
+      "heightPercent": 92
+    },
+    "eclipsar_1": {
+      "file": "eclipsar_1.webp",
+      "name": "Eclipsar",
+      "width": 512,
+      "height": 508,
+      "heightPercent": 50
+    },
+    "eclipsar_2": {
+      "file": "eclipsar_2.webp",
+      "name": "Totalis",
+      "width": 512,
+      "height": 496,
+      "heightPercent": 70
+    },
+    "eclipsar_3": {
+      "file": "eclipsar_3.webp",
+      "name": "Equinox",
+      "width": 512,
+      "height": 505,
+      "heightPercent": 92
+    },
+    "voltadpole_1": {
+      "file": "voltadpole_1.webp",
+      "name": "Voltadpole",
+      "width": 496,
+      "height": 512,
+      "heightPercent": 50
+    },
+    "voltadpole_2": {
+      "file": "voltadpole_2.webp",
+      "name": "Joltfrog",
+      "width": 512,
+      "height": 449,
+      "heightPercent": 70
+    },
+    "voltadpole_3": {
+      "file": "voltadpole_3.webp",
+      "name": "Stormtoad",
+      "width": 512,
+      "height": 503,
+      "heightPercent": 85
+    },
+    "voltadpole_4": {
+      "file": "voltadpole_4.webp",
+      "name": "Thundercroak",
+      "width": 484,
+      "height": 512,
+      "heightPercent": 95
+    },
+    "breezling_1": {
+      "file": "breezling_1.webp",
+      "name": "Breezling",
+      "width": 512,
+      "height": 466,
+      "heightPercent": 50
+    },
+    "breezling_2": {
+      "file": "breezling_2.webp",
+      "name": "Puffinch",
+      "width": 512,
+      "height": 478,
+      "heightPercent": 70
+    },
+    "breezling_3": {
+      "file": "breezling_3.webp",
+      "name": "Gustern",
+      "width": 512,
+      "height": 489,
+      "heightPercent": 85
+    },
+    "breezling_4": {
+      "file": "breezling_4.webp",
+      "name": "Skyalbatross",
+      "width": 511,
+      "height": 512,
+      "heightPercent": 95
+    },
+    "bubblub_1": {
+      "file": "bubblub_1.webp",
+      "name": "Bubblub",
+      "width": 512,
+      "height": 457,
+      "heightPercent": 50
+    },
+    "bubblub_2": {
+      "file": "bubblub_2.webp",
+      "name": "Bubbleclaw",
+      "width": 512,
+      "height": 442,
+      "heightPercent": 70
+    },
+    "bubblub_3": {
+      "file": "bubblub_3.webp",
+      "name": "Foamcrab",
+      "width": 512,
+      "height": 476,
+      "heightPercent": 85
+    },
+    "bubblub_4": {
+      "file": "bubblub_4.webp",
+      "name": "Tidecastle",
+      "width": 512,
+      "height": 512,
+      "heightPercent": 95
+    },
+    "glowlotl_1": {
+      "file": "glowlotl_1.webp",
+      "name": "Glowlotl",
+      "width": 512,
+      "height": 382,
+      "heightPercent": 50
+    },
+    "glowlotl_2": {
+      "file": "glowlotl_2.webp",
+      "name": "Lumilotl",
+      "width": 512,
+      "height": 404,
+      "heightPercent": 70
+    },
+    "glowlotl_3": {
+      "file": "glowlotl_3.webp",
+      "name": "Radialotl",
+      "width": 512,
+      "height": 418,
+      "heightPercent": 85
+    },
+    "glowlotl_4": {
+      "file": "glowlotl_4.webp",
+      "name": "Aurolotl",
+      "width": 512,
+      "height": 475,
+      "heightPercent": 95
+    },
+    "rubblebun_1": {
+      "file": "rubblebun_1.webp",
+      "name": "Rubblebun",
+      "width": 395,
+      "height": 512,
+      "heightPercent": 50
+    },
+    "rubblebun_2": {
+      "file": "rubblebun_2.webp",
+      "name": "Rockhare",
+      "width": 355,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "rubblebun_3": {
+      "file": "rubblebun_3.webp",
+      "name": "Quakehare",
+      "width": 499,
+      "height": 512,
+      "heightPercent": 92
+    },
+    "sizzlard_1": {
+      "file": "sizzlard_1.webp",
+      "name": "Sizzlard",
+      "width": 512,
+      "height": 413,
+      "heightPercent": 50
+    },
+    "sizzlard_2": {
+      "file": "sizzlard_2.webp",
+      "name": "Scorchgecko",
+      "width": 462,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "sizzlard_3": {
+      "file": "sizzlard_3.webp",
+      "name": "Emberdrake",
+      "width": 510,
+      "height": 512,
+      "heightPercent": 92
+    },
+    "driftsnail_1": {
+      "file": "driftsnail_1.webp",
+      "name": "Driftsnail",
+      "width": 512,
+      "height": 450,
+      "heightPercent": 50
+    },
+    "driftsnail_2": {
+      "file": "driftsnail_2.webp",
+      "name": "Tidesnail",
+      "width": 512,
+      "height": 484,
+      "heightPercent": 70
+    },
+    "driftsnail_3": {
+      "file": "driftsnail_3.webp",
+      "name": "Nautiloft",
+      "width": 512,
+      "height": 503,
+      "heightPercent": 92
+    },
+    "gloombat_1": {
+      "file": "gloombat_1.webp",
+      "name": "Gloombat",
+      "width": 512,
+      "height": 448,
+      "heightPercent": 50
+    },
+    "gloombat_2": {
+      "file": "gloombat_2.webp",
+      "name": "Duskbat",
+      "width": 512,
+      "height": 453,
+      "heightPercent": 70
+    },
+    "gloombat_3": {
+      "file": "gloombat_3.webp",
+      "name": "Umbrabat",
+      "width": 512,
+      "height": 505,
+      "heightPercent": 92
+    },
+    "shroomp_1": {
+      "file": "shroomp_1.webp",
+      "name": "Shroomp",
+      "width": 442,
+      "height": 512,
+      "heightPercent": 50
+    },
+    "shroomp_2": {
+      "file": "shroomp_2.webp",
+      "name": "Mushbear",
+      "width": 434,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "shroomp_3": {
+      "file": "shroomp_3.webp",
+      "name": "Fungrizzly",
+      "width": 471,
+      "height": 512,
+      "heightPercent": 92
+    },
+    "sparkeel_1": {
+      "file": "sparkeel_1.webp",
+      "name": "Sparkeel",
+      "width": 512,
+      "height": 496,
+      "heightPercent": 50
+    },
+    "sparkeel_2": {
+      "file": "sparkeel_2.webp",
+      "name": "Jolteel",
+      "width": 459,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "sparkeel_3": {
+      "file": "sparkeel_3.webp",
+      "name": "Stormserpent",
+      "width": 479,
+      "height": 512,
+      "heightPercent": 92
+    },
+    "whirlhawk_1": {
+      "file": "whirlhawk_1.webp",
+      "name": "Whirlhawk",
+      "width": 509,
+      "height": 512,
+      "heightPercent": 50
+    },
+    "whirlhawk_2": {
+      "file": "whirlhawk_2.webp",
+      "name": "Galehawk",
+      "width": 512,
+      "height": 451,
+      "heightPercent": 70
+    },
+    "whirlhawk_3": {
+      "file": "whirlhawk_3.webp",
+      "name": "Skyraptor",
+      "width": 512,
+      "height": 475,
+      "heightPercent": 92
+    },
+    "prismoth_1": {
+      "file": "prismoth_1.webp",
+      "name": "Prismoth",
+      "width": 512,
+      "height": 435,
+      "heightPercent": 50
+    },
+    "prismoth_2": {
+      "file": "prismoth_2.webp",
+      "name": "Prismwing",
+      "width": 512,
+      "height": 472,
+      "heightPercent": 70
+    },
+    "prismoth_3": {
+      "file": "prismoth_3.webp",
+      "name": "Spectramoth",
+      "width": 512,
+      "height": 495,
+      "heightPercent": 92
+    },
+    "kilnoceros_1": {
+      "file": "kilnoceros_1.webp",
+      "name": "Kilnoceros",
+      "width": 512,
+      "height": 506,
+      "heightPercent": 50
+    },
+    "kilnoceros_2": {
+      "file": "kilnoceros_2.webp",
+      "name": "Kilnorhino",
+      "width": 512,
+      "height": 504,
+      "heightPercent": 70
+    },
+    "kilnoceros_3": {
+      "file": "kilnoceros_3.webp",
+      "name": "Foundrhino",
+      "width": 509,
+      "height": 512,
+      "heightPercent": 92
+    },
+    "bellowhale_1": {
+      "file": "bellowhale_1.webp",
+      "name": "Bellowhale",
+      "width": 508,
+      "height": 512,
+      "heightPercent": 50
+    },
+    "bellowhale_2": {
+      "file": "bellowhale_2.webp",
+      "name": "Songwhale",
+      "width": 509,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "bellowhale_3": {
+      "file": "bellowhale_3.webp",
+      "name": "Abyssong",
+      "width": 512,
+      "height": 507,
+      "heightPercent": 92
+    },
+    "stormyak_1": {
+      "file": "stormyak_1.webp",
+      "name": "Stormyak",
+      "width": 512,
+      "height": 480,
+      "heightPercent": 50
+    },
+    "stormyak_2": {
+      "file": "stormyak_2.webp",
+      "name": "Thunderyak",
+      "width": 493,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "stormyak_3": {
+      "file": "stormyak_3.webp",
+      "name": "Stormbison",
+      "width": 508,
+      "height": 512,
+      "heightPercent": 92
+    },
+    "cragtoise_1": {
+      "file": "cragtoise_1.webp",
+      "name": "Cragtoise",
+      "width": 512,
+      "height": 478,
+      "heightPercent": 50
+    },
+    "cragtoise_2": {
+      "file": "cragtoise_2.webp",
+      "name": "Cliffshell",
+      "width": 512,
+      "height": 510,
+      "heightPercent": 70
+    },
+    "cragtoise_3": {
+      "file": "cragtoise_3.webp",
+      "name": "Monolithoise",
+      "width": 474,
+      "height": 512,
+      "heightPercent": 92
+    },
+    "cyclonyx_1": {
+      "file": "cyclonyx_1.webp",
+      "name": "Cyclonyx",
+      "width": 424,
+      "height": 512,
+      "heightPercent": 50
+    },
+    "cyclonyx_2": {
+      "file": "cyclonyx_2.webp",
+      "name": "Galeserpent",
+      "width": 345,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "cyclonyx_3": {
+      "file": "cyclonyx_3.webp",
+      "name": "Hurricanyx",
+      "width": 451,
+      "height": 512,
+      "heightPercent": 92
+    },
+    "duskwolf_1": {
+      "file": "duskwolf_1.webp",
+      "name": "Duskwolf",
+      "width": 512,
+      "height": 478,
+      "heightPercent": 50
+    },
+    "duskwolf_2": {
+      "file": "duskwolf_2.webp",
+      "name": "Shadewolf",
+      "width": 489,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "duskwolf_3": {
+      "file": "duskwolf_3.webp",
+      "name": "Moonfang",
+      "width": 507,
+      "height": 512,
+      "heightPercent": 92
+    },
+    "solmane_1": {
+      "file": "solmane_1.webp",
+      "name": "Solmane",
+      "width": 512,
+      "height": 494,
+      "heightPercent": 50
+    },
+    "solmane_2": {
+      "file": "solmane_2.webp",
+      "name": "Radiantlion",
+      "width": 487,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "solmane_3": {
+      "file": "solmane_3.webp",
+      "name": "Zenithlion",
+      "width": 481,
+      "height": 512,
+      "heightPercent": 92
+    },
+    "bloomwyrm_1": {
+      "file": "bloomwyrm_1.webp",
+      "name": "Bloomwyrm",
+      "width": 402,
+      "height": 512,
+      "heightPercent": 50
+    },
+    "bloomwyrm_2": {
+      "file": "bloomwyrm_2.webp",
+      "name": "Petalwyrm",
+      "width": 474,
+      "height": 512,
+      "heightPercent": 70
+    },
+    "bloomwyrm_3": {
+      "file": "bloomwyrm_3.webp",
+      "name": "Gardenwyrm",
+      "width": 498,
+      "height": 512,
+      "heightPercent": 92
+    }
+  }
+}

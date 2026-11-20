@@ -1,0 +1,4899 @@
+{
+  "assets": {
+    "alpha_card_frame": {
+      "file": "alpha_card_frame.webp",
+      "width": 512,
+      "height": 768
+    },
+    "alpha_card_locked": {
+      "file": "alpha_card_locked.webp",
+      "width": 512,
+      "height": 768
+    },
+    "alpha_gravelord": {
+      "file": "alpha_gravelord.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_gravelord_asleep": {
+      "file": "alpha_gravelord_asleep.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_gravelord_portrait": {
+      "file": "alpha_gravelord_portrait.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_gravelord_wake": {
+      "file": "alpha_gravelord_wake.webp",
+      "width": 768,
+      "height": 432
+    },
+    "alpha_grizzleroot": {
+      "file": "alpha_grizzleroot.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_grizzleroot_asleep": {
+      "file": "alpha_grizzleroot_asleep.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_grizzleroot_portrait": {
+      "file": "alpha_grizzleroot_portrait.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_grizzleroot_wake": {
+      "file": "alpha_grizzleroot_wake.webp",
+      "width": 768,
+      "height": 432
+    },
+    "alpha_marivelle": {
+      "file": "alpha_marivelle.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_marivelle_asleep": {
+      "file": "alpha_marivelle_asleep.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_marivelle_portrait": {
+      "file": "alpha_marivelle_portrait.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_marivelle_wake": {
+      "file": "alpha_marivelle_wake.webp",
+      "width": 768,
+      "height": 432
+    },
+    "alpha_nocturne": {
+      "file": "alpha_nocturne.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_nocturne_asleep": {
+      "file": "alpha_nocturne_asleep.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_nocturne_portrait": {
+      "file": "alpha_nocturne_portrait.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_nocturne_wake": {
+      "file": "alpha_nocturne_wake.webp",
+      "width": 768,
+      "height": 432
+    },
+    "alpha_solenne": {
+      "file": "alpha_solenne.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_solenne_asleep": {
+      "file": "alpha_solenne_asleep.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_solenne_portrait": {
+      "file": "alpha_solenne_portrait.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_solenne_wake": {
+      "file": "alpha_solenne_wake.webp",
+      "width": 768,
+      "height": 432
+    },
+    "alpha_voltyne": {
+      "file": "alpha_voltyne.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_voltyne_asleep": {
+      "file": "alpha_voltyne_asleep.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_voltyne_portrait": {
+      "file": "alpha_voltyne_portrait.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_voltyne_wake": {
+      "file": "alpha_voltyne_wake.webp",
+      "width": 768,
+      "height": 432
+    },
+    "alpha_vulcarn": {
+      "file": "alpha_vulcarn.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_vulcarn_asleep": {
+      "file": "alpha_vulcarn_asleep.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_vulcarn_portrait": {
+      "file": "alpha_vulcarn_portrait.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_vulcarn_wake": {
+      "file": "alpha_vulcarn_wake.webp",
+      "width": 768,
+      "height": 432
+    },
+    "alpha_wake_flash": {
+      "file": "alpha_wake_flash.webp",
+      "width": 768,
+      "height": 171
+    },
+    "alpha_zephyra": {
+      "file": "alpha_zephyra.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_zephyra_asleep": {
+      "file": "alpha_zephyra_asleep.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_zephyra_portrait": {
+      "file": "alpha_zephyra_portrait.webp",
+      "width": 768,
+      "height": 768
+    },
+    "alpha_zephyra_wake": {
+      "file": "alpha_zephyra_wake.webp",
+      "width": 768,
+      "height": 432
+    },
+    "ult_gravelord": {
+      "file": "ult_gravelord.webp",
+      "width": 256,
+      "height": 16
+    },
+    "ult_grizzleroot": {
+      "file": "ult_grizzleroot.webp",
+      "width": 256,
+      "height": 16
+    },
+    "ult_marivelle": {
+      "file": "ult_marivelle.webp",
+      "width": 256,
+      "height": 16
+    },
+    "ult_nocturne": {
+      "file": "ult_nocturne.webp",
+      "width": 256,
+      "height": 16
+    },
+    "ult_solenne": {
+      "file": "ult_solenne.webp",
+      "width": 256,
+      "height": 32
+    },
+    "ult_voltyne": {
+      "file": "ult_voltyne.webp",
+      "width": 256,
+      "height": 16
+    },
+    "ult_vulcarn": {
+      "file": "ult_vulcarn.webp",
+      "width": 256,
+      "height": 16
+    },
+    "ult_zephyra": {
+      "file": "ult_zephyra.webp",
+      "width": 256,
+      "height": 16
+    },
+    "wake_meter_fill": {
+      "file": "wake_meter_fill.webp",
+      "width": 256,
+      "height": 48
+    },
+    "wake_meter_frame": {
+      "file": "wake_meter_frame.webp",
+      "width": 256,
+      "height": 48
+    },
+    "wake_meter_full_fx": {
+      "file": "wake_meter_full_fx.webp",
+      "width": 256,
+      "height": 43
+    },
+    "biome_ally_tint_ring": {
+      "file": "biome_ally_tint_ring.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_canyon_bg": {
+      "file": "biome_canyon_bg.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "biome_canyon_bg_portrait": {
+      "file": "biome_canyon_bg_portrait.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "biome_canyon_board": {
+      "file": "biome_canyon_board.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_canyon_icon": {
+      "file": "biome_canyon_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_canyon_particles": {
+      "file": "biome_canyon_particles.webp",
+      "width": 256,
+      "height": 32
+    },
+    "biome_effect_banner": {
+      "file": "biome_effect_banner.webp",
+      "width": 256,
+      "height": 64
+    },
+    "biome_enemy_tint_ring": {
+      "file": "biome_enemy_tint_ring.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_frost_hollow_bg": {
+      "file": "biome_frost_hollow_bg.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "biome_frost_hollow_bg_portrait": {
+      "file": "biome_frost_hollow_bg_portrait.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "biome_frost_hollow_board": {
+      "file": "biome_frost_hollow_board.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_frost_hollow_icon": {
+      "file": "biome_frost_hollow_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_frost_hollow_particles": {
+      "file": "biome_frost_hollow_particles.webp",
+      "width": 256,
+      "height": 32
+    },
+    "biome_meadow_bg": {
+      "file": "biome_meadow_bg.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "biome_meadow_bg_portrait": {
+      "file": "biome_meadow_bg_portrait.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "biome_meadow_board": {
+      "file": "biome_meadow_board.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_meadow_icon": {
+      "file": "biome_meadow_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_meadow_particles": {
+      "file": "biome_meadow_particles.webp",
+      "width": 256,
+      "height": 32
+    },
+    "biome_night_grove_bg": {
+      "file": "biome_night_grove_bg.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "biome_night_grove_bg_portrait": {
+      "file": "biome_night_grove_bg_portrait.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "biome_night_grove_board": {
+      "file": "biome_night_grove_board.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_night_grove_icon": {
+      "file": "biome_night_grove_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_night_grove_particles": {
+      "file": "biome_night_grove_particles.webp",
+      "width": 256,
+      "height": 32
+    },
+    "biome_old_forest_bg": {
+      "file": "biome_old_forest_bg.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "biome_old_forest_bg_portrait": {
+      "file": "biome_old_forest_bg_portrait.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "biome_old_forest_board": {
+      "file": "biome_old_forest_board.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_old_forest_icon": {
+      "file": "biome_old_forest_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_old_forest_particles": {
+      "file": "biome_old_forest_particles.webp",
+      "width": 256,
+      "height": 32
+    },
+    "biome_reef_bg": {
+      "file": "biome_reef_bg.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "biome_reef_bg_portrait": {
+      "file": "biome_reef_bg_portrait.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "biome_reef_board": {
+      "file": "biome_reef_board.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_reef_icon": {
+      "file": "biome_reef_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_reef_particles": {
+      "file": "biome_reef_particles.webp",
+      "width": 256,
+      "height": 32
+    },
+    "biome_storm_peak_bg": {
+      "file": "biome_storm_peak_bg.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "biome_storm_peak_bg_portrait": {
+      "file": "biome_storm_peak_bg_portrait.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "biome_storm_peak_board": {
+      "file": "biome_storm_peak_board.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_storm_peak_icon": {
+      "file": "biome_storm_peak_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_storm_peak_particles": {
+      "file": "biome_storm_peak_particles.webp",
+      "width": 256,
+      "height": 32
+    },
+    "biome_sun_beach_bg": {
+      "file": "biome_sun_beach_bg.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "biome_sun_beach_bg_portrait": {
+      "file": "biome_sun_beach_bg_portrait.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "biome_sun_beach_board": {
+      "file": "biome_sun_beach_board.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_sun_beach_icon": {
+      "file": "biome_sun_beach_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_sun_beach_particles": {
+      "file": "biome_sun_beach_particles.webp",
+      "width": 256,
+      "height": 32
+    },
+    "biome_volcano_bg": {
+      "file": "biome_volcano_bg.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "biome_volcano_bg_portrait": {
+      "file": "biome_volcano_bg_portrait.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "biome_volcano_board": {
+      "file": "biome_volcano_board.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_volcano_icon": {
+      "file": "biome_volcano_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "biome_volcano_particles": {
+      "file": "biome_volcano_particles.webp",
+      "width": 256,
+      "height": 32
+    },
+    "boss_bramble_queen": {
+      "file": "boss_bramble_queen.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_bramble_queen_caught": {
+      "file": "boss_bramble_queen_caught.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_bramble_queen_fx": {
+      "file": "boss_bramble_queen_fx.webp",
+      "width": 768,
+      "height": 48
+    },
+    "boss_bramble_queen_p2": {
+      "file": "boss_bramble_queen_p2.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_crystal_colossus": {
+      "file": "boss_crystal_colossus.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_crystal_colossus_caught": {
+      "file": "boss_crystal_colossus_caught.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_crystal_colossus_fx": {
+      "file": "boss_crystal_colossus_fx.webp",
+      "width": 768,
+      "height": 96
+    },
+    "boss_crystal_colossus_p2": {
+      "file": "boss_crystal_colossus_p2.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_emberwyrm": {
+      "file": "boss_emberwyrm.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_emberwyrm_caught": {
+      "file": "boss_emberwyrm_caught.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_emberwyrm_fx": {
+      "file": "boss_emberwyrm_fx.webp",
+      "width": 768,
+      "height": 48
+    },
+    "boss_emberwyrm_p2": {
+      "file": "boss_emberwyrm_p2.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_frostback_yeti": {
+      "file": "boss_frostback_yeti.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_frostback_yeti_caught": {
+      "file": "boss_frostback_yeti_caught.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_frostback_yeti_fx": {
+      "file": "boss_frostback_yeti_fx.webp",
+      "width": 768,
+      "height": 48
+    },
+    "boss_frostback_yeti_p2": {
+      "file": "boss_frostback_yeti_p2.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_galebeast": {
+      "file": "boss_galebeast.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_galebeast_caught": {
+      "file": "boss_galebeast_caught.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_galebeast_fx": {
+      "file": "boss_galebeast_fx.webp",
+      "width": 768,
+      "height": 48
+    },
+    "boss_galebeast_p2": {
+      "file": "boss_galebeast_p2.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_gloomhydra": {
+      "file": "boss_gloomhydra.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_gloomhydra_caught": {
+      "file": "boss_gloomhydra_caught.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_gloomhydra_fx": {
+      "file": "boss_gloomhydra_fx.webp",
+      "width": 768,
+      "height": 96
+    },
+    "boss_gloomhydra_p2": {
+      "file": "boss_gloomhydra_p2.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_hp_bar_frame": {
+      "file": "boss_hp_bar_frame.webp",
+      "width": 768,
+      "height": 107
+    },
+    "boss_intro_frame": {
+      "file": "boss_intro_frame.webp",
+      "width": 768,
+      "height": 427
+    },
+    "boss_lumenstag": {
+      "file": "boss_lumenstag.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_lumenstag_caught": {
+      "file": "boss_lumenstag_caught.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_lumenstag_fx": {
+      "file": "boss_lumenstag_fx.webp",
+      "width": 768,
+      "height": 96
+    },
+    "boss_lumenstag_p2": {
+      "file": "boss_lumenstag_p2.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_magmaw": {
+      "file": "boss_magmaw.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_magmaw_caught": {
+      "file": "boss_magmaw_caught.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_magmaw_fx": {
+      "file": "boss_magmaw_fx.webp",
+      "width": 768,
+      "height": 48
+    },
+    "boss_magmaw_p2": {
+      "file": "boss_magmaw_p2.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_mirage_fox": {
+      "file": "boss_mirage_fox.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_mirage_fox_caught": {
+      "file": "boss_mirage_fox_caught.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_mirage_fox_fx": {
+      "file": "boss_mirage_fox_fx.webp",
+      "width": 768,
+      "height": 96
+    },
+    "boss_mirage_fox_p2": {
+      "file": "boss_mirage_fox_p2.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_old_thornheart": {
+      "file": "boss_old_thornheart.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_old_thornheart_caught": {
+      "file": "boss_old_thornheart_caught.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_old_thornheart_fx": {
+      "file": "boss_old_thornheart_fx.webp",
+      "width": 768,
+      "height": 96
+    },
+    "boss_old_thornheart_p2": {
+      "file": "boss_old_thornheart_p2.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_pebble_king": {
+      "file": "boss_pebble_king.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_pebble_king_caught": {
+      "file": "boss_pebble_king_caught.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_pebble_king_fx": {
+      "file": "boss_pebble_king_fx.webp",
+      "width": 768,
+      "height": 48
+    },
+    "boss_pebble_king_p2": {
+      "file": "boss_pebble_king_p2.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_phase_fx": {
+      "file": "boss_phase_fx.webp",
+      "width": 768,
+      "height": 96
+    },
+    "boss_stormcrown": {
+      "file": "boss_stormcrown.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_stormcrown_caught": {
+      "file": "boss_stormcrown_caught.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_stormcrown_fx": {
+      "file": "boss_stormcrown_fx.webp",
+      "width": 768,
+      "height": 96
+    },
+    "boss_stormcrown_p2": {
+      "file": "boss_stormcrown_p2.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_sunscale_dragon": {
+      "file": "boss_sunscale_dragon.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_sunscale_dragon_caught": {
+      "file": "boss_sunscale_dragon_caught.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_sunscale_dragon_fx": {
+      "file": "boss_sunscale_dragon_fx.webp",
+      "width": 768,
+      "height": 96
+    },
+    "boss_sunscale_dragon_p2": {
+      "file": "boss_sunscale_dragon_p2.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_tidewhisker": {
+      "file": "boss_tidewhisker.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_tidewhisker_caught": {
+      "file": "boss_tidewhisker_caught.webp",
+      "width": 768,
+      "height": 768
+    },
+    "boss_tidewhisker_fx": {
+      "file": "boss_tidewhisker_fx.webp",
+      "width": 768,
+      "height": 48
+    },
+    "boss_tidewhisker_p2": {
+      "file": "boss_tidewhisker_p2.webp",
+      "width": 768,
+      "height": 768
+    },
+    "catch_basket": {
+      "file": "catch_basket.webp",
+      "width": 256,
+      "height": 256
+    },
+    "catch_fx": {
+      "file": "catch_fx.webp",
+      "width": 256,
+      "height": 26
+    },
+    "catch_screen_bg": {
+      "file": "catch_screen_bg.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "prop_crystal_shield": {
+      "file": "prop_crystal_shield.webp",
+      "width": 256,
+      "height": 256
+    },
+    "prop_lava_pool": {
+      "file": "prop_lava_pool.webp",
+      "width": 256,
+      "height": 256
+    },
+    "summon_mirage_clone": {
+      "file": "summon_mirage_clone.webp",
+      "width": 256,
+      "height": 256
+    },
+    "summon_pebble": {
+      "file": "summon_pebble.webp",
+      "width": 256,
+      "height": 256
+    },
+    "summon_thorn_spiderling": {
+      "file": "summon_thorn_spiderling.webp",
+      "width": 256,
+      "height": 256
+    },
+    "app_icon": {
+      "file": "app_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "key_art_landscape": {
+      "file": "key_art_landscape.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "key_art_portrait": {
+      "file": "key_art_portrait.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "loading_01": {
+      "file": "loading_01.webp",
+      "width": 144,
+      "height": 256
+    },
+    "loading_02": {
+      "file": "loading_02.webp",
+      "width": 144,
+      "height": 256
+    },
+    "loading_03": {
+      "file": "loading_03.webp",
+      "width": 144,
+      "height": 256
+    },
+    "loading_04": {
+      "file": "loading_04.webp",
+      "width": 144,
+      "height": 256
+    },
+    "logo_emblem": {
+      "file": "logo_emblem.webp",
+      "width": 256,
+      "height": 256
+    },
+    "logo_plate": {
+      "file": "logo_plate.webp",
+      "width": 256,
+      "height": 128
+    },
+    "trailer_catch": {
+      "file": "trailer_catch.webp",
+      "width": 256,
+      "height": 144
+    },
+    "trailer_steal": {
+      "file": "trailer_steal.webp",
+      "width": 256,
+      "height": 144
+    },
+    "trailer_wake": {
+      "file": "trailer_wake.webp",
+      "width": 256,
+      "height": 144
+    },
+    "combo_book_cover": {
+      "file": "combo_book_cover.webp",
+      "width": 205,
+      "height": 256
+    },
+    "combo_book_page": {
+      "file": "combo_book_page.webp",
+      "width": 205,
+      "height": 256
+    },
+    "combo_chain_lightning": {
+      "file": "combo_chain_lightning.webp",
+      "width": 256,
+      "height": 256
+    },
+    "combo_chain_lightning_link": {
+      "file": "combo_chain_lightning_link.webp",
+      "width": 256,
+      "height": 16
+    },
+    "combo_eclipse": {
+      "file": "combo_eclipse.webp",
+      "width": 256,
+      "height": 256
+    },
+    "combo_eclipse_link": {
+      "file": "combo_eclipse_link.webp",
+      "width": 256,
+      "height": 16
+    },
+    "combo_found_fx": {
+      "file": "combo_found_fx.webp",
+      "width": 256,
+      "height": 32
+    },
+    "combo_hint_glow": {
+      "file": "combo_hint_glow.webp",
+      "width": 256,
+      "height": 64
+    },
+    "combo_lantern_path": {
+      "file": "combo_lantern_path.webp",
+      "width": 256,
+      "height": 256
+    },
+    "combo_lantern_path_link": {
+      "file": "combo_lantern_path_link.webp",
+      "width": 256,
+      "height": 16
+    },
+    "combo_lullaby_duet": {
+      "file": "combo_lullaby_duet.webp",
+      "width": 256,
+      "height": 256
+    },
+    "combo_lullaby_duet_link": {
+      "file": "combo_lullaby_duet_link.webp",
+      "width": 256,
+      "height": 16
+    },
+    "combo_pack_hunt": {
+      "file": "combo_pack_hunt.webp",
+      "width": 256,
+      "height": 256
+    },
+    "combo_pack_hunt_link": {
+      "file": "combo_pack_hunt_link.webp",
+      "width": 256,
+      "height": 16
+    },
+    "combo_regrowth": {
+      "file": "combo_regrowth.webp",
+      "width": 256,
+      "height": 256
+    },
+    "combo_regrowth_link": {
+      "file": "combo_regrowth_link.webp",
+      "width": 256,
+      "height": 16
+    },
+    "combo_rockslide": {
+      "file": "combo_rockslide.webp",
+      "width": 256,
+      "height": 256
+    },
+    "combo_rockslide_link": {
+      "file": "combo_rockslide_link.webp",
+      "width": 256,
+      "height": 16
+    },
+    "combo_static_wind": {
+      "file": "combo_static_wind.webp",
+      "width": 256,
+      "height": 256
+    },
+    "combo_static_wind_link": {
+      "file": "combo_static_wind_link.webp",
+      "width": 256,
+      "height": 16
+    },
+    "combo_steam": {
+      "file": "combo_steam.webp",
+      "width": 256,
+      "height": 256
+    },
+    "combo_steam_link": {
+      "file": "combo_steam_link.webp",
+      "width": 256,
+      "height": 16
+    },
+    "combo_tidepool": {
+      "file": "combo_tidepool.webp",
+      "width": 256,
+      "height": 256
+    },
+    "combo_tidepool_link": {
+      "file": "combo_tidepool_link.webp",
+      "width": 256,
+      "height": 16
+    },
+    "combo_updraft": {
+      "file": "combo_updraft.webp",
+      "width": 256,
+      "height": 256
+    },
+    "combo_updraft_link": {
+      "file": "combo_updraft_link.webp",
+      "width": 256,
+      "height": 16
+    },
+    "combo_wildfire": {
+      "file": "combo_wildfire.webp",
+      "width": 256,
+      "height": 256
+    },
+    "combo_wildfire_link": {
+      "file": "combo_wildfire_link.webp",
+      "width": 256,
+      "height": 16
+    },
+    "board_skin_ember": {
+      "file": "board_skin_ember.webp",
+      "width": 256,
+      "height": 256
+    },
+    "board_skin_glow": {
+      "file": "board_skin_glow.webp",
+      "width": 256,
+      "height": 256
+    },
+    "board_skin_gust": {
+      "file": "board_skin_gust.webp",
+      "width": 256,
+      "height": 256
+    },
+    "board_skin_leaf": {
+      "file": "board_skin_leaf.webp",
+      "width": 256,
+      "height": 256
+    },
+    "board_skin_shade": {
+      "file": "board_skin_shade.webp",
+      "width": 256,
+      "height": 256
+    },
+    "board_skin_spark": {
+      "file": "board_skin_spark.webp",
+      "width": 256,
+      "height": 256
+    },
+    "board_skin_stone": {
+      "file": "board_skin_stone.webp",
+      "width": 256,
+      "height": 256
+    },
+    "board_skin_tide": {
+      "file": "board_skin_tide.webp",
+      "width": 256,
+      "height": 256
+    },
+    "emote_01": {
+      "file": "emote_01.webp",
+      "width": 256,
+      "height": 256
+    },
+    "emote_02": {
+      "file": "emote_02.webp",
+      "width": 256,
+      "height": 256
+    },
+    "emote_03": {
+      "file": "emote_03.webp",
+      "width": 256,
+      "height": 256
+    },
+    "emote_04": {
+      "file": "emote_04.webp",
+      "width": 256,
+      "height": 256
+    },
+    "emote_05": {
+      "file": "emote_05.webp",
+      "width": 256,
+      "height": 256
+    },
+    "emote_06": {
+      "file": "emote_06.webp",
+      "width": 256,
+      "height": 256
+    },
+    "emote_07": {
+      "file": "emote_07.webp",
+      "width": 256,
+      "height": 256
+    },
+    "emote_08": {
+      "file": "emote_08.webp",
+      "width": 256,
+      "height": 256
+    },
+    "emote_09": {
+      "file": "emote_09.webp",
+      "width": 256,
+      "height": 256
+    },
+    "emote_10": {
+      "file": "emote_10.webp",
+      "width": 256,
+      "height": 256
+    },
+    "emote_11": {
+      "file": "emote_11.webp",
+      "width": 256,
+      "height": 256
+    },
+    "emote_12": {
+      "file": "emote_12.webp",
+      "width": 256,
+      "height": 256
+    },
+    "season_pass_header": {
+      "file": "season_pass_header.webp",
+      "width": 256,
+      "height": 114
+    },
+    "season_pass_track": {
+      "file": "season_pass_track.webp",
+      "width": 256,
+      "height": 48
+    },
+    "skin_preview_pedestal": {
+      "file": "skin_preview_pedestal.webp",
+      "width": 256,
+      "height": 256
+    },
+    "store_bundle_frame": {
+      "file": "store_bundle_frame.webp",
+      "width": 192,
+      "height": 256
+    },
+    "den_coin": {
+      "file": "den_coin.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    "den_coin_icon": {
+      "file": "den_coin_icon.webp",
+      "width": 512,
+      "height": 512
+    },
+    "den_coin_stack": {
+      "file": "den_coin_stack.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    "gem_amethyst": {
+      "file": "gem_amethyst.webp",
+      "width": 256,
+      "height": 256
+    },
+    "gem_emerald": {
+      "file": "gem_emerald.webp",
+      "width": 256,
+      "height": 256
+    },
+    "gem_icon": {
+      "file": "gem_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "gem_moonstone": {
+      "file": "gem_moonstone.webp",
+      "width": 256,
+      "height": 256
+    },
+    "gem_ruby": {
+      "file": "gem_ruby.webp",
+      "width": 256,
+      "height": 256
+    },
+    "gem_sapphire": {
+      "file": "gem_sapphire.webp",
+      "width": 256,
+      "height": 256
+    },
+    "gem_topaz": {
+      "file": "gem_topaz.webp",
+      "width": 256,
+      "height": 256
+    },
+    "glowstone": {
+      "file": "glowstone.webp",
+      "width": 256,
+      "height": 256
+    },
+    "glowstone_chest": {
+      "file": "glowstone_chest.webp",
+      "width": 256,
+      "height": 256
+    },
+    "glowstone_few": {
+      "file": "glowstone_few.webp",
+      "width": 256,
+      "height": 256
+    },
+    "glowstone_icon": {
+      "file": "glowstone_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "glowstone_pile": {
+      "file": "glowstone_pile.webp",
+      "width": 256,
+      "height": 256
+    },
+    "glowstone_pouch": {
+      "file": "glowstone_pouch.webp",
+      "width": 256,
+      "height": 256
+    },
+    "moon_dust": {
+      "file": "moon_dust.webp",
+      "width": 256,
+      "height": 256
+    },
+    "moon_dust_icon": {
+      "file": "moon_dust_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "skill_seed": {
+      "file": "skill_seed.webp",
+      "width": 256,
+      "height": 256
+    },
+    "skill_seed_icon": {
+      "file": "skill_seed_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "sparks": {
+      "file": "sparks.webp",
+      "width": 256,
+      "height": 256
+    },
+    "sparks_bundle_1": {
+      "file": "sparks_bundle_1.webp",
+      "width": 256,
+      "height": 256
+    },
+    "sparks_bundle_2": {
+      "file": "sparks_bundle_2.webp",
+      "width": 256,
+      "height": 256
+    },
+    "sparks_bundle_3": {
+      "file": "sparks_bundle_3.webp",
+      "width": 256,
+      "height": 256
+    },
+    "sparks_bundle_4": {
+      "file": "sparks_bundle_4.webp",
+      "width": 256,
+      "height": 256
+    },
+    "sparks_icon": {
+      "file": "sparks_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "acc_acorn_cap": {
+      "file": "acc_acorn_cap.webp",
+      "width": 256,
+      "height": 256
+    },
+    "acc_bandit_mask": {
+      "file": "acc_bandit_mask.webp",
+      "width": 256,
+      "height": 256
+    },
+    "acc_bell_collar": {
+      "file": "acc_bell_collar.webp",
+      "width": 256,
+      "height": 256
+    },
+    "acc_bow_ribbon": {
+      "file": "acc_bow_ribbon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "acc_explorer_hat": {
+      "file": "acc_explorer_hat.webp",
+      "width": 256,
+      "height": 256
+    },
+    "acc_flower_crown": {
+      "file": "acc_flower_crown.webp",
+      "width": 256,
+      "height": 256
+    },
+    "acc_flower_on_head": {
+      "file": "acc_flower_on_head.webp",
+      "width": 256,
+      "height": 256
+    },
+    "acc_leaf_hat": {
+      "file": "acc_leaf_hat.webp",
+      "width": 256,
+      "height": 256
+    },
+    "acc_nightcap": {
+      "file": "acc_nightcap.webp",
+      "width": 256,
+      "height": 256
+    },
+    "acc_party_hat": {
+      "file": "acc_party_hat.webp",
+      "width": 256,
+      "height": 256
+    },
+    "acc_round_glasses": {
+      "file": "acc_round_glasses.webp",
+      "width": 256,
+      "height": 256
+    },
+    "acc_tiny_scarf": {
+      "file": "acc_tiny_scarf.webp",
+      "width": 256,
+      "height": 256
+    },
+    "bond_heart_1": {
+      "file": "bond_heart_1.webp",
+      "width": 256,
+      "height": 256
+    },
+    "bond_heart_10": {
+      "file": "bond_heart_10.webp",
+      "width": 256,
+      "height": 256
+    },
+    "bond_heart_2": {
+      "file": "bond_heart_2.webp",
+      "width": 256,
+      "height": 256
+    },
+    "bond_heart_3": {
+      "file": "bond_heart_3.webp",
+      "width": 256,
+      "height": 256
+    },
+    "bond_heart_4": {
+      "file": "bond_heart_4.webp",
+      "width": 256,
+      "height": 256
+    },
+    "bond_heart_5": {
+      "file": "bond_heart_5.webp",
+      "width": 256,
+      "height": 256
+    },
+    "bond_heart_6": {
+      "file": "bond_heart_6.webp",
+      "width": 256,
+      "height": 256
+    },
+    "bond_heart_7": {
+      "file": "bond_heart_7.webp",
+      "width": 256,
+      "height": 256
+    },
+    "bond_heart_8": {
+      "file": "bond_heart_8.webp",
+      "width": 256,
+      "height": 256
+    },
+    "bond_heart_9": {
+      "file": "bond_heart_9.webp",
+      "width": 256,
+      "height": 256
+    },
+    "bubble_bond_up": {
+      "file": "bubble_bond_up.webp",
+      "width": 256,
+      "height": 256
+    },
+    "bubble_gift": {
+      "file": "bubble_gift.webp",
+      "width": 256,
+      "height": 256
+    },
+    "bubble_happy": {
+      "file": "bubble_happy.webp",
+      "width": 256,
+      "height": 256
+    },
+    "bubble_hungry": {
+      "file": "bubble_hungry.webp",
+      "width": 256,
+      "height": 256
+    },
+    "bubble_sleepy": {
+      "file": "bubble_sleepy.webp",
+      "width": 256,
+      "height": 256
+    },
+    "bubble_working": {
+      "file": "bubble_working.webp",
+      "width": 256,
+      "height": 256
+    },
+    "den_burrow": {
+      "file": "den_burrow.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "den_burrow_portrait": {
+      "file": "den_burrow_portrait.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "den_hillside_village": {
+      "file": "den_hillside_village.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "den_hillside_village_portrait": {
+      "file": "den_hillside_village_portrait.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "den_hollow": {
+      "file": "den_hollow.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "den_hollow_portrait": {
+      "file": "den_hollow_portrait.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "den_report_scroll": {
+      "file": "den_report_scroll.webp",
+      "width": 1024,
+      "height": 1600
+    },
+    "den_sky_day": {
+      "file": "den_sky_day.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "den_sky_day_portrait": {
+      "file": "den_sky_day_portrait.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "den_sky_dusk": {
+      "file": "den_sky_dusk.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "den_sky_dusk_portrait": {
+      "file": "den_sky_dusk_portrait.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "den_sky_night": {
+      "file": "den_sky_night.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "den_sky_night_portrait": {
+      "file": "den_sky_night_portrait.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "den_warren": {
+      "file": "den_warren.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "den_warren_portrait": {
+      "file": "den_warren_portrait.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "furn_acorn_lamp": {
+      "file": "furn_acorn_lamp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_beanbag": {
+      "file": "furn_beanbag.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_bird_bath": {
+      "file": "furn_bird_bath.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_bookshelf": {
+      "file": "furn_bookshelf.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_campfire": {
+      "file": "furn_campfire.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_fairy_lights": {
+      "file": "furn_fairy_lights.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_flower_pot": {
+      "file": "furn_flower_pot.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_glowstone_lantern": {
+      "file": "furn_glowstone_lantern.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_kith_statue": {
+      "file": "furn_kith_statue.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_leaf_hammock": {
+      "file": "furn_leaf_hammock.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_log_bench": {
+      "file": "furn_log_bench.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_moss_bed": {
+      "file": "furn_moss_bed.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_mushroom_stool": {
+      "file": "furn_mushroom_stool.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_painting_easel": {
+      "file": "furn_painting_easel.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_picnic_blanket": {
+      "file": "furn_picnic_blanket.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_pond_fountain": {
+      "file": "furn_pond_fountain.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_round_rug": {
+      "file": "furn_round_rug.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_scarecrow": {
+      "file": "furn_scarecrow.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_snow_globe": {
+      "file": "furn_snow_globe.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_swing": {
+      "file": "furn_swing.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_tea_table": {
+      "file": "furn_tea_table.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_toy_chest": {
+      "file": "furn_toy_chest.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_trophy_shelf": {
+      "file": "furn_trophy_shelf.webp",
+      "width": 256,
+      "height": 256
+    },
+    "furn_wind_chime": {
+      "file": "furn_wind_chime.webp",
+      "width": 256,
+      "height": 256
+    },
+    "gift_box": {
+      "file": "gift_box.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_place_build_spot": {
+      "file": "icon_place_build_spot.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_place_grove": {
+      "file": "icon_place_grove.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_place_hot_springs": {
+      "file": "icon_place_hot_springs.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_place_kitchen": {
+      "file": "icon_place_kitchen.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_place_lookout": {
+      "file": "icon_place_lookout.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_place_mailbox": {
+      "file": "icon_place_mailbox.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_place_market": {
+      "file": "icon_place_market.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_place_mine": {
+      "file": "icon_place_mine.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_place_nest": {
+      "file": "icon_place_nest.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_place_night_garden": {
+      "file": "icon_place_night_garden.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_place_race_track": {
+      "file": "icon_place_race_track.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_place_stage": {
+      "file": "icon_place_stage.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_place_workshop": {
+      "file": "icon_place_workshop.webp",
+      "width": 256,
+      "height": 256
+    },
+    "job_card_frame": {
+      "file": "job_card_frame.webp",
+      "width": 256,
+      "height": 128
+    },
+    "job_progress_fill": {
+      "file": "job_progress_fill.webp",
+      "width": 256,
+      "height": 32
+    },
+    "personality_brave": {
+      "file": "personality_brave.webp",
+      "width": 256,
+      "height": 256
+    },
+    "personality_curious": {
+      "file": "personality_curious.webp",
+      "width": 256,
+      "height": 256
+    },
+    "personality_greedy": {
+      "file": "personality_greedy.webp",
+      "width": 256,
+      "height": 256
+    },
+    "personality_hard_working": {
+      "file": "personality_hard_working.webp",
+      "width": 256,
+      "height": 256
+    },
+    "personality_lazy": {
+      "file": "personality_lazy.webp",
+      "width": 256,
+      "height": 256
+    },
+    "personality_show_off": {
+      "file": "personality_show_off.webp",
+      "width": 256,
+      "height": 256
+    },
+    "personality_shy": {
+      "file": "personality_shy.webp",
+      "width": 256,
+      "height": 256
+    },
+    "personality_sleepy": {
+      "file": "personality_sleepy.webp",
+      "width": 256,
+      "height": 256
+    },
+    "place_build_spot": {
+      "file": "place_build_spot.webp",
+      "width": 256,
+      "height": 256
+    },
+    "place_grove": {
+      "file": "place_grove.webp",
+      "width": 256,
+      "height": 256
+    },
+    "place_hot_springs": {
+      "file": "place_hot_springs.webp",
+      "width": 256,
+      "height": 256
+    },
+    "place_kitchen": {
+      "file": "place_kitchen.webp",
+      "width": 256,
+      "height": 256
+    },
+    "place_lookout": {
+      "file": "place_lookout.webp",
+      "width": 256,
+      "height": 256
+    },
+    "place_mailbox": {
+      "file": "place_mailbox.webp",
+      "width": 256,
+      "height": 256
+    },
+    "place_market": {
+      "file": "place_market.webp",
+      "width": 256,
+      "height": 256
+    },
+    "place_mine": {
+      "file": "place_mine.webp",
+      "width": 256,
+      "height": 256
+    },
+    "place_nest": {
+      "file": "place_nest.webp",
+      "width": 256,
+      "height": 256
+    },
+    "place_night_garden": {
+      "file": "place_night_garden.webp",
+      "width": 256,
+      "height": 256
+    },
+    "place_night_garden_closed": {
+      "file": "place_night_garden_closed.webp",
+      "width": 256,
+      "height": 256
+    },
+    "place_race_track": {
+      "file": "place_race_track.webp",
+      "width": 256,
+      "height": 256
+    },
+    "place_stage": {
+      "file": "place_stage.webp",
+      "width": 256,
+      "height": 256
+    },
+    "place_upgrade_fx": {
+      "file": "place_upgrade_fx.webp",
+      "width": 256,
+      "height": 26
+    },
+    "place_workshop": {
+      "file": "place_workshop.webp",
+      "width": 256,
+      "height": 256
+    },
+    "visit_friend_door": {
+      "file": "visit_friend_door.webp",
+      "width": 256,
+      "height": 256
+    },
+    "egg_ember": {
+      "file": "egg_ember.webp",
+      "width": 256,
+      "height": 256
+    },
+    "egg_event_summer": {
+      "file": "egg_event_summer.webp",
+      "width": 256,
+      "height": 256
+    },
+    "egg_event_winter": {
+      "file": "egg_event_winter.webp",
+      "width": 256,
+      "height": 256
+    },
+    "egg_glow": {
+      "file": "egg_glow.webp",
+      "width": 256,
+      "height": 256
+    },
+    "egg_gust": {
+      "file": "egg_gust.webp",
+      "width": 256,
+      "height": 256
+    },
+    "egg_leaf": {
+      "file": "egg_leaf.webp",
+      "width": 256,
+      "height": 256
+    },
+    "egg_nest": {
+      "file": "egg_nest.webp",
+      "width": 256,
+      "height": 256
+    },
+    "egg_rare": {
+      "file": "egg_rare.webp",
+      "width": 256,
+      "height": 256
+    },
+    "egg_shade": {
+      "file": "egg_shade.webp",
+      "width": 256,
+      "height": 256
+    },
+    "egg_spark": {
+      "file": "egg_spark.webp",
+      "width": 256,
+      "height": 256
+    },
+    "egg_stone": {
+      "file": "egg_stone.webp",
+      "width": 256,
+      "height": 256
+    },
+    "egg_tide": {
+      "file": "egg_tide.webp",
+      "width": 256,
+      "height": 256
+    },
+    "expedition_boat": {
+      "file": "expedition_boat.webp",
+      "width": 256,
+      "height": 256
+    },
+    "expedition_log": {
+      "file": "expedition_log.webp",
+      "width": 164,
+      "height": 256
+    },
+    "expedition_return_fx": {
+      "file": "expedition_return_fx.webp",
+      "width": 256,
+      "height": 32
+    },
+    "expedition_team_frame": {
+      "file": "expedition_team_frame.webp",
+      "width": 256,
+      "height": 114
+    },
+    "expedition_timer_compass": {
+      "file": "expedition_timer_compass.webp",
+      "width": 256,
+      "height": 256
+    },
+    "island_cloud_spire": {
+      "file": "island_cloud_spire.webp",
+      "width": 256,
+      "height": 256
+    },
+    "island_ember_peak": {
+      "file": "island_ember_peak.webp",
+      "width": 256,
+      "height": 256
+    },
+    "island_meadow_isle": {
+      "file": "island_meadow_isle.webp",
+      "width": 256,
+      "height": 256
+    },
+    "island_moonlit_marsh": {
+      "file": "island_moonlit_marsh.webp",
+      "width": 256,
+      "height": 256
+    },
+    "island_sunken_ruins": {
+      "file": "island_sunken_ruins.webp",
+      "width": 256,
+      "height": 256
+    },
+    "island_thunder_cliffs": {
+      "file": "island_thunder_cliffs.webp",
+      "width": 256,
+      "height": 256
+    },
+    "island_underwater_caves": {
+      "file": "island_underwater_caves.webp",
+      "width": 256,
+      "height": 256
+    },
+    "island_whispering_woods": {
+      "file": "island_whispering_woods.webp",
+      "width": 256,
+      "height": 256
+    },
+    "map_hollowmere": {
+      "file": "map_hollowmere.webp",
+      "width": 256,
+      "height": 256
+    },
+    "map_pin": {
+      "file": "map_pin.webp",
+      "width": 256,
+      "height": 256
+    },
+    "map_pin_active": {
+      "file": "map_pin_active.webp",
+      "width": 256,
+      "height": 256
+    },
+    "fish_bluegill": {
+      "file": "fish_bluegill.webp",
+      "width": 256,
+      "height": 256
+    },
+    "fish_carp": {
+      "file": "fish_carp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "fish_catfish": {
+      "file": "fish_catfish.webp",
+      "width": 256,
+      "height": 256
+    },
+    "fish_golden_koi": {
+      "file": "fish_golden_koi.webp",
+      "width": 256,
+      "height": 256
+    },
+    "fish_lanternfish": {
+      "file": "fish_lanternfish.webp",
+      "width": 256,
+      "height": 256
+    },
+    "fish_minnow": {
+      "file": "fish_minnow.webp",
+      "width": 256,
+      "height": 256
+    },
+    "fish_old_boot": {
+      "file": "fish_old_boot.webp",
+      "width": 256,
+      "height": 256
+    },
+    "fish_pufferfish": {
+      "file": "fish_pufferfish.webp",
+      "width": 256,
+      "height": 256
+    },
+    "fish_rainbow": {
+      "file": "fish_rainbow.webp",
+      "width": 256,
+      "height": 256
+    },
+    "fish_trout": {
+      "file": "fish_trout.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_berry": {
+      "file": "item_berry.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_berry_icon": {
+      "file": "item_berry_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_ember_charm": {
+      "file": "item_ember_charm.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_ember_charm_icon": {
+      "file": "item_ember_charm_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_feather_cloak": {
+      "file": "item_feather_cloak.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_feather_cloak_icon": {
+      "file": "item_feather_cloak_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_glow_charm": {
+      "file": "item_glow_charm.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_glow_charm_icon": {
+      "file": "item_glow_charm_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_golden_berry": {
+      "file": "item_golden_berry.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_golden_berry_icon": {
+      "file": "item_golden_berry_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_gust_charm": {
+      "file": "item_gust_charm.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_gust_charm_icon": {
+      "file": "item_gust_charm_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_honeycomb": {
+      "file": "item_honeycomb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_honeycomb_icon": {
+      "file": "item_honeycomb_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_leaf_charm": {
+      "file": "item_leaf_charm.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_leaf_charm_icon": {
+      "file": "item_leaf_charm_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_moon_pebble": {
+      "file": "item_moon_pebble.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_moon_pebble_icon": {
+      "file": "item_moon_pebble_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_slot_empty": {
+      "file": "item_slot_empty.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_snail_shell": {
+      "file": "item_snail_shell.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_snail_shell_icon": {
+      "file": "item_snail_shell_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_spark_charm": {
+      "file": "item_spark_charm.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_spark_charm_icon": {
+      "file": "item_spark_charm_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_sticky_sap": {
+      "file": "item_sticky_sap.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_sticky_sap_icon": {
+      "file": "item_sticky_sap_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_stone_charm": {
+      "file": "item_stone_charm.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_stone_charm_icon": {
+      "file": "item_stone_charm_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_thunder_acorn": {
+      "file": "item_thunder_acorn.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_thunder_acorn_icon": {
+      "file": "item_thunder_acorn_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_tide_charm": {
+      "file": "item_tide_charm.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_tide_charm_icon": {
+      "file": "item_tide_charm_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_twin_seed": {
+      "file": "item_twin_seed.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_twin_seed_icon": {
+      "file": "item_twin_seed_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_wake_bell": {
+      "file": "item_wake_bell.webp",
+      "width": 256,
+      "height": 256
+    },
+    "item_wake_bell_icon": {
+      "file": "item_wake_bell_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "meal_berry_pie": {
+      "file": "meal_berry_pie.webp",
+      "width": 256,
+      "height": 256
+    },
+    "meal_fish_stew": {
+      "file": "meal_fish_stew.webp",
+      "width": 256,
+      "height": 256
+    },
+    "meal_honey_toast": {
+      "file": "meal_honey_toast.webp",
+      "width": 256,
+      "height": 256
+    },
+    "meal_moon_cake": {
+      "file": "meal_moon_cake.webp",
+      "width": 256,
+      "height": 256
+    },
+    "meal_mushroom_soup": {
+      "file": "meal_mushroom_soup.webp",
+      "width": 256,
+      "height": 256
+    },
+    "meal_spicy_curry": {
+      "file": "meal_spicy_curry.webp",
+      "width": 256,
+      "height": 256
+    },
+    "meal_sweet_dumplings": {
+      "file": "meal_sweet_dumplings.webp",
+      "width": 256,
+      "height": 256
+    },
+    "meal_veggie_skewer": {
+      "file": "meal_veggie_skewer.webp",
+      "width": 256,
+      "height": 256
+    },
+    "dig_cold": {
+      "file": "dig_cold.webp",
+      "width": 256,
+      "height": 256
+    },
+    "dig_fossil_pieces": {
+      "file": "dig_fossil_pieces.webp",
+      "width": 256,
+      "height": 256
+    },
+    "dig_hot": {
+      "file": "dig_hot.webp",
+      "width": 256,
+      "height": 256
+    },
+    "dig_shovel_cursor": {
+      "file": "dig_shovel_cursor.webp",
+      "width": 256,
+      "height": 256
+    },
+    "dig_tile_dug": {
+      "file": "dig_tile_dug.webp",
+      "width": 256,
+      "height": 256
+    },
+    "dig_tile_rock": {
+      "file": "dig_tile_rock.webp",
+      "width": 256,
+      "height": 256
+    },
+    "dig_tile_soil": {
+      "file": "dig_tile_soil.webp",
+      "width": 256,
+      "height": 256
+    },
+    "fish_catch_splash": {
+      "file": "fish_catch_splash.webp",
+      "width": 256,
+      "height": 32
+    },
+    "fish_float": {
+      "file": "fish_float.webp",
+      "width": 256,
+      "height": 256
+    },
+    "fish_float_dip": {
+      "file": "fish_float_dip.webp",
+      "width": 256,
+      "height": 256
+    },
+    "fish_pond_bg": {
+      "file": "fish_pond_bg.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "fish_rod": {
+      "file": "fish_rod.webp",
+      "width": 256,
+      "height": 256
+    },
+    "fish_timing_bar": {
+      "file": "fish_timing_bar.webp",
+      "width": 256,
+      "height": 48
+    },
+    "hide_found_fx": {
+      "file": "hide_found_fx.webp",
+      "width": 256,
+      "height": 43
+    },
+    "hide_magnifier": {
+      "file": "hide_magnifier.webp",
+      "width": 256,
+      "height": 256
+    },
+    "hide_scene_bg": {
+      "file": "hide_scene_bg.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "hide_timer": {
+      "file": "hide_timer.webp",
+      "width": 256,
+      "height": 256
+    },
+    "race_boost_button": {
+      "file": "race_boost_button.webp",
+      "width": 256,
+      "height": 256
+    },
+    "race_finish_flag": {
+      "file": "race_finish_flag.webp",
+      "width": 256,
+      "height": 256
+    },
+    "race_obstacle_hay": {
+      "file": "race_obstacle_hay.webp",
+      "width": 256,
+      "height": 256
+    },
+    "race_obstacle_hurdle": {
+      "file": "race_obstacle_hurdle.webp",
+      "width": 256,
+      "height": 256
+    },
+    "race_obstacle_log": {
+      "file": "race_obstacle_log.webp",
+      "width": 256,
+      "height": 256
+    },
+    "race_obstacle_mud": {
+      "file": "race_obstacle_mud.webp",
+      "width": 256,
+      "height": 256
+    },
+    "race_obstacle_puddle": {
+      "file": "race_obstacle_puddle.webp",
+      "width": 256,
+      "height": 256
+    },
+    "race_obstacle_rock": {
+      "file": "race_obstacle_rock.webp",
+      "width": 256,
+      "height": 256
+    },
+    "race_podium": {
+      "file": "race_podium.webp",
+      "width": 256,
+      "height": 256
+    },
+    "race_start_gate": {
+      "file": "race_start_gate.webp",
+      "width": 256,
+      "height": 256
+    },
+    "race_track_curve": {
+      "file": "race_track_curve.webp",
+      "width": 256,
+      "height": 256
+    },
+    "race_track_jump": {
+      "file": "race_track_jump.webp",
+      "width": 256,
+      "height": 256
+    },
+    "race_track_straight": {
+      "file": "race_track_straight.webp",
+      "width": 256,
+      "height": 256
+    },
+    "race_train_jump": {
+      "file": "race_train_jump.webp",
+      "width": 256,
+      "height": 256
+    },
+    "race_train_speed": {
+      "file": "race_train_speed.webp",
+      "width": 256,
+      "height": 256
+    },
+    "race_train_stamina": {
+      "file": "race_train_stamina.webp",
+      "width": 256,
+      "height": 256
+    },
+    "talent_crowd_cheer": {
+      "file": "talent_crowd_cheer.webp",
+      "width": 256,
+      "height": 43
+    },
+    "talent_hit_good": {
+      "file": "talent_hit_good.webp",
+      "width": 256,
+      "height": 43
+    },
+    "talent_hit_miss": {
+      "file": "talent_hit_miss.webp",
+      "width": 256,
+      "height": 43
+    },
+    "talent_hit_perfect": {
+      "file": "talent_hit_perfect.webp",
+      "width": 256,
+      "height": 43
+    },
+    "talent_lane": {
+      "file": "talent_lane.webp",
+      "width": 48,
+      "height": 256
+    },
+    "talent_note_1": {
+      "file": "talent_note_1.webp",
+      "width": 256,
+      "height": 256
+    },
+    "talent_note_2": {
+      "file": "talent_note_2.webp",
+      "width": 256,
+      "height": 256
+    },
+    "talent_note_3": {
+      "file": "talent_note_3.webp",
+      "width": 256,
+      "height": 256
+    },
+    "talent_note_4": {
+      "file": "talent_note_4.webp",
+      "width": 256,
+      "height": 256
+    },
+    "talent_spotlight": {
+      "file": "talent_spotlight.webp",
+      "width": 256,
+      "height": 64
+    },
+    "talent_stage_bg": {
+      "file": "talent_stage_bg.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "keeper_avatar_1": {
+      "file": "keeper_avatar_1.webp",
+      "width": 256,
+      "height": 256
+    },
+    "keeper_avatar_2": {
+      "file": "keeper_avatar_2.webp",
+      "width": 256,
+      "height": 256
+    },
+    "keeper_avatar_3": {
+      "file": "keeper_avatar_3.webp",
+      "width": 256,
+      "height": 256
+    },
+    "keeper_avatar_4": {
+      "file": "keeper_avatar_4.webp",
+      "width": 256,
+      "height": 256
+    },
+    "keeper_avatar_5": {
+      "file": "keeper_avatar_5.webp",
+      "width": 256,
+      "height": 256
+    },
+    "keeper_avatar_6": {
+      "file": "keeper_avatar_6.webp",
+      "width": 256,
+      "height": 256
+    },
+    "npc_granny_fern": {
+      "file": "npc_granny_fern.webp",
+      "width": 768,
+      "height": 768
+    },
+    "npc_granny_fern_happy": {
+      "file": "npc_granny_fern_happy.webp",
+      "width": 768,
+      "height": 768
+    },
+    "npc_granny_fern_neutral": {
+      "file": "npc_granny_fern_neutral.webp",
+      "width": 768,
+      "height": 768
+    },
+    "npc_granny_fern_surprised": {
+      "file": "npc_granny_fern_surprised.webp",
+      "width": 768,
+      "height": 768
+    },
+    "npc_granny_fern_thinking": {
+      "file": "npc_granny_fern_thinking.webp",
+      "width": 768,
+      "height": 768
+    },
+    "npc_pip_the_fence": {
+      "file": "npc_pip_the_fence.webp",
+      "width": 768,
+      "height": 768
+    },
+    "npc_pip_the_fence_happy": {
+      "file": "npc_pip_the_fence_happy.webp",
+      "width": 768,
+      "height": 768
+    },
+    "npc_pip_the_fence_neutral": {
+      "file": "npc_pip_the_fence_neutral.webp",
+      "width": 768,
+      "height": 768
+    },
+    "npc_pip_the_fence_surprised": {
+      "file": "npc_pip_the_fence_surprised.webp",
+      "width": 768,
+      "height": 768
+    },
+    "npc_pip_the_fence_thinking": {
+      "file": "npc_pip_the_fence_thinking.webp",
+      "width": 768,
+      "height": 768
+    },
+    "npc_warden_bramble": {
+      "file": "npc_warden_bramble.webp",
+      "width": 768,
+      "height": 768
+    },
+    "npc_warden_bramble_happy": {
+      "file": "npc_warden_bramble_happy.webp",
+      "width": 768,
+      "height": 768
+    },
+    "npc_warden_bramble_neutral": {
+      "file": "npc_warden_bramble_neutral.webp",
+      "width": 768,
+      "height": 768
+    },
+    "npc_warden_bramble_surprised": {
+      "file": "npc_warden_bramble_surprised.webp",
+      "width": 768,
+      "height": 768
+    },
+    "npc_warden_bramble_thinking": {
+      "file": "npc_warden_bramble_thinking.webp",
+      "width": 768,
+      "height": 768
+    },
+    "potion_bond": {
+      "file": "potion_bond.webp",
+      "width": 256,
+      "height": 256
+    },
+    "potion_dream": {
+      "file": "potion_dream.webp",
+      "width": 256,
+      "height": 256
+    },
+    "potion_empty": {
+      "file": "potion_empty.webp",
+      "width": 256,
+      "height": 256
+    },
+    "potion_glow": {
+      "file": "potion_glow.webp",
+      "width": 256,
+      "height": 256
+    },
+    "potion_growth": {
+      "file": "potion_growth.webp",
+      "width": 256,
+      "height": 256
+    },
+    "potion_haste": {
+      "file": "potion_haste.webp",
+      "width": 256,
+      "height": 256
+    },
+    "potion_lucky": {
+      "file": "potion_lucky.webp",
+      "width": 256,
+      "height": 256
+    },
+    "potion_rainbow": {
+      "file": "potion_rainbow.webp",
+      "width": 256,
+      "height": 256
+    },
+    "potion_warmth": {
+      "file": "potion_warmth.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_accessory_box": {
+      "file": "res_accessory_box.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_berry_blue": {
+      "file": "res_berry_blue.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_berry_gold": {
+      "file": "res_berry_gold.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_berry_red": {
+      "file": "res_berry_red.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_flower_blue": {
+      "file": "res_flower_blue.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_flower_orange": {
+      "file": "res_flower_orange.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_flower_purple": {
+      "file": "res_flower_purple.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_flower_red": {
+      "file": "res_flower_red.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_flower_white": {
+      "file": "res_flower_white.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_flower_yellow": {
+      "file": "res_flower_yellow.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_fossil_claw": {
+      "file": "res_fossil_claw.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_fossil_egg": {
+      "file": "res_fossil_egg.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_fossil_fern": {
+      "file": "res_fossil_fern.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_fossil_leaf": {
+      "file": "res_fossil_leaf.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_fossil_shell": {
+      "file": "res_fossil_shell.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_fossil_skull": {
+      "file": "res_fossil_skull.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_herb_bubblekelp": {
+      "file": "res_herb_bubblekelp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_herb_cloudcotton": {
+      "file": "res_herb_cloudcotton.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_herb_dreamlavender": {
+      "file": "res_herb_dreamlavender.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_herb_emberroot": {
+      "file": "res_herb_emberroot.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_herb_mint": {
+      "file": "res_herb_mint.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_herb_moss": {
+      "file": "res_herb_moss.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_herb_rootbark": {
+      "file": "res_herb_rootbark.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_herb_shadowcap": {
+      "file": "res_herb_shadowcap.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_herb_sparkthistle": {
+      "file": "res_herb_sparkthistle.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_herb_sunleaf": {
+      "file": "res_herb_sunleaf.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_lore_page": {
+      "file": "res_lore_page.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_map_open": {
+      "file": "res_map_open.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_map_rolled": {
+      "file": "res_map_rolled.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_moon_flower": {
+      "file": "res_moon_flower.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_stone_amber": {
+      "file": "res_stone_amber.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_stone_flint": {
+      "file": "res_stone_flint.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_stone_geode": {
+      "file": "res_stone_geode.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_stone_lodestone": {
+      "file": "res_stone_lodestone.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_stone_obsidian": {
+      "file": "res_stone_obsidian.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_stone_pebble": {
+      "file": "res_stone_pebble.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_stone_runestone": {
+      "file": "res_stone_runestone.webp",
+      "width": 256,
+      "height": 256
+    },
+    "res_stone_skystone": {
+      "file": "res_stone_skystone.webp",
+      "width": 256,
+      "height": 256
+    },
+    "life_heart": {
+      "file": "life_heart.webp",
+      "width": 256,
+      "height": 256
+    },
+    "life_heart_empty": {
+      "file": "life_heart_empty.webp",
+      "width": 256,
+      "height": 256
+    },
+    "round_badge": {
+      "file": "round_badge.webp",
+      "width": 256,
+      "height": 256
+    },
+    "trophy": {
+      "file": "trophy.webp",
+      "width": 256,
+      "height": 256
+    },
+    "trophy_empty": {
+      "file": "trophy_empty.webp",
+      "width": 256,
+      "height": 256
+    },
+    "wild_round_badge": {
+      "file": "wild_round_badge.webp",
+      "width": 256,
+      "height": 256
+    },
+    "arrow_down": {
+      "file": "arrow_down.webp",
+      "width": 256,
+      "height": 256
+    },
+    "arrow_up_atk": {
+      "file": "arrow_up_atk.webp",
+      "width": 256,
+      "height": 256
+    },
+    "arrow_up_hp": {
+      "file": "arrow_up_hp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "arrow_up_speed": {
+      "file": "arrow_up_speed.webp",
+      "width": 256,
+      "height": 256
+    },
+    "badge_alt_look": {
+      "file": "badge_alt_look.webp",
+      "width": 256,
+      "height": 256
+    },
+    "badge_caught": {
+      "file": "badge_caught.webp",
+      "width": 256,
+      "height": 256
+    },
+    "badge_lock": {
+      "file": "badge_lock.webp",
+      "width": 256,
+      "height": 256
+    },
+    "badge_new": {
+      "file": "badge_new.webp",
+      "width": 256,
+      "height": 256
+    },
+    "badge_stolen": {
+      "file": "badge_stolen.webp",
+      "width": 256,
+      "height": 256
+    },
+    "badge_twins": {
+      "file": "badge_twins.webp",
+      "width": 256,
+      "height": 256
+    },
+    "range_melee": {
+      "file": "range_melee.webp",
+      "width": 256,
+      "height": 256
+    },
+    "range_ranged": {
+      "file": "range_ranged.webp",
+      "width": 256,
+      "height": 256
+    },
+    "stage_pip_empty": {
+      "file": "stage_pip_empty.webp",
+      "width": 256,
+      "height": 256
+    },
+    "stage_pip_full": {
+      "file": "stage_pip_full.webp",
+      "width": 256,
+      "height": 256
+    },
+    "stage_pip_next": {
+      "file": "stage_pip_next.webp",
+      "width": 256,
+      "height": 256
+    },
+    "stat_atk": {
+      "file": "stat_atk.webp",
+      "width": 256,
+      "height": 256
+    },
+    "stat_crit": {
+      "file": "stat_crit.webp",
+      "width": 256,
+      "height": 256
+    },
+    "stat_dodge": {
+      "file": "stat_dodge.webp",
+      "width": 256,
+      "height": 256
+    },
+    "stat_hp": {
+      "file": "stat_hp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "stat_shield": {
+      "file": "stat_shield.webp",
+      "width": 256,
+      "height": 256
+    },
+    "stat_speed": {
+      "file": "stat_speed.webp",
+      "width": 256,
+      "height": 256
+    },
+    "stat_xp": {
+      "file": "stat_xp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "tier_1": {
+      "file": "tier_1.webp",
+      "width": 256,
+      "height": 256
+    },
+    "tier_2": {
+      "file": "tier_2.webp",
+      "width": 256,
+      "height": 256
+    },
+    "tier_3": {
+      "file": "tier_3.webp",
+      "width": 256,
+      "height": 256
+    },
+    "tier_4": {
+      "file": "tier_4.webp",
+      "width": 256,
+      "height": 256
+    },
+    "tier_5": {
+      "file": "tier_5.webp",
+      "width": 256,
+      "height": 256
+    },
+    "status_blind": {
+      "file": "status_blind.webp",
+      "width": 256,
+      "height": 256
+    },
+    "status_buff_generic": {
+      "file": "status_buff_generic.webp",
+      "width": 256,
+      "height": 256
+    },
+    "status_burn": {
+      "file": "status_burn.webp",
+      "width": 256,
+      "height": 256
+    },
+    "status_invisible": {
+      "file": "status_invisible.webp",
+      "width": 256,
+      "height": 256
+    },
+    "status_revealed": {
+      "file": "status_revealed.webp",
+      "width": 256,
+      "height": 256
+    },
+    "status_root": {
+      "file": "status_root.webp",
+      "width": 256,
+      "height": 256
+    },
+    "status_shield": {
+      "file": "status_shield.webp",
+      "width": 256,
+      "height": 256
+    },
+    "status_sleep": {
+      "file": "status_sleep.webp",
+      "width": 256,
+      "height": 256
+    },
+    "status_slow": {
+      "file": "status_slow.webp",
+      "width": 256,
+      "height": 256
+    },
+    "status_stun": {
+      "file": "status_stun.webp",
+      "width": 256,
+      "height": 256
+    },
+    "status_taunt": {
+      "file": "status_taunt.webp",
+      "width": 256,
+      "height": 256
+    },
+    "synergy_bar_frame": {
+      "file": "synergy_bar_frame.webp",
+      "width": 43,
+      "height": 256
+    },
+    "synergy_slot_2": {
+      "file": "synergy_slot_2.webp",
+      "width": 256,
+      "height": 256
+    },
+    "synergy_slot_4": {
+      "file": "synergy_slot_4.webp",
+      "width": 256,
+      "height": 256
+    },
+    "synergy_slot_off": {
+      "file": "synergy_slot_off.webp",
+      "width": 256,
+      "height": 256
+    },
+    "type_badge_ember": {
+      "file": "type_badge_ember.webp",
+      "width": 256,
+      "height": 256
+    },
+    "type_badge_glow": {
+      "file": "type_badge_glow.webp",
+      "width": 256,
+      "height": 256
+    },
+    "type_badge_gust": {
+      "file": "type_badge_gust.webp",
+      "width": 256,
+      "height": 256
+    },
+    "type_badge_leaf": {
+      "file": "type_badge_leaf.webp",
+      "width": 256,
+      "height": 256
+    },
+    "type_badge_shade": {
+      "file": "type_badge_shade.webp",
+      "width": 256,
+      "height": 256
+    },
+    "type_badge_shade_glow": {
+      "file": "type_badge_shade_glow.webp",
+      "width": 256,
+      "height": 256
+    },
+    "type_badge_spark": {
+      "file": "type_badge_spark.webp",
+      "width": 256,
+      "height": 256
+    },
+    "type_badge_stone": {
+      "file": "type_badge_stone.webp",
+      "width": 256,
+      "height": 256
+    },
+    "type_badge_tide": {
+      "file": "type_badge_tide.webp",
+      "width": 256,
+      "height": 256
+    },
+    "type_ember": {
+      "file": "type_ember.webp",
+      "width": 256,
+      "height": 256
+    },
+    "type_glow": {
+      "file": "type_glow.webp",
+      "width": 256,
+      "height": 256
+    },
+    "type_gust": {
+      "file": "type_gust.webp",
+      "width": 256,
+      "height": 256
+    },
+    "type_leaf": {
+      "file": "type_leaf.webp",
+      "width": 256,
+      "height": 256
+    },
+    "type_shade": {
+      "file": "type_shade.webp",
+      "width": 256,
+      "height": 256
+    },
+    "type_spark": {
+      "file": "type_spark.webp",
+      "width": 256,
+      "height": 256
+    },
+    "type_stone": {
+      "file": "type_stone.webp",
+      "width": 256,
+      "height": 256
+    },
+    "type_tide": {
+      "file": "type_tide.webp",
+      "width": 256,
+      "height": 256
+    },
+    "banner_draw": {
+      "file": "banner_draw.webp",
+      "width": 256,
+      "height": 91
+    },
+    "banner_loss": {
+      "file": "banner_loss.webp",
+      "width": 256,
+      "height": 91
+    },
+    "banner_win": {
+      "file": "banner_win.webp",
+      "width": 256,
+      "height": 91
+    },
+    "battle_top_bar": {
+      "file": "battle_top_bar.webp",
+      "width": 256,
+      "height": 46
+    },
+    "hp_bar_damage_ghost": {
+      "file": "hp_bar_damage_ghost.webp",
+      "width": 256,
+      "height": 48
+    },
+    "hp_bar_fill_ally": {
+      "file": "hp_bar_fill_ally.webp",
+      "width": 256,
+      "height": 48
+    },
+    "hp_bar_fill_enemy": {
+      "file": "hp_bar_fill_enemy.webp",
+      "width": 256,
+      "height": 48
+    },
+    "hp_bar_fill_shield": {
+      "file": "hp_bar_fill_shield.webp",
+      "width": 256,
+      "height": 48
+    },
+    "hp_bar_frame": {
+      "file": "hp_bar_frame.webp",
+      "width": 256,
+      "height": 48
+    },
+    "pause_button": {
+      "file": "pause_button.webp",
+      "width": 256,
+      "height": 256
+    },
+    "result_confetti": {
+      "file": "result_confetti.webp",
+      "width": 256,
+      "height": 46
+    },
+    "skip_button": {
+      "file": "skip_button.webp",
+      "width": 256,
+      "height": 256
+    },
+    "speed_button_1x": {
+      "file": "speed_button_1x.webp",
+      "width": 256,
+      "height": 256
+    },
+    "speed_button_2x": {
+      "file": "speed_button_2x.webp",
+      "width": 256,
+      "height": 256
+    },
+    "speed_button_4x": {
+      "file": "speed_button_4x.webp",
+      "width": 256,
+      "height": 256
+    },
+    "team_name_plate": {
+      "file": "team_name_plate.webp",
+      "width": 256,
+      "height": 53
+    },
+    "vs_badge": {
+      "file": "vs_badge.webp",
+      "width": 256,
+      "height": 256
+    },
+    "xp_bar_fill": {
+      "file": "xp_bar_fill.webp",
+      "width": 256,
+      "height": 32
+    },
+    "xp_bar_frame": {
+      "file": "xp_bar_frame.webp",
+      "width": 256,
+      "height": 32
+    },
+    "ach_collector": {
+      "file": "ach_collector.webp",
+      "width": 256,
+      "height": 256
+    },
+    "ach_den_raider": {
+      "file": "ach_den_raider.webp",
+      "width": 256,
+      "height": 256
+    },
+    "ach_flawless": {
+      "file": "ach_flawless.webp",
+      "width": 256,
+      "height": 256
+    },
+    "ach_fully_grown": {
+      "file": "ach_fully_grown.webp",
+      "width": 256,
+      "height": 256
+    },
+    "ach_full_house": {
+      "file": "ach_full_house.webp",
+      "width": 256,
+      "height": 256
+    },
+    "ach_locked": {
+      "file": "ach_locked.webp",
+      "width": 256,
+      "height": 256
+    },
+    "ach_underdog": {
+      "file": "ach_underdog.webp",
+      "width": 256,
+      "height": 256
+    },
+    "ach_wild_heart": {
+      "file": "ach_wild_heart.webp",
+      "width": 256,
+      "height": 256
+    },
+    "avatar_frame_alpha": {
+      "file": "avatar_frame_alpha.webp",
+      "width": 256,
+      "height": 256
+    },
+    "avatar_frame_cub": {
+      "file": "avatar_frame_cub.webp",
+      "width": 256,
+      "height": 256
+    },
+    "avatar_frame_legend": {
+      "file": "avatar_frame_legend.webp",
+      "width": 256,
+      "height": 256
+    },
+    "avatar_frame_raider": {
+      "file": "avatar_frame_raider.webp",
+      "width": 256,
+      "height": 256
+    },
+    "avatar_frame_scout": {
+      "file": "avatar_frame_scout.webp",
+      "width": 256,
+      "height": 256
+    },
+    "avatar_frame_tracker": {
+      "file": "avatar_frame_tracker.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_expeditions": {
+      "file": "icon_expeditions.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_friends": {
+      "file": "icon_friends.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_kithdex": {
+      "file": "icon_kithdex.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_leaderboard": {
+      "file": "icon_leaderboard.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_mail": {
+      "file": "icon_mail.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_minigames": {
+      "file": "icon_minigames.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_play": {
+      "file": "icon_play.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_profile": {
+      "file": "icon_profile.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_quests": {
+      "file": "icon_quests.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_replays": {
+      "file": "icon_replays.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_settings": {
+      "file": "icon_settings.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_shop_cosmetics": {
+      "file": "icon_shop_cosmetics.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_skill_tree": {
+      "file": "icon_skill_tree.webp",
+      "width": 256,
+      "height": 256
+    },
+    "icon_store": {
+      "file": "icon_store.webp",
+      "width": 256,
+      "height": 256
+    },
+    "kithdex_book_cover": {
+      "file": "kithdex_book_cover.webp",
+      "width": 205,
+      "height": 256
+    },
+    "kithdex_page": {
+      "file": "kithdex_page.webp",
+      "width": 192,
+      "height": 256
+    },
+    "kithdex_silhouette_style": {
+      "file": "kithdex_silhouette_style.webp",
+      "width": 256,
+      "height": 256
+    },
+    "kithdex_tab_ember": {
+      "file": "kithdex_tab_ember.webp",
+      "width": 171,
+      "height": 256
+    },
+    "kithdex_tab_glow": {
+      "file": "kithdex_tab_glow.webp",
+      "width": 171,
+      "height": 256
+    },
+    "kithdex_tab_gust": {
+      "file": "kithdex_tab_gust.webp",
+      "width": 171,
+      "height": 256
+    },
+    "kithdex_tab_leaf": {
+      "file": "kithdex_tab_leaf.webp",
+      "width": 171,
+      "height": 256
+    },
+    "kithdex_tab_shade": {
+      "file": "kithdex_tab_shade.webp",
+      "width": 171,
+      "height": 256
+    },
+    "kithdex_tab_spark": {
+      "file": "kithdex_tab_spark.webp",
+      "width": 171,
+      "height": 256
+    },
+    "kithdex_tab_stone": {
+      "file": "kithdex_tab_stone.webp",
+      "width": 171,
+      "height": 256
+    },
+    "kithdex_tab_tide": {
+      "file": "kithdex_tab_tide.webp",
+      "width": 171,
+      "height": 256
+    },
+    "leaderboard_row_bronze": {
+      "file": "leaderboard_row_bronze.webp",
+      "width": 256,
+      "height": 28
+    },
+    "leaderboard_row_gold": {
+      "file": "leaderboard_row_gold.webp",
+      "width": 256,
+      "height": 28
+    },
+    "leaderboard_row_plain": {
+      "file": "leaderboard_row_plain.webp",
+      "width": 256,
+      "height": 28
+    },
+    "leaderboard_row_silver": {
+      "file": "leaderboard_row_silver.webp",
+      "width": 256,
+      "height": 28
+    },
+    "mode_arena": {
+      "file": "mode_arena.webp",
+      "width": 256,
+      "height": 256
+    },
+    "mode_casual": {
+      "file": "mode_casual.webp",
+      "width": 256,
+      "height": 256
+    },
+    "mode_daily_den": {
+      "file": "mode_daily_den.webp",
+      "width": 256,
+      "height": 256
+    },
+    "mode_draft_duel": {
+      "file": "mode_draft_duel.webp",
+      "width": 256,
+      "height": 256
+    },
+    "mode_lobby": {
+      "file": "mode_lobby.webp",
+      "width": 256,
+      "height": 256
+    },
+    "mode_ranked": {
+      "file": "mode_ranked.webp",
+      "width": 256,
+      "height": 256
+    },
+    "mode_wild_hunt": {
+      "file": "mode_wild_hunt.webp",
+      "width": 256,
+      "height": 256
+    },
+    "mod_blackout": {
+      "file": "mod_blackout.webp",
+      "width": 256,
+      "height": 256
+    },
+    "mod_double_spoils": {
+      "file": "mod_double_spoils.webp",
+      "width": 256,
+      "height": 256
+    },
+    "mod_tier_rush": {
+      "file": "mod_tier_rush.webp",
+      "width": 256,
+      "height": 256
+    },
+    "mod_tiny_board": {
+      "file": "mod_tiny_board.webp",
+      "width": 256,
+      "height": 256
+    },
+    "mod_wild_week": {
+      "file": "mod_wild_week.webp",
+      "width": 256,
+      "height": 256
+    },
+    "rank_alpha": {
+      "file": "rank_alpha.webp",
+      "width": 256,
+      "height": 256
+    },
+    "rank_cub": {
+      "file": "rank_cub.webp",
+      "width": 256,
+      "height": 256
+    },
+    "rank_legend": {
+      "file": "rank_legend.webp",
+      "width": 256,
+      "height": 256
+    },
+    "rank_raider": {
+      "file": "rank_raider.webp",
+      "width": 256,
+      "height": 256
+    },
+    "rank_scout": {
+      "file": "rank_scout.webp",
+      "width": 256,
+      "height": 256
+    },
+    "rank_tracker": {
+      "file": "rank_tracker.webp",
+      "width": 256,
+      "height": 256
+    },
+    "rank_up_fx": {
+      "file": "rank_up_fx.webp",
+      "width": 256,
+      "height": 26
+    },
+    "season_badge": {
+      "file": "season_badge.webp",
+      "width": 256,
+      "height": 256
+    },
+    "set_account": {
+      "file": "set_account.webp",
+      "width": 256,
+      "height": 256
+    },
+    "set_colourblind": {
+      "file": "set_colourblind.webp",
+      "width": 256,
+      "height": 256
+    },
+    "set_language": {
+      "file": "set_language.webp",
+      "width": 256,
+      "height": 256
+    },
+    "set_music": {
+      "file": "set_music.webp",
+      "width": 256,
+      "height": 256
+    },
+    "set_notifications": {
+      "file": "set_notifications.webp",
+      "width": 256,
+      "height": 256
+    },
+    "set_reduce_motion": {
+      "file": "set_reduce_motion.webp",
+      "width": 256,
+      "height": 256
+    },
+    "set_sound": {
+      "file": "set_sound.webp",
+      "width": 256,
+      "height": 256
+    },
+    "set_text_size": {
+      "file": "set_text_size.webp",
+      "width": 256,
+      "height": 256
+    },
+    "stamp_caught": {
+      "file": "stamp_caught.webp",
+      "width": 256,
+      "height": 256
+    },
+    "stamp_seen": {
+      "file": "stamp_seen.webp",
+      "width": 256,
+      "height": 256
+    },
+    "stamp_stolen": {
+      "file": "stamp_stolen.webp",
+      "width": 256,
+      "height": 256
+    },
+    "alpha_select_bg": {
+      "file": "alpha_select_bg.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "button_close": {
+      "file": "button_close.webp",
+      "width": 192,
+      "height": 192
+    },
+    "button_primary": {
+      "file": "button_primary.webp",
+      "width": 256,
+      "height": 77
+    },
+    "button_secondary": {
+      "file": "button_secondary.webp",
+      "width": 256,
+      "height": 77
+    },
+    "dialogue_box": {
+      "file": "dialogue_box.webp",
+      "width": 256,
+      "height": 85
+    },
+    "evolution_popup_frame": {
+      "file": "evolution_popup_frame.webp",
+      "width": 256,
+      "height": 256
+    },
+    "evolution_silhouette_pop": {
+      "file": "evolution_silhouette_pop.webp",
+      "width": 256,
+      "height": 32
+    },
+    "loading_spinner": {
+      "file": "loading_spinner.webp",
+      "width": 256,
+      "height": 32
+    },
+    "modal_frame": {
+      "file": "modal_frame.webp",
+      "width": 256,
+      "height": 256
+    },
+    "mvp_ribbon": {
+      "file": "mvp_ribbon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "rewards_chest": {
+      "file": "rewards_chest.webp",
+      "width": 256,
+      "height": 256
+    },
+    "rewards_chest_closed": {
+      "file": "rewards_chest_closed.webp",
+      "width": 256,
+      "height": 256
+    },
+    "run_summary_draw_stop": {
+      "file": "run_summary_draw_stop.webp",
+      "width": 192,
+      "height": 192
+    },
+    "run_summary_frame": {
+      "file": "run_summary_frame.webp",
+      "width": 144,
+      "height": 256
+    },
+    "run_summary_loss_stop": {
+      "file": "run_summary_loss_stop.webp",
+      "width": 192,
+      "height": 192
+    },
+    "run_summary_win_stop": {
+      "file": "run_summary_win_stop.webp",
+      "width": 192,
+      "height": 192
+    },
+    "share_replay_card": {
+      "file": "share_replay_card.webp",
+      "width": 256,
+      "height": 134
+    },
+    "skill_slot_empty": {
+      "file": "skill_slot_empty.webp",
+      "width": 256,
+      "height": 256
+    },
+    "skill_slot_frame": {
+      "file": "skill_slot_frame.webp",
+      "width": 256,
+      "height": 256
+    },
+    "spoils_card_glowstones": {
+      "file": "spoils_card_glowstones.webp",
+      "width": 191,
+      "height": 256
+    },
+    "spoils_card_item": {
+      "file": "spoils_card_item.webp",
+      "width": 191,
+      "height": 256
+    },
+    "spoils_card_steal": {
+      "file": "spoils_card_steal.webp",
+      "width": 191,
+      "height": 256
+    },
+    "spoils_frame": {
+      "file": "spoils_frame.webp",
+      "width": 205,
+      "height": 256
+    },
+    "steal_fx": {
+      "file": "steal_fx.webp",
+      "width": 256,
+      "height": 32
+    },
+    "toast_frame": {
+      "file": "toast_frame.webp",
+      "width": 256,
+      "height": 48
+    },
+    "tooltip_frame": {
+      "file": "tooltip_frame.webp",
+      "width": 256,
+      "height": 128
+    },
+    "tutorial_highlight": {
+      "file": "tutorial_highlight.webp",
+      "width": 256,
+      "height": 43
+    },
+    "tutorial_pointer": {
+      "file": "tutorial_pointer.webp",
+      "width": 256,
+      "height": 256
+    },
+    "bench_frame": {
+      "file": "bench_frame.webp",
+      "width": 256,
+      "height": 68
+    },
+    "bench_slot": {
+      "file": "bench_slot.webp",
+      "width": 256,
+      "height": 256
+    },
+    "board_slot_back": {
+      "file": "board_slot_back.webp",
+      "width": 256,
+      "height": 256
+    },
+    "board_slot_front": {
+      "file": "board_slot_front.webp",
+      "width": 256,
+      "height": 256
+    },
+    "board_slot_highlight": {
+      "file": "board_slot_highlight.webp",
+      "width": 256,
+      "height": 256
+    },
+    "button_freeze": {
+      "file": "button_freeze.webp",
+      "width": 256,
+      "height": 256
+    },
+    "button_freeze_on": {
+      "file": "button_freeze_on.webp",
+      "width": 256,
+      "height": 256
+    },
+    "button_ready": {
+      "file": "button_ready.webp",
+      "width": 256,
+      "height": 102
+    },
+    "button_ready_pressed": {
+      "file": "button_ready_pressed.webp",
+      "width": 256,
+      "height": 102
+    },
+    "button_reroll": {
+      "file": "button_reroll.webp",
+      "width": 256,
+      "height": 256
+    },
+    "button_undo": {
+      "file": "button_undo.webp",
+      "width": 256,
+      "height": 256
+    },
+    "buy_fx": {
+      "file": "buy_fx.webp",
+      "width": 256,
+      "height": 43
+    },
+    "details_card_frame": {
+      "file": "details_card_frame.webp",
+      "width": 182,
+      "height": 256
+    },
+    "drag_shadow": {
+      "file": "drag_shadow.webp",
+      "width": 256,
+      "height": 256
+    },
+    "feed_target_fx": {
+      "file": "feed_target_fx.webp",
+      "width": 256,
+      "height": 43
+    },
+    "item_card_frame": {
+      "file": "item_card_frame.webp",
+      "width": 205,
+      "height": 256
+    },
+    "kith_card_alt_look_overlay": {
+      "file": "kith_card_alt_look_overlay.webp",
+      "width": 182,
+      "height": 256
+    },
+    "kith_card_sold": {
+      "file": "kith_card_sold.webp",
+      "width": 182,
+      "height": 256
+    },
+    "kith_card_tier_1": {
+      "file": "kith_card_tier_1.webp",
+      "width": 182,
+      "height": 256
+    },
+    "kith_card_tier_2": {
+      "file": "kith_card_tier_2.webp",
+      "width": 182,
+      "height": 256
+    },
+    "kith_card_tier_3": {
+      "file": "kith_card_tier_3.webp",
+      "width": 182,
+      "height": 256
+    },
+    "kith_card_tier_4": {
+      "file": "kith_card_tier_4.webp",
+      "width": 182,
+      "height": 256
+    },
+    "kith_card_tier_5": {
+      "file": "kith_card_tier_5.webp",
+      "width": 182,
+      "height": 256
+    },
+    "next_stage_silhouette_frame": {
+      "file": "next_stage_silhouette_frame.webp",
+      "width": 256,
+      "height": 256
+    },
+    "price_tag": {
+      "file": "price_tag.webp",
+      "width": 256,
+      "height": 160
+    },
+    "reroll_fx": {
+      "file": "reroll_fx.webp",
+      "width": 256,
+      "height": 43
+    },
+    "sell_bin": {
+      "file": "sell_bin.webp",
+      "width": 256,
+      "height": 256
+    },
+    "sell_bin_active": {
+      "file": "sell_bin_active.webp",
+      "width": 256,
+      "height": 256
+    },
+    "sell_fx": {
+      "file": "sell_fx.webp",
+      "width": 256,
+      "height": 43
+    },
+    "shop_bg": {
+      "file": "shop_bg.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "shop_frozen_overlay": {
+      "file": "shop_frozen_overlay.webp",
+      "width": 256,
+      "height": 114
+    },
+    "shop_stall": {
+      "file": "shop_stall.webp",
+      "width": 256,
+      "height": 114
+    },
+    "shop_timer_ring": {
+      "file": "shop_timer_ring.webp",
+      "width": 256,
+      "height": 256
+    },
+    "branch_explorer": {
+      "file": "branch_explorer.webp",
+      "width": 256,
+      "height": 64
+    },
+    "branch_keeper": {
+      "file": "branch_keeper.webp",
+      "width": 256,
+      "height": 64
+    },
+    "branch_raider": {
+      "file": "branch_raider.webp",
+      "width": 256,
+      "height": 64
+    },
+    "ex_alt_looks": {
+      "file": "ex_alt_looks.webp",
+      "width": 256,
+      "height": 256
+    },
+    "ex_boss_choice": {
+      "file": "ex_boss_choice.webp",
+      "width": 256,
+      "height": 256
+    },
+    "ex_hatch_time": {
+      "file": "ex_hatch_time.webp",
+      "width": 256,
+      "height": 256
+    },
+    "ex_islands": {
+      "file": "ex_islands.webp",
+      "width": 256,
+      "height": 256
+    },
+    "ex_lore": {
+      "file": "ex_lore.webp",
+      "width": 256,
+      "height": 256
+    },
+    "ex_next_stage": {
+      "file": "ex_next_stage.webp",
+      "width": 256,
+      "height": 256
+    },
+    "ex_rare_eggs": {
+      "file": "ex_rare_eggs.webp",
+      "width": 256,
+      "height": 256
+    },
+    "ex_story_logs": {
+      "file": "ex_story_logs.webp",
+      "width": 256,
+      "height": 256
+    },
+    "heart_seed": {
+      "file": "heart_seed.webp",
+      "width": 256,
+      "height": 256
+    },
+    "kp_coin_gain": {
+      "file": "kp_coin_gain.webp",
+      "width": 256,
+      "height": 256
+    },
+    "kp_expedition_slot": {
+      "file": "kp_expedition_slot.webp",
+      "width": 256,
+      "height": 256
+    },
+    "kp_gifts": {
+      "file": "kp_gifts.webp",
+      "width": 256,
+      "height": 256
+    },
+    "kp_hot_springs_bond": {
+      "file": "kp_hot_springs_bond.webp",
+      "width": 256,
+      "height": 256
+    },
+    "kp_job_slot": {
+      "file": "kp_job_slot.webp",
+      "width": 256,
+      "height": 256
+    },
+    "kp_job_speed": {
+      "file": "kp_job_speed.webp",
+      "width": 256,
+      "height": 256
+    },
+    "kp_night_garden": {
+      "file": "kp_night_garden.webp",
+      "width": 256,
+      "height": 256
+    },
+    "kp_offline_cap": {
+      "file": "kp_offline_cap.webp",
+      "width": 256,
+      "height": 256
+    },
+    "kp_recipes": {
+      "file": "kp_recipes.webp",
+      "width": 256,
+      "height": 256
+    },
+    "node_explorer_available": {
+      "file": "node_explorer_available.webp",
+      "width": 256,
+      "height": 256
+    },
+    "node_explorer_locked": {
+      "file": "node_explorer_locked.webp",
+      "width": 256,
+      "height": 256
+    },
+    "node_explorer_planted": {
+      "file": "node_explorer_planted.webp",
+      "width": 256,
+      "height": 256
+    },
+    "node_keeper_available": {
+      "file": "node_keeper_available.webp",
+      "width": 256,
+      "height": 256
+    },
+    "node_keeper_locked": {
+      "file": "node_keeper_locked.webp",
+      "width": 256,
+      "height": 256
+    },
+    "node_keeper_planted": {
+      "file": "node_keeper_planted.webp",
+      "width": 256,
+      "height": 256
+    },
+    "node_raider_available": {
+      "file": "node_raider_available.webp",
+      "width": 256,
+      "height": 256
+    },
+    "node_raider_locked": {
+      "file": "node_raider_locked.webp",
+      "width": 256,
+      "height": 256
+    },
+    "node_raider_planted": {
+      "file": "node_raider_planted.webp",
+      "width": 256,
+      "height": 256
+    },
+    "skilltree_bg": {
+      "file": "skilltree_bg.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "skill_beast_tamer": {
+      "file": "skill_beast_tamer.webp",
+      "width": 256,
+      "height": 256
+    },
+    "skill_biome_sense": {
+      "file": "skill_biome_sense.webp",
+      "width": 256,
+      "height": 256
+    },
+    "skill_fast_learner": {
+      "file": "skill_fast_learner.webp",
+      "width": 256,
+      "height": 256
+    },
+    "skill_gambler": {
+      "file": "skill_gambler.webp",
+      "width": 256,
+      "height": 256
+    },
+    "skill_hoarder": {
+      "file": "skill_hoarder.webp",
+      "width": 256,
+      "height": 256
+    },
+    "skill_item_lover": {
+      "file": "skill_item_lover.webp",
+      "width": 256,
+      "height": 256
+    },
+    "skill_lone_wolf": {
+      "file": "skill_lone_wolf.webp",
+      "width": 256,
+      "height": 256
+    },
+    "skill_pack_leader": {
+      "file": "skill_pack_leader.webp",
+      "width": 256,
+      "height": 256
+    },
+    "skill_thiefs_eye": {
+      "file": "skill_thiefs_eye.webp",
+      "width": 256,
+      "height": 256
+    },
+    "skill_tight_den": {
+      "file": "skill_tight_den.webp",
+      "width": 256,
+      "height": 256
+    },
+    "skill_type_purist": {
+      "file": "skill_type_purist.webp",
+      "width": 256,
+      "height": 256
+    },
+    "skill_wild_caller": {
+      "file": "skill_wild_caller.webp",
+      "width": 256,
+      "height": 256
+    },
+    "ab_atollmaw_regen": {
+      "file": "ab_atollmaw_regen.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_aurolotl_aurora": {
+      "file": "ab_aurolotl_aurora.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_beaconroo_reveal": {
+      "file": "ab_beaconroo_reveal.webp",
+      "width": 256,
+      "height": 21
+    },
+    "ab_bellowhale_song": {
+      "file": "ab_bellowhale_song.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_blazehound_rally": {
+      "file": "ab_blazehound_rally.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_bloomwyrm_root": {
+      "file": "ab_bloomwyrm_root.webp",
+      "width": 256,
+      "height": 21
+    },
+    "ab_breezling_gift": {
+      "file": "ab_breezling_gift.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_bubblub_bubble": {
+      "file": "ab_bubblub_bubble.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_burrowboom_tunnel": {
+      "file": "ab_burrowboom_tunnel.webp",
+      "width": 256,
+      "height": 21
+    },
+    "ab_canopyking_canopy": {
+      "file": "ab_canopyking_canopy.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_chandelurk_cloak": {
+      "file": "ab_chandelurk_cloak.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_cinderpup_faint": {
+      "file": "ab_cinderpup_faint.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_cloudray_lift": {
+      "file": "ab_cloudray_lift.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_cragtoad_block": {
+      "file": "ab_cragtoad_block.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_cragtoise_guard": {
+      "file": "ab_cragtoise_guard.webp",
+      "width": 256,
+      "height": 85
+    },
+    "ab_cyclonyx_whirlwind": {
+      "file": "ab_cyclonyx_whirlwind.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_driftsnail_harden": {
+      "file": "ab_driftsnail_harden.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_drillodon_pierce": {
+      "file": "ab_drillodon_pierce.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_duskwolf_vanish": {
+      "file": "ab_duskwolf_vanish.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_elderelk_thorns": {
+      "file": "ab_elderelk_thorns.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_emberdrake_scorch": {
+      "file": "ab_emberdrake_scorch.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_equinox_day": {
+      "file": "ab_equinox_day.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_equinox_night": {
+      "file": "ab_equinox_night.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_foamcrab_slow": {
+      "file": "ab_foamcrab_slow.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_fortgrub_shield": {
+      "file": "ab_fortgrub_shield.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_fungrizzly_cloud": {
+      "file": "ab_fungrizzly_cloud.webp",
+      "width": 256,
+      "height": 21
+    },
+    "ab_gardenwyrm_bloom": {
+      "file": "ab_gardenwyrm_bloom.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_gloombat_steal": {
+      "file": "ab_gloombat_steal.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_glowlotl_heal": {
+      "file": "ab_glowlotl_heal.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_grubbo_guard": {
+      "file": "ab_grubbo_guard.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_gustern_shield": {
+      "file": "ab_gustern_shield.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_hurricanyx_gale": {
+      "file": "ab_hurricanyx_gale.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_hushowl_sleep": {
+      "file": "ab_hushowl_sleep.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_infernox_howl": {
+      "file": "ab_infernox_howl.webp",
+      "width": 256,
+      "height": 21
+    },
+    "ab_jungleape_faint_heal": {
+      "file": "ab_jungleape_faint_heal.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_kilnoceros_charge": {
+      "file": "ab_kilnoceros_charge.webp",
+      "width": 256,
+      "height": 21
+    },
+    "ab_krakkle_break": {
+      "file": "ab_krakkle_break.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_lumibee_heal": {
+      "file": "ab_lumibee_heal.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_maelstrotter_maelstrom": {
+      "file": "ab_maelstrotter_maelstrom.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_meadowool_bloom": {
+      "file": "ab_meadowool_bloom.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_monolithoise_taunt": {
+      "file": "ab_monolithoise_taunt.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_mossmop_heal": {
+      "file": "ab_mossmop_heal.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_mountoad_landslide": {
+      "file": "ab_mountoad_landslide.webp",
+      "width": 256,
+      "height": 21
+    },
+    "ab_nautiloft_hide": {
+      "file": "ab_nautiloft_hide.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_nimblet_heal": {
+      "file": "ab_nimblet_heal.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_nocturnowl_dread": {
+      "file": "ab_nocturnowl_dread.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_pebbleplop_hp": {
+      "file": "ab_pebbleplop_hp.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_peekaroo_lob": {
+      "file": "ab_peekaroo_lob.webp",
+      "width": 256,
+      "height": 21
+    },
+    "ab_prismoth_buff": {
+      "file": "ab_prismoth_buff.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_puddlepaw_slow": {
+      "file": "ab_puddlepaw_slow.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_quakehare_stomp": {
+      "file": "ab_quakehare_stomp.webp",
+      "width": 256,
+      "height": 21
+    },
+    "ab_reefmaw_frenzy": {
+      "file": "ab_reefmaw_frenzy.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_rubblebun_pebble": {
+      "file": "ab_rubblebun_pebble.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_shroomp_spores": {
+      "file": "ab_shroomp_spores.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_sizzlard_burn": {
+      "file": "ab_sizzlard_burn.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_skyalbatross_updraft": {
+      "file": "ab_skyalbatross_updraft.webp",
+      "width": 256,
+      "height": 21
+    },
+    "ab_skyraptor_reset": {
+      "file": "ab_skyraptor_reset.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_skyray_swap": {
+      "file": "ab_skyray_swap.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_skyvulpine_cloudstep": {
+      "file": "ab_skyvulpine_cloudstep.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_solarhive_mourn": {
+      "file": "ab_solarhive_mourn.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_solmane_dawn": {
+      "file": "ab_solmane_dawn.webp",
+      "width": 256,
+      "height": 21
+    },
+    "ab_sparkeel_chain": {
+      "file": "ab_sparkeel_chain.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_stormbison_rally": {
+      "file": "ab_stormbison_rally.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_stormserpent_bolt": {
+      "file": "ab_stormserpent_bolt.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_stormyak_lightning": {
+      "file": "ab_stormyak_lightning.webp",
+      "width": 256,
+      "height": 21
+    },
+    "ab_sunwing_burn": {
+      "file": "ab_sunwing_burn.webp",
+      "width": 256,
+      "height": 21
+    },
+    "ab_surfotter_splash": {
+      "file": "ab_surfotter_splash.webp",
+      "width": 256,
+      "height": 21
+    },
+    "ab_thornelk_root": {
+      "file": "ab_thornelk_root.webp",
+      "width": 256,
+      "height": 21
+    },
+    "ab_thundercroak_croak": {
+      "file": "ab_thundercroak_croak.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_thunderpurr_rage": {
+      "file": "ab_thunderpurr_rage.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_thunderquill_thorns": {
+      "file": "ab_thunderquill_thorns.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_tidecastle_fortress": {
+      "file": "ab_tidecastle_fortress.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_twinkits_link": {
+      "file": "ab_twinkits_link.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_umbrabat_drain": {
+      "file": "ab_umbrabat_drain.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_volcamole_erupt": {
+      "file": "ab_volcamole_erupt.webp",
+      "width": 256,
+      "height": 21
+    },
+    "ab_voltadpole_charge": {
+      "file": "ab_voltadpole_charge.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_whirlhawk_dive": {
+      "file": "ab_whirlhawk_dive.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_wickwisp_vanish": {
+      "file": "ab_wickwisp_vanish.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_wisplet_dodge": {
+      "file": "ab_wisplet_dodge.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_zapquill_stun": {
+      "file": "ab_zapquill_stun.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_zenithlion_legacy": {
+      "file": "ab_zenithlion_legacy.webp",
+      "width": 256,
+      "height": 43
+    },
+    "ab_zephyrfox_empower": {
+      "file": "ab_zephyrfox_empower.webp",
+      "width": 256,
+      "height": 43
+    },
+    "egg_hatch": {
+      "file": "egg_hatch.webp",
+      "width": 256,
+      "height": 32
+    },
+    "fx_buff_atk": {
+      "file": "fx_buff_atk.webp",
+      "width": 256,
+      "height": 43
+    },
+    "fx_buff_hp": {
+      "file": "fx_buff_hp.webp",
+      "width": 256,
+      "height": 43
+    },
+    "fx_buff_speed": {
+      "file": "fx_buff_speed.webp",
+      "width": 256,
+      "height": 43
+    },
+    "fx_debuff": {
+      "file": "fx_debuff.webp",
+      "width": 256,
+      "height": 43
+    },
+    "fx_evolve": {
+      "file": "fx_evolve.webp",
+      "width": 256,
+      "height": 26
+    },
+    "fx_evolve_confetti": {
+      "file": "fx_evolve_confetti.webp",
+      "width": 256,
+      "height": 32
+    },
+    "fx_faint": {
+      "file": "fx_faint.webp",
+      "width": 256,
+      "height": 43
+    },
+    "fx_heal": {
+      "file": "fx_heal.webp",
+      "width": 256,
+      "height": 43
+    },
+    "fx_heal_big": {
+      "file": "fx_heal_big.webp",
+      "width": 256,
+      "height": 43
+    },
+    "fx_revive": {
+      "file": "fx_revive.webp",
+      "width": 256,
+      "height": 43
+    },
+    "fx_revive_ember": {
+      "file": "fx_revive_ember.webp",
+      "width": 256,
+      "height": 43
+    },
+    "fx_shield_gain": {
+      "file": "fx_shield_gain.webp",
+      "width": 256,
+      "height": 43
+    },
+    "fx_step_forward": {
+      "file": "fx_step_forward.webp",
+      "width": 256,
+      "height": 43
+    },
+    "fx_summon": {
+      "file": "fx_summon.webp",
+      "width": 256,
+      "height": 43
+    },
+    "fx_swap": {
+      "file": "fx_swap.webp",
+      "width": 256,
+      "height": 43
+    },
+    "glowstone_burst": {
+      "file": "glowstone_burst.webp",
+      "width": 256,
+      "height": 43
+    },
+    "hit_block": {
+      "file": "hit_block.webp",
+      "width": 256,
+      "height": 43
+    },
+    "hit_crit": {
+      "file": "hit_crit.webp",
+      "width": 256,
+      "height": 43
+    },
+    "hit_dodge": {
+      "file": "hit_dodge.webp",
+      "width": 256,
+      "height": 43
+    },
+    "hit_flash": {
+      "file": "hit_flash.webp",
+      "width": 256,
+      "height": 85
+    },
+    "hit_melee_ember": {
+      "file": "hit_melee_ember.webp",
+      "width": 256,
+      "height": 43
+    },
+    "hit_melee_glow": {
+      "file": "hit_melee_glow.webp",
+      "width": 256,
+      "height": 43
+    },
+    "hit_melee_gust": {
+      "file": "hit_melee_gust.webp",
+      "width": 256,
+      "height": 43
+    },
+    "hit_melee_leaf": {
+      "file": "hit_melee_leaf.webp",
+      "width": 256,
+      "height": 43
+    },
+    "hit_melee_shade": {
+      "file": "hit_melee_shade.webp",
+      "width": 256,
+      "height": 43
+    },
+    "hit_melee_spark": {
+      "file": "hit_melee_spark.webp",
+      "width": 256,
+      "height": 43
+    },
+    "hit_melee_stone": {
+      "file": "hit_melee_stone.webp",
+      "width": 256,
+      "height": 43
+    },
+    "hit_melee_tide": {
+      "file": "hit_melee_tide.webp",
+      "width": 256,
+      "height": 43
+    },
+    "hit_miss": {
+      "file": "hit_miss.webp",
+      "width": 256,
+      "height": 43
+    },
+    "hit_type_strong": {
+      "file": "hit_type_strong.webp",
+      "width": 256,
+      "height": 43
+    },
+    "hit_type_weak": {
+      "file": "hit_type_weak.webp",
+      "width": 256,
+      "height": 43
+    },
+    "item_eat": {
+      "file": "item_eat.webp",
+      "width": 256,
+      "height": 43
+    },
+    "item_equip": {
+      "file": "item_equip.webp",
+      "width": 256,
+      "height": 43
+    },
+    "item_trigger": {
+      "file": "item_trigger.webp",
+      "width": 256,
+      "height": 43
+    },
+    "life_lost": {
+      "file": "life_lost.webp",
+      "width": 256,
+      "height": 43
+    },
+    "numbers_crit": {
+      "file": "numbers_crit.webp",
+      "width": 256,
+      "height": 26
+    },
+    "numbers_damage": {
+      "file": "numbers_damage.webp",
+      "width": 256,
+      "height": 26
+    },
+    "numbers_heal": {
+      "file": "numbers_heal.webp",
+      "width": 256,
+      "height": 23
+    },
+    "numbers_storm": {
+      "file": "numbers_storm.webp",
+      "width": 256,
+      "height": 26
+    },
+    "potion_brew": {
+      "file": "potion_brew.webp",
+      "width": 256,
+      "height": 43
+    },
+    "proj_ember": {
+      "file": "proj_ember.webp",
+      "width": 256,
+      "height": 64
+    },
+    "proj_ember_impact": {
+      "file": "proj_ember_impact.webp",
+      "width": 256,
+      "height": 43
+    },
+    "proj_glow": {
+      "file": "proj_glow.webp",
+      "width": 256,
+      "height": 64
+    },
+    "proj_glow_impact": {
+      "file": "proj_glow_impact.webp",
+      "width": 256,
+      "height": 43
+    },
+    "proj_gust": {
+      "file": "proj_gust.webp",
+      "width": 256,
+      "height": 64
+    },
+    "proj_gust_impact": {
+      "file": "proj_gust_impact.webp",
+      "width": 256,
+      "height": 43
+    },
+    "proj_leaf": {
+      "file": "proj_leaf.webp",
+      "width": 256,
+      "height": 64
+    },
+    "proj_leaf_impact": {
+      "file": "proj_leaf_impact.webp",
+      "width": 256,
+      "height": 43
+    },
+    "proj_shade": {
+      "file": "proj_shade.webp",
+      "width": 256,
+      "height": 64
+    },
+    "proj_shade_impact": {
+      "file": "proj_shade_impact.webp",
+      "width": 256,
+      "height": 43
+    },
+    "proj_spark": {
+      "file": "proj_spark.webp",
+      "width": 256,
+      "height": 64
+    },
+    "proj_spark_impact": {
+      "file": "proj_spark_impact.webp",
+      "width": 256,
+      "height": 43
+    },
+    "proj_stone": {
+      "file": "proj_stone.webp",
+      "width": 256,
+      "height": 64
+    },
+    "proj_stone_impact": {
+      "file": "proj_stone_impact.webp",
+      "width": 256,
+      "height": 43
+    },
+    "proj_tide": {
+      "file": "proj_tide.webp",
+      "width": 256,
+      "height": 64
+    },
+    "proj_tide_impact": {
+      "file": "proj_tide_impact.webp",
+      "width": 256,
+      "height": 43
+    },
+    "status_blind_overlay": {
+      "file": "status_blind_overlay.webp",
+      "width": 256,
+      "height": 43
+    },
+    "status_buff_generic_overlay": {
+      "file": "status_buff_generic_overlay.webp",
+      "width": 256,
+      "height": 43
+    },
+    "status_burn_overlay": {
+      "file": "status_burn_overlay.webp",
+      "width": 256,
+      "height": 43
+    },
+    "status_burn_tick": {
+      "file": "status_burn_tick.webp",
+      "width": 256,
+      "height": 43
+    },
+    "status_cleanse": {
+      "file": "status_cleanse.webp",
+      "width": 256,
+      "height": 43
+    },
+    "status_invisible_overlay": {
+      "file": "status_invisible_overlay.webp",
+      "width": 256,
+      "height": 43
+    },
+    "status_revealed_overlay": {
+      "file": "status_revealed_overlay.webp",
+      "width": 256,
+      "height": 43
+    },
+    "status_root_overlay": {
+      "file": "status_root_overlay.webp",
+      "width": 256,
+      "height": 43
+    },
+    "status_shield_break": {
+      "file": "status_shield_break.webp",
+      "width": 256,
+      "height": 43
+    },
+    "status_shield_overlay": {
+      "file": "status_shield_overlay.webp",
+      "width": 256,
+      "height": 43
+    },
+    "status_sleep_overlay": {
+      "file": "status_sleep_overlay.webp",
+      "width": 256,
+      "height": 43
+    },
+    "status_sleep_wake": {
+      "file": "status_sleep_wake.webp",
+      "width": 256,
+      "height": 43
+    },
+    "status_slow_overlay": {
+      "file": "status_slow_overlay.webp",
+      "width": 256,
+      "height": 43
+    },
+    "status_stun_overlay": {
+      "file": "status_stun_overlay.webp",
+      "width": 256,
+      "height": 43
+    },
+    "status_taunt_overlay": {
+      "file": "status_taunt_overlay.webp",
+      "width": 256,
+      "height": 43
+    },
+    "storm_bolt": {
+      "file": "storm_bolt.webp",
+      "width": 256,
+      "height": 43
+    },
+    "storm_overlay": {
+      "file": "storm_overlay.webp",
+      "width": 256,
+      "height": 114
+    },
+    "storm_warning_icon": {
+      "file": "storm_warning_icon.webp",
+      "width": 256,
+      "height": 256
+    },
+    "synergy_ember": {
+      "file": "synergy_ember.webp",
+      "width": 256,
+      "height": 43
+    },
+    "synergy_glow": {
+      "file": "synergy_glow.webp",
+      "width": 256,
+      "height": 43
+    },
+    "synergy_gust": {
+      "file": "synergy_gust.webp",
+      "width": 256,
+      "height": 43
+    },
+    "synergy_leaf": {
+      "file": "synergy_leaf.webp",
+      "width": 256,
+      "height": 43
+    },
+    "synergy_shade": {
+      "file": "synergy_shade.webp",
+      "width": 256,
+      "height": 43
+    },
+    "synergy_spark": {
+      "file": "synergy_spark.webp",
+      "width": 256,
+      "height": 43
+    },
+    "synergy_stone": {
+      "file": "synergy_stone.webp",
+      "width": 256,
+      "height": 43
+    },
+    "synergy_tide": {
+      "file": "synergy_tide.webp",
+      "width": 256,
+      "height": 43
+    },
+    "trophy_gain": {
+      "file": "trophy_gain.webp",
+      "width": 256,
+      "height": 43
+    }
+  }
+}

@@ -1,0 +1,4648 @@
+{
+ "poses": {
+  "pebbleplop_1_ability": {
+   "file": "poses/pebbleplop_1_ability.webp",
+   "h": 1.156,
+   "dx": 0.021,
+   "dy": 0.06
+  },
+  "pebbleplop_1_asleep": {
+   "file": "poses/pebbleplop_1_asleep.webp",
+   "h": 0.898,
+   "dx": 0.005,
+   "dy": -0.043
+  },
+  "pebbleplop_1_attack": {
+   "file": "poses/pebbleplop_1_attack.webp",
+   "h": 0.937,
+   "dx": 0.001,
+   "dy": -0.037
+  },
+  "pebbleplop_1_happy": {
+   "file": "poses/pebbleplop_1_happy.webp",
+   "h": 1.114,
+   "dx": 0.013,
+   "dy": 0.049
+  },
+  "pebbleplop_1_hit": {
+   "file": "poses/pebbleplop_1_hit.webp",
+   "h": 1.053,
+   "dx": 0.005,
+   "dy": 0.023
+  },
+  "pebbleplop_1_idle2": {
+   "file": "poses/pebbleplop_1_idle2.webp",
+   "h": 1.018,
+   "dx": 0.002,
+   "dy": 0
+  },
+  "pebbleplop_2_ability": {
+   "file": "poses/pebbleplop_2_ability.webp",
+   "h": 0.924,
+   "dx": 0.011,
+   "dy": -0.038
+  },
+  "pebbleplop_2_asleep": {
+   "file": "poses/pebbleplop_2_asleep.webp",
+   "h": 0.899,
+   "dx": 0.001,
+   "dy": -0.025
+  },
+  "pebbleplop_2_attack": {
+   "file": "poses/pebbleplop_2_attack.webp",
+   "h": 0.929,
+   "dx": 0.003,
+   "dy": -0.029
+  },
+  "pebbleplop_2_happy": {
+   "file": "poses/pebbleplop_2_happy.webp",
+   "h": 0.973,
+   "dx": 0.009,
+   "dy": -0.008
+  },
+  "pebbleplop_2_hit": {
+   "file": "poses/pebbleplop_2_hit.webp",
+   "h": 0.964,
+   "dx": -0.001,
+   "dy": -0.02
+  },
+  "pebbleplop_2_idle2": {
+   "file": "poses/pebbleplop_2_idle2.webp",
+   "h": 1.002,
+   "dx": -0.001,
+   "dy": 0.001
+  },
+  "pebbleplop_3_ability": {
+   "file": "poses/pebbleplop_3_ability.webp",
+   "h": 1.115,
+   "dx": 0.017,
+   "dy": 0.025
+  },
+  "pebbleplop_3_asleep": {
+   "file": "poses/pebbleplop_3_asleep.webp",
+   "h": 0.856,
+   "dx": -0.007,
+   "dy": -0.033
+  },
+  "pebbleplop_3_attack": {
+   "file": "poses/pebbleplop_3_attack.webp",
+   "h": 0.999,
+   "dx": -0.002,
+   "dy": 0.007
+  },
+  "pebbleplop_3_happy": {
+   "file": "poses/pebbleplop_3_happy.webp",
+   "h": 1.108,
+   "dx": -0.004,
+   "dy": 0.08
+  },
+  "pebbleplop_3_hit": {
+   "file": "poses/pebbleplop_3_hit.webp",
+   "h": 1.03,
+   "dx": -0.022,
+   "dy": 0.017
+  },
+  "pebbleplop_3_idle2": {
+   "file": "poses/pebbleplop_3_idle2.webp",
+   "h": 1.008,
+   "dx": 0.002,
+   "dy": 0.001
+  },
+  "pebbleplop_4_ability": {
+   "file": "poses/pebbleplop_4_ability.webp",
+   "h": 0.962,
+   "dx": 0,
+   "dy": -0.022
+  },
+  "pebbleplop_4_asleep": {
+   "file": "poses/pebbleplop_4_asleep.webp",
+   "h": 0.856,
+   "dx": 0.003,
+   "dy": -0.062
+  },
+  "pebbleplop_4_attack": {
+   "file": "poses/pebbleplop_4_attack.webp",
+   "h": 0.918,
+   "dx": -0.002,
+   "dy": -0.046
+  },
+  "pebbleplop_4_happy": {
+   "file": "poses/pebbleplop_4_happy.webp",
+   "h": 0.958,
+   "dx": 0.01,
+   "dy": -0.028
+  },
+  "pebbleplop_4_hit": {
+   "file": "poses/pebbleplop_4_hit.webp",
+   "h": 0.964,
+   "dx": 0.006,
+   "dy": -0.02
+  },
+  "pebbleplop_4_idle2": {
+   "file": "poses/pebbleplop_4_idle2.webp",
+   "h": 1.002,
+   "dx": 0,
+   "dy": 0.002
+  },
+  "cinderpup_1_ability": {
+   "file": "poses/cinderpup_1_ability.webp",
+   "h": 1.167,
+   "dx": 0.019,
+   "dy": 0.055
+  },
+  "cinderpup_1_asleep": {
+   "file": "poses/cinderpup_1_asleep.webp",
+   "h": 0.708,
+   "dx": 0.022,
+   "dy": -0.145
+  },
+  "cinderpup_1_attack": {
+   "file": "poses/cinderpup_1_attack.webp",
+   "h": 0.958,
+   "dx": 0.029,
+   "dy": -0.026
+  },
+  "cinderpup_1_happy": {
+   "file": "poses/cinderpup_1_happy.webp",
+   "h": 1.096,
+   "dx": 0.013,
+   "dy": 0.03
+  },
+  "cinderpup_1_hit": {
+   "file": "poses/cinderpup_1_hit.webp",
+   "h": 1.031,
+   "dx": -0.025,
+   "dy": 0.004
+  },
+  "cinderpup_1_idle2": {
+   "file": "poses/cinderpup_1_idle2.webp",
+   "h": 1.029,
+   "dx": 0.001,
+   "dy": 0.001
+  },
+  "cinderpup_2_ability": {
+   "file": "poses/cinderpup_2_ability.webp",
+   "h": 0.969,
+   "dx": -0.013,
+   "dy": -0.011
+  },
+  "cinderpup_2_asleep": {
+   "file": "poses/cinderpup_2_asleep.webp",
+   "h": 0.745,
+   "dx": 0.009,
+   "dy": -0.107
+  },
+  "cinderpup_2_attack": {
+   "file": "poses/cinderpup_2_attack.webp",
+   "h": 0.843,
+   "dx": 0.016,
+   "dy": -0.077
+  },
+  "cinderpup_2_happy": {
+   "file": "poses/cinderpup_2_happy.webp",
+   "h": 0.962,
+   "dx": 0.004,
+   "dy": -0.022
+  },
+  "cinderpup_2_hit": {
+   "file": "poses/cinderpup_2_hit.webp",
+   "h": 0.964,
+   "dx": -0.019,
+   "dy": -0.019
+  },
+  "cinderpup_2_idle2": {
+   "file": "poses/cinderpup_2_idle2.webp",
+   "h": 1.001,
+   "dx": 0.002,
+   "dy": 0.001
+  },
+  "cinderpup_3_ability": {
+   "file": "poses/cinderpup_3_ability.webp",
+   "h": 0.977,
+   "dx": 0.014,
+   "dy": -0.007
+  },
+  "cinderpup_3_asleep": {
+   "file": "poses/cinderpup_3_asleep.webp",
+   "h": 0.658,
+   "dx": 0.018,
+   "dy": -0.161
+  },
+  "cinderpup_3_attack": {
+   "file": "poses/cinderpup_3_attack.webp",
+   "h": 0.852,
+   "dx": 0.025,
+   "dy": -0.056
+  },
+  "cinderpup_3_happy": {
+   "file": "poses/cinderpup_3_happy.webp",
+   "h": 0.975,
+   "dx": 0.016,
+   "dy": -0.009
+  },
+  "cinderpup_3_hit": {
+   "file": "poses/cinderpup_3_hit.webp",
+   "h": 0.956,
+   "dx": -0.011,
+   "dy": -0.022
+  },
+  "cinderpup_3_idle2": {
+   "file": "poses/cinderpup_3_idle2.webp",
+   "h": 1,
+   "dx": 0.001,
+   "dy": 0
+  },
+  "cinderpup_4_ability": {
+   "file": "poses/cinderpup_4_ability.webp",
+   "h": 0.966,
+   "dx": 0.012,
+   "dy": -0.018
+  },
+  "cinderpup_4_asleep": {
+   "file": "poses/cinderpup_4_asleep.webp",
+   "h": 0.867,
+   "dx": 0.014,
+   "dy": -0.053
+  },
+  "cinderpup_4_attack": {
+   "file": "poses/cinderpup_4_attack.webp",
+   "h": 0.841,
+   "dx": 0.017,
+   "dy": -0.072
+  },
+  "cinderpup_4_happy": {
+   "file": "poses/cinderpup_4_happy.webp",
+   "h": 0.962,
+   "dx": 0.006,
+   "dy": -0.025
+  },
+  "cinderpup_4_hit": {
+   "file": "poses/cinderpup_4_hit.webp",
+   "h": 0.962,
+   "dx": 0.005,
+   "dy": -0.025
+  },
+  "cinderpup_4_idle2": {
+   "file": "poses/cinderpup_4_idle2.webp",
+   "h": 0.999,
+   "dx": 0.001,
+   "dy": -0.001
+  },
+  "puddlepaw_1_ability": {
+   "file": "poses/puddlepaw_1_ability.webp",
+   "h": 1.056,
+   "dx": 0.011,
+   "dy": 0.006
+  },
+  "puddlepaw_1_asleep": {
+   "file": "poses/puddlepaw_1_asleep.webp",
+   "h": 0.831,
+   "dx": 0.032,
+   "dy": -0.049
+  },
+  "puddlepaw_1_attack": {
+   "file": "poses/puddlepaw_1_attack.webp",
+   "h": 0.905,
+   "dx": 0.026,
+   "dy": -0.055
+  },
+  "puddlepaw_1_happy": {
+   "file": "poses/puddlepaw_1_happy.webp",
+   "h": 1.107,
+   "dx": 0.005,
+   "dy": 0.046
+  },
+  "puddlepaw_1_hit": {
+   "file": "poses/puddlepaw_1_hit.webp",
+   "h": 1.02,
+   "dx": -0.005,
+   "dy": -0.003
+  },
+  "puddlepaw_1_idle2": {
+   "file": "poses/puddlepaw_1_idle2.webp",
+   "h": 1.017,
+   "dx": 0.003,
+   "dy": 0.002
+  },
+  "puddlepaw_2_ability": {
+   "file": "poses/puddlepaw_2_ability.webp",
+   "h": 0.979,
+   "dx": 0.016,
+   "dy": -0.005
+  },
+  "puddlepaw_2_asleep": {
+   "file": "poses/puddlepaw_2_asleep.webp",
+   "h": 0.824,
+   "dx": 0.013,
+   "dy": -0.045
+  },
+  "puddlepaw_2_attack": {
+   "file": "poses/puddlepaw_2_attack.webp",
+   "h": 0.863,
+   "dx": 0.012,
+   "dy": -0.074
+  },
+  "puddlepaw_2_happy": {
+   "file": "poses/puddlepaw_2_happy.webp",
+   "h": 0.964,
+   "dx": -0.008,
+   "dy": -0.017
+  },
+  "puddlepaw_2_hit": {
+   "file": "poses/puddlepaw_2_hit.webp",
+   "h": 0.967,
+   "dx": -0.005,
+   "dy": -0.017
+  },
+  "puddlepaw_2_idle2": {
+   "file": "poses/puddlepaw_2_idle2.webp",
+   "h": 1.005,
+   "dx": 0,
+   "dy": 0.003
+  },
+  "puddlepaw_3_ability": {
+   "file": "poses/puddlepaw_3_ability.webp",
+   "h": 0.872,
+   "dx": -0.003,
+   "dy": -0.065
+  },
+  "puddlepaw_3_asleep": {
+   "file": "poses/puddlepaw_3_asleep.webp",
+   "h": 0.792,
+   "dx": -0.006,
+   "dy": -0.056
+  },
+  "puddlepaw_3_attack": {
+   "file": "poses/puddlepaw_3_attack.webp",
+   "h": 0.913,
+   "dx": -0.003,
+   "dy": -0.024
+  },
+  "puddlepaw_3_happy": {
+   "file": "poses/puddlepaw_3_happy.webp",
+   "h": 0.964,
+   "dx": -0.004,
+   "dy": -0.018
+  },
+  "puddlepaw_3_hit": {
+   "file": "poses/puddlepaw_3_hit.webp",
+   "h": 0.965,
+   "dx": -0.009,
+   "dy": -0.019
+  },
+  "puddlepaw_3_idle2": {
+   "file": "poses/puddlepaw_3_idle2.webp",
+   "h": 1.002,
+   "dx": -0.002,
+   "dy": 0
+  },
+  "puddlepaw_4_ability": {
+   "file": "poses/puddlepaw_4_ability.webp",
+   "h": 0.964,
+   "dx": -0.004,
+   "dy": -0.02
+  },
+  "puddlepaw_4_asleep": {
+   "file": "poses/puddlepaw_4_asleep.webp",
+   "h": 0.827,
+   "dx": -0.008,
+   "dy": -0.057
+  },
+  "puddlepaw_4_attack": {
+   "file": "poses/puddlepaw_4_attack.webp",
+   "h": 0.926,
+   "dx": -0.001,
+   "dy": -0.023
+  },
+  "puddlepaw_4_happy": {
+   "file": "poses/puddlepaw_4_happy.webp",
+   "h": 0.976,
+   "dx": -0.026,
+   "dy": -0.011
+  },
+  "puddlepaw_4_hit": {
+   "file": "poses/puddlepaw_4_hit.webp",
+   "h": 0.963,
+   "dx": -0.009,
+   "dy": -0.019
+  },
+  "puddlepaw_4_idle2": {
+   "file": "poses/puddlepaw_4_idle2.webp",
+   "h": 1.002,
+   "dx": 0,
+   "dy": 0.002
+  },
+  "nimblet_1_ability": {
+   "file": "poses/nimblet_1_ability.webp",
+   "h": 1.004,
+   "dx": 0.014,
+   "dy": -0.004
+  },
+  "nimblet_1_asleep": {
+   "file": "poses/nimblet_1_asleep.webp",
+   "h": 0.791,
+   "dx": 0.004,
+   "dy": -0.098
+  },
+  "nimblet_1_attack": {
+   "file": "poses/nimblet_1_attack.webp",
+   "h": 0.887,
+   "dx": -0.002,
+   "dy": -0.055
+  },
+  "nimblet_1_happy": {
+   "file": "poses/nimblet_1_happy.webp",
+   "h": 1.004,
+   "dx": 0,
+   "dy": 0.001
+  },
+  "nimblet_1_hit": {
+   "file": "poses/nimblet_1_hit.webp",
+   "h": 1.008,
+   "dx": -0.008,
+   "dy": -0.001
+  },
+  "nimblet_1_idle2": {
+   "file": "poses/nimblet_1_idle2.webp",
+   "h": 1.015,
+   "dx": 0,
+   "dy": 0.002
+  },
+  "nimblet_2_ability": {
+   "file": "poses/nimblet_2_ability.webp",
+   "h": 0.831,
+   "dx": 0.014,
+   "dy": -0.102
+  },
+  "nimblet_2_asleep": {
+   "file": "poses/nimblet_2_asleep.webp",
+   "h": 0.871,
+   "dx": 0.003,
+   "dy": -0.073
+  },
+  "nimblet_2_attack": {
+   "file": "poses/nimblet_2_attack.webp",
+   "h": 0.869,
+   "dx": 0.003,
+   "dy": -0.066
+  },
+  "nimblet_2_happy": {
+   "file": "poses/nimblet_2_happy.webp",
+   "h": 1.002,
+   "dx": -0.008,
+   "dy": 0
+  },
+  "nimblet_2_hit": {
+   "file": "poses/nimblet_2_hit.webp",
+   "h": 1.004,
+   "dx": -0.007,
+   "dy": 0
+  },
+  "nimblet_2_idle2": {
+   "file": "poses/nimblet_2_idle2.webp",
+   "h": 1.013,
+   "dx": 0.001,
+   "dy": 0.001
+  },
+  "nimblet_3_ability": {
+   "file": "poses/nimblet_3_ability.webp",
+   "h": 1.03,
+   "dx": -0.002,
+   "dy": 0.017
+  },
+  "nimblet_3_asleep": {
+   "file": "poses/nimblet_3_asleep.webp",
+   "h": 0.677,
+   "dx": -0.006,
+   "dy": -0.147
+  },
+  "nimblet_3_attack": {
+   "file": "poses/nimblet_3_attack.webp",
+   "h": 0.822,
+   "dx": 0.002,
+   "dy": -0.07
+  },
+  "nimblet_3_happy": {
+   "file": "poses/nimblet_3_happy.webp",
+   "h": 0.999,
+   "dx": -0.001,
+   "dy": -0.003
+  },
+  "nimblet_3_hit": {
+   "file": "poses/nimblet_3_hit.webp",
+   "h": 0.951,
+   "dx": -0.004,
+   "dy": -0.004
+  },
+  "nimblet_3_idle2": {
+   "file": "poses/nimblet_3_idle2.webp",
+   "h": 1.005,
+   "dx": 0,
+   "dy": 0.001
+  },
+  "nimblet_4_ability": {
+   "file": "poses/nimblet_4_ability.webp",
+   "h": 0.963,
+   "dx": -0.001,
+   "dy": -0.019
+  },
+  "nimblet_4_asleep": {
+   "file": "poses/nimblet_4_asleep.webp",
+   "h": 0.926,
+   "dx": -0.004,
+   "dy": -0.032
+  },
+  "nimblet_4_attack": {
+   "file": "poses/nimblet_4_attack.webp",
+   "h": 0.895,
+   "dx": 0.005,
+   "dy": -0.06
+  },
+  "nimblet_4_happy": {
+   "file": "poses/nimblet_4_happy.webp",
+   "h": 0.961,
+   "dx": 0.006,
+   "dy": -0.021
+  },
+  "nimblet_4_hit": {
+   "file": "poses/nimblet_4_hit.webp",
+   "h": 0.96,
+   "dx": 0.002,
+   "dy": -0.022
+  },
+  "nimblet_4_idle2": {
+   "file": "poses/nimblet_4_idle2.webp",
+   "h": 1.002,
+   "dx": 0,
+   "dy": 0.002
+  },
+  "wisplet_1_ability": {
+   "file": "poses/wisplet_1_ability.webp",
+   "h": 1.044,
+   "dx": 0.024,
+   "dy": -0.001
+  },
+  "wisplet_1_asleep": {
+   "file": "poses/wisplet_1_asleep.webp",
+   "h": 0.749,
+   "dx": 0.039,
+   "dy": -0.084
+  },
+  "wisplet_1_attack": {
+   "file": "poses/wisplet_1_attack.webp",
+   "h": 0.902,
+   "dx": 0.042,
+   "dy": -0.024
+  },
+  "wisplet_1_happy": {
+   "file": "poses/wisplet_1_happy.webp",
+   "h": 1.035,
+   "dx": 0.008,
+   "dy": -0.003
+  },
+  "wisplet_1_hit": {
+   "file": "poses/wisplet_1_hit.webp",
+   "h": 1.025,
+   "dx": -0.012,
+   "dy": -0.009
+  },
+  "wisplet_1_idle2": {
+   "file": "poses/wisplet_1_idle2.webp",
+   "h": 1.017,
+   "dx": 0.001,
+   "dy": 0.001
+  },
+  "wisplet_2_ability": {
+   "file": "poses/wisplet_2_ability.webp",
+   "h": 0.955,
+   "dx": 0.009,
+   "dy": -0.026
+  },
+  "wisplet_2_asleep": {
+   "file": "poses/wisplet_2_asleep.webp",
+   "h": 0.865,
+   "dx": 0.001,
+   "dy": -0.069
+  },
+  "wisplet_2_attack": {
+   "file": "poses/wisplet_2_attack.webp",
+   "h": 0.956,
+   "dx": 0.005,
+   "dy": -0.025
+  },
+  "wisplet_2_happy": {
+   "file": "poses/wisplet_2_happy.webp",
+   "h": 0.961,
+   "dx": 0.009,
+   "dy": -0.022
+  },
+  "wisplet_2_hit": {
+   "file": "poses/wisplet_2_hit.webp",
+   "h": 0.961,
+   "dx": 0.001,
+   "dy": -0.021
+  },
+  "wisplet_2_idle2": {
+   "file": "poses/wisplet_2_idle2.webp",
+   "h": 1.004,
+   "dx": 0.001,
+   "dy": 0
+  },
+  "wisplet_3_ability": {
+   "file": "poses/wisplet_3_ability.webp",
+   "h": 0.98,
+   "dx": 0.003,
+   "dy": -0.002
+  },
+  "wisplet_3_asleep": {
+   "file": "poses/wisplet_3_asleep.webp",
+   "h": 0.775,
+   "dx": 0.004,
+   "dy": -0.107
+  },
+  "wisplet_3_attack": {
+   "file": "poses/wisplet_3_attack.webp",
+   "h": 0.952,
+   "dx": 0.001,
+   "dy": -0.02
+  },
+  "wisplet_3_happy": {
+   "file": "poses/wisplet_3_happy.webp",
+   "h": 0.986,
+   "dx": 0.001,
+   "dy": 0.003
+  },
+  "wisplet_3_hit": {
+   "file": "poses/wisplet_3_hit.webp",
+   "h": 0.97,
+   "dx": -0.001,
+   "dy": -0.01
+  },
+  "wisplet_3_idle2": {
+   "file": "poses/wisplet_3_idle2.webp",
+   "h": 1.008,
+   "dx": 0.001,
+   "dy": 0.001
+  },
+  "wisplet_4_ability": {
+   "file": "poses/wisplet_4_ability.webp",
+   "h": 0.982,
+   "dx": -0.005,
+   "dy": -0.009
+  },
+  "wisplet_4_asleep": {
+   "file": "poses/wisplet_4_asleep.webp",
+   "h": 0.933,
+   "dx": 0.001,
+   "dy": -0.02
+  },
+  "wisplet_4_attack": {
+   "file": "poses/wisplet_4_attack.webp",
+   "h": 0.966,
+   "dx": -0.005,
+   "dy": -0.013
+  },
+  "wisplet_4_happy": {
+   "file": "poses/wisplet_4_happy.webp",
+   "h": 0.969,
+   "dx": -0.001,
+   "dy": -0.018
+  },
+  "wisplet_4_hit": {
+   "file": "poses/wisplet_4_hit.webp",
+   "h": 0.966,
+   "dx": -0.005,
+   "dy": -0.018
+  },
+  "wisplet_4_idle2": {
+   "file": "poses/wisplet_4_idle2.webp",
+   "h": 1.004,
+   "dx": 0,
+   "dy": -0.001
+  },
+  "zapquill_1_ability": {
+   "file": "poses/zapquill_1_ability.webp",
+   "h": 1.037,
+   "dx": 0.022,
+   "dy": 0.006
+  },
+  "zapquill_1_asleep": {
+   "file": "poses/zapquill_1_asleep.webp",
+   "h": 0.83,
+   "dx": 0.025,
+   "dy": -0.054
+  },
+  "zapquill_1_attack": {
+   "file": "poses/zapquill_1_attack.webp",
+   "h": 0.956,
+   "dx": 0.052,
+   "dy": -0.017
+  },
+  "zapquill_1_happy": {
+   "file": "poses/zapquill_1_happy.webp",
+   "h": 1.085,
+   "dx": 0.008,
+   "dy": 0.041
+  },
+  "zapquill_1_hit": {
+   "file": "poses/zapquill_1_hit.webp",
+   "h": 1.006,
+   "dx": 0.023,
+   "dy": 0.001
+  },
+  "zapquill_1_idle2": {
+   "file": "poses/zapquill_1_idle2.webp",
+   "h": 1.008,
+   "dx": 0.003,
+   "dy": 0.001
+  },
+  "zapquill_2_ability": {
+   "file": "poses/zapquill_2_ability.webp",
+   "h": 1.153,
+   "dx": -0.006,
+   "dy": 0.087
+  },
+  "zapquill_2_asleep": {
+   "file": "poses/zapquill_2_asleep.webp",
+   "h": 0.919,
+   "dx": 0.007,
+   "dy": -0.025
+  },
+  "zapquill_2_attack": {
+   "file": "poses/zapquill_2_attack.webp",
+   "h": 1.006,
+   "dx": 0.003,
+   "dy": 0.023
+  },
+  "zapquill_2_happy": {
+   "file": "poses/zapquill_2_happy.webp",
+   "h": 1.163,
+   "dx": 0.005,
+   "dy": 0.11
+  },
+  "zapquill_2_hit": {
+   "file": "poses/zapquill_2_hit.webp",
+   "h": 1.041,
+   "dx": -0.002,
+   "dy": 0.03
+  },
+  "zapquill_2_idle2": {
+   "file": "poses/zapquill_2_idle2.webp",
+   "h": 1.029,
+   "dx": -0.001,
+   "dy": 0.003
+  },
+  "zapquill_3_ability": {
+   "file": "poses/zapquill_3_ability.webp",
+   "h": 1.019,
+   "dx": -0.006,
+   "dy": 0.019
+  },
+  "zapquill_3_asleep": {
+   "file": "poses/zapquill_3_asleep.webp",
+   "h": 0.864,
+   "dx": 0.005,
+   "dy": -0.048
+  },
+  "zapquill_3_attack": {
+   "file": "poses/zapquill_3_attack.webp",
+   "h": 0.984,
+   "dx": 0.001,
+   "dy": -0.001
+  },
+  "zapquill_3_happy": {
+   "file": "poses/zapquill_3_happy.webp",
+   "h": 1.001,
+   "dx": 0.001,
+   "dy": 0.019
+  },
+  "zapquill_3_hit": {
+   "file": "poses/zapquill_3_hit.webp",
+   "h": 0.995,
+   "dx": -0.01,
+   "dy": 0.004
+  },
+  "zapquill_3_idle2": {
+   "file": "poses/zapquill_3_idle2.webp",
+   "h": 1.011,
+   "dx": -0.002,
+   "dy": 0.001
+  },
+  "mossmop_1_ability": {
+   "file": "poses/mossmop_1_ability.webp",
+   "h": 1.076,
+   "dx": 0.027,
+   "dy": 0.013
+  },
+  "mossmop_1_asleep": {
+   "file": "poses/mossmop_1_asleep.webp",
+   "h": 0.788,
+   "dx": 0.012,
+   "dy": -0.088
+  },
+  "mossmop_1_attack": {
+   "file": "poses/mossmop_1_attack.webp",
+   "h": 0.92,
+   "dx": 0.021,
+   "dy": -0.053
+  },
+  "mossmop_1_happy": {
+   "file": "poses/mossmop_1_happy.webp",
+   "h": 1.039,
+   "dx": 0.004,
+   "dy": 0.011
+  },
+  "mossmop_1_hit": {
+   "file": "poses/mossmop_1_hit.webp",
+   "h": 1.071,
+   "dx": -0.003,
+   "dy": 0.005
+  },
+  "mossmop_1_idle2": {
+   "file": "poses/mossmop_1_idle2.webp",
+   "h": 1.019,
+   "dx": 0,
+   "dy": 0.001
+  },
+  "mossmop_2_ability": {
+   "file": "poses/mossmop_2_ability.webp",
+   "h": 0.984,
+   "dx": -0.001,
+   "dy": -0.007
+  },
+  "mossmop_2_asleep": {
+   "file": "poses/mossmop_2_asleep.webp",
+   "h": 0.854,
+   "dx": 0.005,
+   "dy": -0.034
+  },
+  "mossmop_2_attack": {
+   "file": "poses/mossmop_2_attack.webp",
+   "h": 0.961,
+   "dx": 0.005,
+   "dy": -0.019
+  },
+  "mossmop_2_happy": {
+   "file": "poses/mossmop_2_happy.webp",
+   "h": 0.985,
+   "dx": 0.002,
+   "dy": -0.002
+  },
+  "mossmop_2_hit": {
+   "file": "poses/mossmop_2_hit.webp",
+   "h": 0.971,
+   "dx": -0.017,
+   "dy": -0.013
+  },
+  "mossmop_2_idle2": {
+   "file": "poses/mossmop_2_idle2.webp",
+   "h": 1.011,
+   "dx": 0,
+   "dy": 0.001
+  },
+  "mossmop_3_ability": {
+   "file": "poses/mossmop_3_ability.webp",
+   "h": 0.964,
+   "dx": -0.005,
+   "dy": -0.019
+  },
+  "mossmop_3_asleep": {
+   "file": "poses/mossmop_3_asleep.webp",
+   "h": 0.945,
+   "dx": 0,
+   "dy": -0.026
+  },
+  "mossmop_3_attack": {
+   "file": "poses/mossmop_3_attack.webp",
+   "h": 0.947,
+   "dx": 0.004,
+   "dy": -0.036
+  },
+  "mossmop_3_happy": {
+   "file": "poses/mossmop_3_happy.webp",
+   "h": 0.96,
+   "dx": 0,
+   "dy": -0.023
+  },
+  "mossmop_3_hit": {
+   "file": "poses/mossmop_3_hit.webp",
+   "h": 0.965,
+   "dx": 0.006,
+   "dy": -0.02
+  },
+  "mossmop_3_idle2": {
+   "file": "poses/mossmop_3_idle2.webp",
+   "h": 1,
+   "dx": 0,
+   "dy": 0
+  },
+  "wickwisp_1_ability": {
+   "file": "poses/wickwisp_1_ability.webp",
+   "h": 0.975,
+   "dx": -0.004,
+   "dy": -0.017
+  },
+  "wickwisp_1_asleep": {
+   "file": "poses/wickwisp_1_asleep.webp",
+   "h": 0.802,
+   "dx": -0.009,
+   "dy": -0.089
+  },
+  "wickwisp_1_attack": {
+   "file": "poses/wickwisp_1_attack.webp",
+   "h": 1.003,
+   "dx": -0.007,
+   "dy": 0.003
+  },
+  "wickwisp_1_happy": {
+   "file": "poses/wickwisp_1_happy.webp",
+   "h": 1.007,
+   "dx": -0.005,
+   "dy": 0.001
+  },
+  "wickwisp_1_hit": {
+   "file": "poses/wickwisp_1_hit.webp",
+   "h": 1.007,
+   "dx": 0,
+   "dy": 0.002
+  },
+  "wickwisp_1_idle2": {
+   "file": "poses/wickwisp_1_idle2.webp",
+   "h": 1.007,
+   "dx": 0.005,
+   "dy": 0.002
+  },
+  "wickwisp_2_ability": {
+   "file": "poses/wickwisp_2_ability.webp",
+   "h": 0.961,
+   "dx": 0.006,
+   "dy": -0.018
+  },
+  "wickwisp_2_asleep": {
+   "file": "poses/wickwisp_2_asleep.webp",
+   "h": 0.917,
+   "dx": 0.006,
+   "dy": -0.041
+  },
+  "wickwisp_2_attack": {
+   "file": "poses/wickwisp_2_attack.webp",
+   "h": 0.957,
+   "dx": 0.007,
+   "dy": -0.017
+  },
+  "wickwisp_2_happy": {
+   "file": "poses/wickwisp_2_happy.webp",
+   "h": 0.964,
+   "dx": -0.002,
+   "dy": -0.018
+  },
+  "wickwisp_2_hit": {
+   "file": "poses/wickwisp_2_hit.webp",
+   "h": 0.96,
+   "dx": 0.01,
+   "dy": -0.018
+  },
+  "wickwisp_2_idle2": {
+   "file": "poses/wickwisp_2_idle2.webp",
+   "h": 1,
+   "dx": 0.004,
+   "dy": 0
+  },
+  "wickwisp_3_ability": {
+   "file": "poses/wickwisp_3_ability.webp",
+   "h": 0.973,
+   "dx": 0.002,
+   "dy": -0.012
+  },
+  "wickwisp_3_asleep": {
+   "file": "poses/wickwisp_3_asleep.webp",
+   "h": 0.987,
+   "dx": 0.007,
+   "dy": 0
+  },
+  "wickwisp_3_attack": {
+   "file": "poses/wickwisp_3_attack.webp",
+   "h": 0.958,
+   "dx": 0,
+   "dy": -0.023
+  },
+  "wickwisp_3_happy": {
+   "file": "poses/wickwisp_3_happy.webp",
+   "h": 0.97,
+   "dx": 0.001,
+   "dy": -0.014
+  },
+  "wickwisp_3_hit": {
+   "file": "poses/wickwisp_3_hit.webp",
+   "h": 0.965,
+   "dx": -0.012,
+   "dy": -0.017
+  },
+  "wickwisp_3_idle2": {
+   "file": "poses/wickwisp_3_idle2.webp",
+   "h": 1.001,
+   "dx": 0,
+   "dy": 0.001
+  },
+  "peekaroo_1_ability": {
+   "file": "poses/peekaroo_1_ability.webp",
+   "h": 0.976,
+   "dx": -0.009,
+   "dy": -0.019
+  },
+  "peekaroo_1_asleep": {
+   "file": "poses/peekaroo_1_asleep.webp",
+   "h": 0.821,
+   "dx": 0.018,
+   "dy": -0.049
+  },
+  "peekaroo_1_attack": {
+   "file": "poses/peekaroo_1_attack.webp",
+   "h": 0.98,
+   "dx": 0.026,
+   "dy": -0.007
+  },
+  "peekaroo_1_happy": {
+   "file": "poses/peekaroo_1_happy.webp",
+   "h": 0.979,
+   "dx": 0.024,
+   "dy": -0.014
+  },
+  "peekaroo_1_hit": {
+   "file": "poses/peekaroo_1_hit.webp",
+   "h": 0.968,
+   "dx": 0.027,
+   "dy": -0.02
+  },
+  "peekaroo_1_idle2": {
+   "file": "poses/peekaroo_1_idle2.webp",
+   "h": 1.006,
+   "dx": -0.002,
+   "dy": 0
+  },
+  "peekaroo_2_ability": {
+   "file": "poses/peekaroo_2_ability.webp",
+   "h": 0.972,
+   "dx": 0.005,
+   "dy": -0.011
+  },
+  "peekaroo_2_asleep": {
+   "file": "poses/peekaroo_2_asleep.webp",
+   "h": 0.84,
+   "dx": 0.011,
+   "dy": -0.06
+  },
+  "peekaroo_2_attack": {
+   "file": "poses/peekaroo_2_attack.webp",
+   "h": 0.898,
+   "dx": -0.007,
+   "dy": -0.043
+  },
+  "peekaroo_2_happy": {
+   "file": "poses/peekaroo_2_happy.webp",
+   "h": 0.973,
+   "dx": -0.006,
+   "dy": -0.01
+  },
+  "peekaroo_2_hit": {
+   "file": "poses/peekaroo_2_hit.webp",
+   "h": 0.964,
+   "dx": -0.012,
+   "dy": -0.015
+  },
+  "peekaroo_2_idle2": {
+   "file": "poses/peekaroo_2_idle2.webp",
+   "h": 1.001,
+   "dx": 0.001,
+   "dy": 0.001
+  },
+  "peekaroo_3_ability": {
+   "file": "poses/peekaroo_3_ability.webp",
+   "h": 0.881,
+   "dx": 0.001,
+   "dy": -0.065
+  },
+  "peekaroo_3_asleep": {
+   "file": "poses/peekaroo_3_asleep.webp",
+   "h": 0.971,
+   "dx": -0.004,
+   "dy": -0.007
+  },
+  "peekaroo_3_attack": {
+   "file": "poses/peekaroo_3_attack.webp",
+   "h": 0.838,
+   "dx": 0.007,
+   "dy": -0.088
+  },
+  "peekaroo_3_happy": {
+   "file": "poses/peekaroo_3_happy.webp",
+   "h": 0.97,
+   "dx": -0.001,
+   "dy": -0.015
+  },
+  "peekaroo_3_hit": {
+   "file": "poses/peekaroo_3_hit.webp",
+   "h": 0.963,
+   "dx": 0,
+   "dy": -0.02
+  },
+  "peekaroo_3_idle2": {
+   "file": "poses/peekaroo_3_idle2.webp",
+   "h": 1,
+   "dx": 0,
+   "dy": 0
+  },
+  "twinkits_1_ability": {
+   "file": "poses/twinkits_1_ability.webp",
+   "h": 1.116,
+   "dx": 0.002,
+   "dy": 0.012
+  },
+  "twinkits_1_asleep": {
+   "file": "poses/twinkits_1_asleep.webp",
+   "h": 0.995,
+   "dx": -0.008,
+   "dy": 0.013
+  },
+  "twinkits_1_attack": {
+   "file": "poses/twinkits_1_attack.webp",
+   "h": 1.013,
+   "dx": -0.004,
+   "dy": -0.027
+  },
+  "twinkits_1_happy": {
+   "file": "poses/twinkits_1_happy.webp",
+   "h": 1.129,
+   "dx": 0.001,
+   "dy": 0.025
+  },
+  "twinkits_1_hit": {
+   "file": "poses/twinkits_1_hit.webp",
+   "h": 1.058,
+   "dx": -0.01,
+   "dy": -0.015
+  },
+  "twinkits_1_idle2": {
+   "file": "poses/twinkits_1_idle2.webp",
+   "h": 1.002,
+   "dx": 0.002,
+   "dy": 0.001
+  },
+  "twinkits_2_ability": {
+   "file": "poses/twinkits_2_ability.webp",
+   "h": 1.143,
+   "dx": 0.017,
+   "dy": 0.06
+  },
+  "twinkits_2_asleep": {
+   "file": "poses/twinkits_2_asleep.webp",
+   "h": 0.939,
+   "dx": 0.014,
+   "dy": -0.025
+  },
+  "twinkits_2_attack": {
+   "file": "poses/twinkits_2_attack.webp",
+   "h": 1.003,
+   "dx": 0.006,
+   "dy": -0.005
+  },
+  "twinkits_2_happy": {
+   "file": "poses/twinkits_2_happy.webp",
+   "h": 1.122,
+   "dx": 0.011,
+   "dy": 0.063
+  },
+  "twinkits_2_hit": {
+   "file": "poses/twinkits_2_hit.webp",
+   "h": 1.031,
+   "dx": -0.017,
+   "dy": 0.005
+  },
+  "twinkits_2_idle2": {
+   "file": "poses/twinkits_2_idle2.webp",
+   "h": 1.023,
+   "dx": 0.001,
+   "dy": 0.001
+  },
+  "twinkits_3_ability": {
+   "file": "poses/twinkits_3_ability.webp",
+   "h": 1.036,
+   "dx": 0.001,
+   "dy": 0.028
+  },
+  "twinkits_3_asleep": {
+   "file": "poses/twinkits_3_asleep.webp",
+   "h": 0.958,
+   "dx": -0.001,
+   "dy": -0.023
+  },
+  "twinkits_3_attack": {
+   "file": "poses/twinkits_3_attack.webp",
+   "h": 1.059,
+   "dx": 0.001,
+   "dy": 0.054
+  },
+  "twinkits_3_happy": {
+   "file": "poses/twinkits_3_happy.webp",
+   "h": 1.018,
+   "dx": 0.003,
+   "dy": 0.022
+  },
+  "twinkits_3_hit": {
+   "file": "poses/twinkits_3_hit.webp",
+   "h": 0.987,
+   "dx": -0.002,
+   "dy": -0.005
+  },
+  "twinkits_3_idle2": {
+   "file": "poses/twinkits_3_idle2.webp",
+   "h": 0.998,
+   "dx": 0,
+   "dy": 0.001
+  },
+  "grubbo_1_ability": {
+   "file": "poses/grubbo_1_ability.webp",
+   "h": 1.113,
+   "dx": 0.025,
+   "dy": 0.04
+  },
+  "grubbo_1_asleep": {
+   "file": "poses/grubbo_1_asleep.webp",
+   "h": 0.918,
+   "dx": -0.001,
+   "dy": -0.01
+  },
+  "grubbo_1_attack": {
+   "file": "poses/grubbo_1_attack.webp",
+   "h": 0.937,
+   "dx": 0.006,
+   "dy": -0.044
+  },
+  "grubbo_1_happy": {
+   "file": "poses/grubbo_1_happy.webp",
+   "h": 1.129,
+   "dx": 0.004,
+   "dy": 0.05
+  },
+  "grubbo_1_hit": {
+   "file": "poses/grubbo_1_hit.webp",
+   "h": 1.05,
+   "dx": 0.005,
+   "dy": 0.016
+  },
+  "grubbo_1_idle2": {
+   "file": "poses/grubbo_1_idle2.webp",
+   "h": 1.02,
+   "dx": -0.001,
+   "dy": 0
+  },
+  "grubbo_2_ability": {
+   "file": "poses/grubbo_2_ability.webp",
+   "h": 1.026,
+   "dx": 0.002,
+   "dy": 0.026
+  },
+  "grubbo_2_asleep": {
+   "file": "poses/grubbo_2_asleep.webp",
+   "h": 0.961,
+   "dx": 0.001,
+   "dy": -0.005
+  },
+  "grubbo_2_attack": {
+   "file": "poses/grubbo_2_attack.webp",
+   "h": 1.002,
+   "dx": 0.003,
+   "dy": 0
+  },
+  "grubbo_2_happy": {
+   "file": "poses/grubbo_2_happy.webp",
+   "h": 1.032,
+   "dx": 0.006,
+   "dy": 0.03
+  },
+  "grubbo_2_hit": {
+   "file": "poses/grubbo_2_hit.webp",
+   "h": 1.033,
+   "dx": -0.016,
+   "dy": 0.028
+  },
+  "grubbo_2_idle2": {
+   "file": "poses/grubbo_2_idle2.webp",
+   "h": 1.002,
+   "dx": 0,
+   "dy": 0
+  },
+  "grubbo_3_ability": {
+   "file": "poses/grubbo_3_ability.webp",
+   "h": 1.003,
+   "dx": 0.003,
+   "dy": 0.003
+  },
+  "grubbo_3_asleep": {
+   "file": "poses/grubbo_3_asleep.webp",
+   "h": 0.974,
+   "dx": 0.009,
+   "dy": -0.007
+  },
+  "grubbo_3_attack": {
+   "file": "poses/grubbo_3_attack.webp",
+   "h": 0.997,
+   "dx": 0.004,
+   "dy": -0.003
+  },
+  "grubbo_3_happy": {
+   "file": "poses/grubbo_3_happy.webp",
+   "h": 1.003,
+   "dx": 0.008,
+   "dy": 0.003
+  },
+  "grubbo_3_hit": {
+   "file": "poses/grubbo_3_hit.webp",
+   "h": 0.995,
+   "dx": 0.009,
+   "dy": -0.005
+  },
+  "grubbo_3_idle2": {
+   "file": "poses/grubbo_3_idle2.webp",
+   "h": 1.001,
+   "dx": 0,
+   "dy": 0.001
+  },
+  "hushowl_1_ability": {
+   "file": "poses/hushowl_1_ability.webp",
+   "h": 1.036,
+   "dx": 0.001,
+   "dy": 0.002
+  },
+  "hushowl_1_asleep": {
+   "file": "poses/hushowl_1_asleep.webp",
+   "h": 0.879,
+   "dx": 0,
+   "dy": -0.057
+  },
+  "hushowl_1_attack": {
+   "file": "poses/hushowl_1_attack.webp",
+   "h": 0.896,
+   "dx": 0.001,
+   "dy": -0.097
+  },
+  "hushowl_1_happy": {
+   "file": "poses/hushowl_1_happy.webp",
+   "h": 1.066,
+   "dx": 0.001,
+   "dy": 0.007
+  },
+  "hushowl_1_hit": {
+   "file": "poses/hushowl_1_hit.webp",
+   "h": 1.062,
+   "dx": 0.001,
+   "dy": 0.002
+  },
+  "hushowl_1_idle2": {
+   "file": "poses/hushowl_1_idle2.webp",
+   "h": 1.025,
+   "dx": 0.002,
+   "dy": 0.001
+  },
+  "hushowl_2_ability": {
+   "file": "poses/hushowl_2_ability.webp",
+   "h": 1.138,
+   "dx": 0.005,
+   "dy": 0.023
+  },
+  "hushowl_2_asleep": {
+   "file": "poses/hushowl_2_asleep.webp",
+   "h": 0.888,
+   "dx": 0.014,
+   "dy": -0.021
+  },
+  "hushowl_2_attack": {
+   "file": "poses/hushowl_2_attack.webp",
+   "h": 1.204,
+   "dx": 0.031,
+   "dy": 0.061
+  },
+  "hushowl_2_happy": {
+   "file": "poses/hushowl_2_happy.webp",
+   "h": 1.102,
+   "dx": 0.003,
+   "dy": 0.023
+  },
+  "hushowl_2_hit": {
+   "file": "poses/hushowl_2_hit.webp",
+   "h": 1.153,
+   "dx": 0.006,
+   "dy": 0.043
+  },
+  "hushowl_2_idle2": {
+   "file": "poses/hushowl_2_idle2.webp",
+   "h": 1.012,
+   "dx": 0.003,
+   "dy": 0.001
+  },
+  "hushowl_3_ability": {
+   "file": "poses/hushowl_3_ability.webp",
+   "h": 1.029,
+   "dx": 0.002,
+   "dy": 0.005
+  },
+  "hushowl_3_asleep": {
+   "file": "poses/hushowl_3_asleep.webp",
+   "h": 0.793,
+   "dx": 0.005,
+   "dy": -0.116
+  },
+  "hushowl_3_attack": {
+   "file": "poses/hushowl_3_attack.webp",
+   "h": 0.945,
+   "dx": 0.001,
+   "dy": -0.05
+  },
+  "hushowl_3_happy": {
+   "file": "poses/hushowl_3_happy.webp",
+   "h": 1.016,
+   "dx": 0.002,
+   "dy": -0.002
+  },
+  "hushowl_3_hit": {
+   "file": "poses/hushowl_3_hit.webp",
+   "h": 0.997,
+   "dx": 0.002,
+   "dy": 0
+  },
+  "hushowl_3_idle2": {
+   "file": "poses/hushowl_3_idle2.webp",
+   "h": 1.032,
+   "dx": 0.001,
+   "dy": 0.002
+  },
+  "burrowboom_1_ability": {
+   "file": "poses/burrowboom_1_ability.webp",
+   "h": 1.081,
+   "dx": 0.032,
+   "dy": 0.013
+  },
+  "burrowboom_1_asleep": {
+   "file": "poses/burrowboom_1_asleep.webp",
+   "h": 0.796,
+   "dx": 0.049,
+   "dy": -0.104
+  },
+  "burrowboom_1_attack": {
+   "file": "poses/burrowboom_1_attack.webp",
+   "h": 0.896,
+   "dx": 0.056,
+   "dy": -0.059
+  },
+  "burrowboom_1_happy": {
+   "file": "poses/burrowboom_1_happy.webp",
+   "h": 1.061,
+   "dx": 0.046,
+   "dy": 0.019
+  },
+  "burrowboom_1_hit": {
+   "file": "poses/burrowboom_1_hit.webp",
+   "h": 1.029,
+   "dx": 0.027,
+   "dy": -0.001
+  },
+  "burrowboom_1_idle2": {
+   "file": "poses/burrowboom_1_idle2.webp",
+   "h": 1.022,
+   "dx": 0.002,
+   "dy": 0.001
+  },
+  "burrowboom_2_ability": {
+   "file": "poses/burrowboom_2_ability.webp",
+   "h": 1.006,
+   "dx": 0.031,
+   "dy": 0.002
+  },
+  "burrowboom_2_asleep": {
+   "file": "poses/burrowboom_2_asleep.webp",
+   "h": 0.706,
+   "dx": 0.012,
+   "dy": -0.132
+  },
+  "burrowboom_2_attack": {
+   "file": "poses/burrowboom_2_attack.webp",
+   "h": 0.888,
+   "dx": 0.017,
+   "dy": -0.063
+  },
+  "burrowboom_2_happy": {
+   "file": "poses/burrowboom_2_happy.webp",
+   "h": 1.006,
+   "dx": 0.013,
+   "dy": 0.002
+  },
+  "burrowboom_2_hit": {
+   "file": "poses/burrowboom_2_hit.webp",
+   "h": 0.996,
+   "dx": 0.006,
+   "dy": -0.004
+  },
+  "burrowboom_2_idle2": {
+   "file": "poses/burrowboom_2_idle2.webp",
+   "h": 1.004,
+   "dx": -0.001,
+   "dy": 0
+  },
+  "burrowboom_3_ability": {
+   "file": "poses/burrowboom_3_ability.webp",
+   "h": 1.001,
+   "dx": 0.008,
+   "dy": 0.001
+  },
+  "burrowboom_3_asleep": {
+   "file": "poses/burrowboom_3_asleep.webp",
+   "h": 0.91,
+   "dx": 0.004,
+   "dy": -0.046
+  },
+  "burrowboom_3_attack": {
+   "file": "poses/burrowboom_3_attack.webp",
+   "h": 0.913,
+   "dx": 0.007,
+   "dy": -0.056
+  },
+  "burrowboom_3_happy": {
+   "file": "poses/burrowboom_3_happy.webp",
+   "h": 1.008,
+   "dx": 0.008,
+   "dy": 0.008
+  },
+  "burrowboom_3_hit": {
+   "file": "poses/burrowboom_3_hit.webp",
+   "h": 0.998,
+   "dx": -0.014,
+   "dy": -0.002
+  },
+  "burrowboom_3_idle2": {
+   "file": "poses/burrowboom_3_idle2.webp",
+   "h": 1.001,
+   "dx": 0,
+   "dy": 0.001
+  },
+  "lumibee_1_ability": {
+   "file": "poses/lumibee_1_ability.webp",
+   "h": 1.028,
+   "dx": -0.011,
+   "dy": 0.009
+  },
+  "lumibee_1_asleep": {
+   "file": "poses/lumibee_1_asleep.webp",
+   "h": 0.851,
+   "dx": 0.017,
+   "dy": -0.077
+  },
+  "lumibee_1_attack": {
+   "file": "poses/lumibee_1_attack.webp",
+   "h": 0.985,
+   "dx": 0.023,
+   "dy": -0.002
+  },
+  "lumibee_1_happy": {
+   "file": "poses/lumibee_1_happy.webp",
+   "h": 1.012,
+   "dx": 0,
+   "dy": 0.003
+  },
+  "lumibee_1_hit": {
+   "file": "poses/lumibee_1_hit.webp",
+   "h": 1.018,
+   "dx": 0.027,
+   "dy": -0.002
+  },
+  "lumibee_1_idle2": {
+   "file": "poses/lumibee_1_idle2.webp",
+   "h": 1.025,
+   "dx": 0.001,
+   "dy": 0.002
+  },
+  "lumibee_2_ability": {
+   "file": "poses/lumibee_2_ability.webp",
+   "h": 0.987,
+   "dx": -0.008,
+   "dy": 0
+  },
+  "lumibee_2_asleep": {
+   "file": "poses/lumibee_2_asleep.webp",
+   "h": 0.849,
+   "dx": 0.005,
+   "dy": -0.082
+  },
+  "lumibee_2_attack": {
+   "file": "poses/lumibee_2_attack.webp",
+   "h": 0.999,
+   "dx": 0.004,
+   "dy": 0.001
+  },
+  "lumibee_2_happy": {
+   "file": "poses/lumibee_2_happy.webp",
+   "h": 1.011,
+   "dx": 0,
+   "dy": 0.006
+  },
+  "lumibee_2_hit": {
+   "file": "poses/lumibee_2_hit.webp",
+   "h": 1.005,
+   "dx": -0.031,
+   "dy": 0.003
+  },
+  "lumibee_2_idle2": {
+   "file": "poses/lumibee_2_idle2.webp",
+   "h": 0.979,
+   "dx": 0,
+   "dy": -0.011
+  },
+  "lumibee_3_ability": {
+   "file": "poses/lumibee_3_ability.webp",
+   "h": 0.975,
+   "dx": 0.004,
+   "dy": -0.019
+  },
+  "lumibee_3_asleep": {
+   "file": "poses/lumibee_3_asleep.webp",
+   "h": 0.862,
+   "dx": -0.003,
+   "dy": -0.062
+  },
+  "lumibee_3_attack": {
+   "file": "poses/lumibee_3_attack.webp",
+   "h": 1.001,
+   "dx": -0.005,
+   "dy": 0.002
+  },
+  "lumibee_3_happy": {
+   "file": "poses/lumibee_3_happy.webp",
+   "h": 0.979,
+   "dx": 0.003,
+   "dy": -0.013
+  },
+  "lumibee_3_hit": {
+   "file": "poses/lumibee_3_hit.webp",
+   "h": 0.968,
+   "dx": -0.002,
+   "dy": -0.023
+  },
+  "lumibee_3_idle2": {
+   "file": "poses/lumibee_3_idle2.webp",
+   "h": 0.945,
+   "dx": 0.002,
+   "dy": -0.053
+  },
+  "krakkle_1_ability": {
+   "file": "poses/krakkle_1_ability.webp",
+   "h": 1.153,
+   "dx": -0.016,
+   "dy": 0.024
+  },
+  "krakkle_1_asleep": {
+   "file": "poses/krakkle_1_asleep.webp",
+   "h": 0.868,
+   "dx": 0.003,
+   "dy": -0.049
+  },
+  "krakkle_1_attack": {
+   "file": "poses/krakkle_1_attack.webp",
+   "h": 0.96,
+   "dx": 0.003,
+   "dy": -0.037
+  },
+  "krakkle_1_happy": {
+   "file": "poses/krakkle_1_happy.webp",
+   "h": 1.13,
+   "dx": 0.003,
+   "dy": 0.022
+  },
+  "krakkle_1_hit": {
+   "file": "poses/krakkle_1_hit.webp",
+   "h": 1.075,
+   "dx": -0.037,
+   "dy": 0.003
+  },
+  "krakkle_1_idle2": {
+   "file": "poses/krakkle_1_idle2.webp",
+   "h": 1.024,
+   "dx": 0,
+   "dy": 0.001
+  },
+  "krakkle_2_ability": {
+   "file": "poses/krakkle_2_ability.webp",
+   "h": 1.162,
+   "dx": -0.001,
+   "dy": 0.038
+  },
+  "krakkle_2_asleep": {
+   "file": "poses/krakkle_2_asleep.webp",
+   "h": 0.772,
+   "dx": -0.005,
+   "dy": -0.099
+  },
+  "krakkle_2_attack": {
+   "file": "poses/krakkle_2_attack.webp",
+   "h": 0.905,
+   "dx": -0.006,
+   "dy": -0.078
+  },
+  "krakkle_2_happy": {
+   "file": "poses/krakkle_2_happy.webp",
+   "h": 1.166,
+   "dx": 0.004,
+   "dy": 0.04
+  },
+  "krakkle_2_hit": {
+   "file": "poses/krakkle_2_hit.webp",
+   "h": 1.057,
+   "dx": -0.004,
+   "dy": 0.001
+  },
+  "krakkle_2_idle2": {
+   "file": "poses/krakkle_2_idle2.webp",
+   "h": 1.018,
+   "dx": -0.002,
+   "dy": 0.001
+  },
+  "krakkle_3_ability": {
+   "file": "poses/krakkle_3_ability.webp",
+   "h": 1.042,
+   "dx": 0.001,
+   "dy": 0.024
+  },
+  "krakkle_3_asleep": {
+   "file": "poses/krakkle_3_asleep.webp",
+   "h": 0.797,
+   "dx": 0.003,
+   "dy": -0.07
+  },
+  "krakkle_3_attack": {
+   "file": "poses/krakkle_3_attack.webp",
+   "h": 0.869,
+   "dx": 0,
+   "dy": -0.07
+  },
+  "krakkle_3_happy": {
+   "file": "poses/krakkle_3_happy.webp",
+   "h": 1.026,
+   "dx": 0.005,
+   "dy": 0.023
+  },
+  "krakkle_3_hit": {
+   "file": "poses/krakkle_3_hit.webp",
+   "h": 1.023,
+   "dx": -0.017,
+   "dy": 0.009
+  },
+  "krakkle_3_idle2": {
+   "file": "poses/krakkle_3_idle2.webp",
+   "h": 1.004,
+   "dx": 0,
+   "dy": 0.001
+  },
+  "skyray_1_ability": {
+   "file": "poses/skyray_1_ability.webp",
+   "h": 1.206,
+   "dx": 0.002,
+   "dy": 0.017
+  },
+  "skyray_1_asleep": {
+   "file": "poses/skyray_1_asleep.webp",
+   "h": 0.81,
+   "dx": 0.011,
+   "dy": -0.128
+  },
+  "skyray_1_attack": {
+   "file": "poses/skyray_1_attack.webp",
+   "h": 0.936,
+   "dx": 0.001,
+   "dy": -0.055
+  },
+  "skyray_1_happy": {
+   "file": "poses/skyray_1_happy.webp",
+   "h": 1.13,
+   "dx": 0.009,
+   "dy": 0.006
+  },
+  "skyray_1_hit": {
+   "file": "poses/skyray_1_hit.webp",
+   "h": 1.051,
+   "dx": 0.004,
+   "dy": -0.004
+  },
+  "skyray_1_idle2": {
+   "file": "poses/skyray_1_idle2.webp",
+   "h": 1.001,
+   "dx": -0.001,
+   "dy": -0.003
+  },
+  "skyray_2_ability": {
+   "file": "poses/skyray_2_ability.webp",
+   "h": 1.025,
+   "dx": 0.003,
+   "dy": 0.025
+  },
+  "skyray_2_asleep": {
+   "file": "poses/skyray_2_asleep.webp",
+   "h": 0.933,
+   "dx": 0.002,
+   "dy": -0.017
+  },
+  "skyray_2_attack": {
+   "file": "poses/skyray_2_attack.webp",
+   "h": 0.989,
+   "dx": 0,
+   "dy": -0.007
+  },
+  "skyray_2_happy": {
+   "file": "poses/skyray_2_happy.webp",
+   "h": 1.027,
+   "dx": 0,
+   "dy": 0.027
+  },
+  "skyray_2_hit": {
+   "file": "poses/skyray_2_hit.webp",
+   "h": 0.994,
+   "dx": -0.007,
+   "dy": -0.001
+  },
+  "skyray_2_idle2": {
+   "file": "poses/skyray_2_idle2.webp",
+   "h": 0.984,
+   "dx": 0,
+   "dy": -0.009
+  },
+  "skyray_3_ability": {
+   "file": "poses/skyray_3_ability.webp",
+   "h": 1.002,
+   "dx": 0.001,
+   "dy": 0.006
+  },
+  "skyray_3_asleep": {
+   "file": "poses/skyray_3_asleep.webp",
+   "h": 0.914,
+   "dx": 0,
+   "dy": -0.028
+  },
+  "skyray_3_attack": {
+   "file": "poses/skyray_3_attack.webp",
+   "h": 0.958,
+   "dx": 0.001,
+   "dy": -0.023
+  },
+  "skyray_3_happy": {
+   "file": "poses/skyray_3_happy.webp",
+   "h": 1.011,
+   "dx": -0.001,
+   "dy": 0.011
+  },
+  "skyray_3_hit": {
+   "file": "poses/skyray_3_hit.webp",
+   "h": 1.002,
+   "dx": 0.003,
+   "dy": 0.002
+  },
+  "skyray_3_idle2": {
+   "file": "poses/skyray_3_idle2.webp",
+   "h": 1.002,
+   "dx": 0,
+   "dy": 0.002
+  },
+  "reefmaw_1_ability": {
+   "file": "poses/reefmaw_1_ability.webp",
+   "h": 1.06,
+   "dx": 0,
+   "dy": 0.003
+  },
+  "reefmaw_1_asleep": {
+   "file": "poses/reefmaw_1_asleep.webp",
+   "h": 0.903,
+   "dx": 0.008,
+   "dy": -0.074
+  },
+  "reefmaw_1_attack": {
+   "file": "poses/reefmaw_1_attack.webp",
+   "h": 0.926,
+   "dx": 0.002,
+   "dy": -0.069
+  },
+  "reefmaw_1_happy": {
+   "file": "poses/reefmaw_1_happy.webp",
+   "h": 1.051,
+   "dx": 0.012,
+   "dy": -0.001
+  },
+  "reefmaw_1_hit": {
+   "file": "poses/reefmaw_1_hit.webp",
+   "h": 1.014,
+   "dx": 0,
+   "dy": 0.002
+  },
+  "reefmaw_1_idle2": {
+   "file": "poses/reefmaw_1_idle2.webp",
+   "h": 1.029,
+   "dx": 0,
+   "dy": 0.002
+  },
+  "reefmaw_2_ability": {
+   "file": "poses/reefmaw_2_ability.webp",
+   "h": 1.086,
+   "dx": -0.003,
+   "dy": 0.039
+  },
+  "reefmaw_2_asleep": {
+   "file": "poses/reefmaw_2_asleep.webp",
+   "h": 0.917,
+   "dx": 0.004,
+   "dy": -0.037
+  },
+  "reefmaw_2_attack": {
+   "file": "poses/reefmaw_2_attack.webp",
+   "h": 0.906,
+   "dx": -0.001,
+   "dy": -0.067
+  },
+  "reefmaw_2_happy": {
+   "file": "poses/reefmaw_2_happy.webp",
+   "h": 1.021,
+   "dx": 0.018,
+   "dy": 0.012
+  },
+  "reefmaw_2_hit": {
+   "file": "poses/reefmaw_2_hit.webp",
+   "h": 1.009,
+   "dx": 0.002,
+   "dy": 0.004
+  },
+  "reefmaw_2_idle2": {
+   "file": "poses/reefmaw_2_idle2.webp",
+   "h": 1.012,
+   "dx": 0,
+   "dy": 0.001
+  },
+  "reefmaw_3_ability": {
+   "file": "poses/reefmaw_3_ability.webp",
+   "h": 1.01,
+   "dx": 0.004,
+   "dy": -0.007
+  },
+  "reefmaw_3_asleep": {
+   "file": "poses/reefmaw_3_asleep.webp",
+   "h": 0.92,
+   "dx": 0,
+   "dy": -0.051
+  },
+  "reefmaw_3_attack": {
+   "file": "poses/reefmaw_3_attack.webp",
+   "h": 0.86,
+   "dx": 0.002,
+   "dy": -0.068
+  },
+  "reefmaw_3_happy": {
+   "file": "poses/reefmaw_3_happy.webp",
+   "h": 1.012,
+   "dx": 0.013,
+   "dy": -0.002
+  },
+  "reefmaw_3_hit": {
+   "file": "poses/reefmaw_3_hit.webp",
+   "h": 1.015,
+   "dx": -0.002,
+   "dy": 0.007
+  },
+  "reefmaw_3_idle2": {
+   "file": "poses/reefmaw_3_idle2.webp",
+   "h": 1.006,
+   "dx": 0,
+   "dy": 0.002
+  },
+  "thornelk_1_ability": {
+   "file": "poses/thornelk_1_ability.webp",
+   "h": 1.021,
+   "dx": -0.002,
+   "dy": 0.011
+  },
+  "thornelk_1_asleep": {
+   "file": "poses/thornelk_1_asleep.webp",
+   "h": 0.781,
+   "dx": 0.01,
+   "dy": -0.094
+  },
+  "thornelk_1_attack": {
+   "file": "poses/thornelk_1_attack.webp",
+   "h": 0.887,
+   "dx": -0.002,
+   "dy": -0.057
+  },
+  "thornelk_1_happy": {
+   "file": "poses/thornelk_1_happy.webp",
+   "h": 1.021,
+   "dx": 0.004,
+   "dy": 0.01
+  },
+  "thornelk_1_hit": {
+   "file": "poses/thornelk_1_hit.webp",
+   "h": 0.998,
+   "dx": -0.007,
+   "dy": -0.007
+  },
+  "thornelk_1_idle2": {
+   "file": "poses/thornelk_1_idle2.webp",
+   "h": 1.004,
+   "dx": 0.001,
+   "dy": 0.001
+  },
+  "thornelk_2_ability": {
+   "file": "poses/thornelk_2_ability.webp",
+   "h": 0.994,
+   "dx": -0.005,
+   "dy": -0.006
+  },
+  "thornelk_2_asleep": {
+   "file": "poses/thornelk_2_asleep.webp",
+   "h": 0.894,
+   "dx": 0,
+   "dy": -0.046
+  },
+  "thornelk_2_attack": {
+   "file": "poses/thornelk_2_attack.webp",
+   "h": 0.84,
+   "dx": 0.016,
+   "dy": -0.091
+  },
+  "thornelk_2_happy": {
+   "file": "poses/thornelk_2_happy.webp",
+   "h": 0.995,
+   "dx": 0,
+   "dy": -0.005
+  },
+  "thornelk_2_hit": {
+   "file": "poses/thornelk_2_hit.webp",
+   "h": 0.993,
+   "dx": 0.001,
+   "dy": -0.007
+  },
+  "thornelk_2_idle2": {
+   "file": "poses/thornelk_2_idle2.webp",
+   "h": 1.002,
+   "dx": 0,
+   "dy": 0.002
+  },
+  "thornelk_3_ability": {
+   "file": "poses/thornelk_3_ability.webp",
+   "h": 1.033,
+   "dx": -0.005,
+   "dy": 0.015
+  },
+  "thornelk_3_asleep": {
+   "file": "poses/thornelk_3_asleep.webp",
+   "h": 0.813,
+   "dx": 0.023,
+   "dy": -0.039
+  },
+  "thornelk_3_attack": {
+   "file": "poses/thornelk_3_attack.webp",
+   "h": 0.931,
+   "dx": 0.012,
+   "dy": -0.018
+  },
+  "thornelk_3_happy": {
+   "file": "poses/thornelk_3_happy.webp",
+   "h": 1.034,
+   "dx": 0,
+   "dy": 0.032
+  },
+  "thornelk_3_hit": {
+   "file": "poses/thornelk_3_hit.webp",
+   "h": 1.007,
+   "dx": -0.003,
+   "dy": 0.01
+  },
+  "thornelk_3_idle2": {
+   "file": "poses/thornelk_3_idle2.webp",
+   "h": 1.001,
+   "dx": 0,
+   "dy": 0.001
+  },
+  "pyrewing_1_ability": {
+   "file": "poses/pyrewing_1_ability.webp",
+   "h": 0.966,
+   "dx": -0.004,
+   "dy": -0.019
+  },
+  "pyrewing_1_asleep": {
+   "file": "poses/pyrewing_1_asleep.webp",
+   "h": 0.801,
+   "dx": -0.012,
+   "dy": -0.111
+  },
+  "pyrewing_1_attack": {
+   "file": "poses/pyrewing_1_attack.webp",
+   "h": 0.836,
+   "dx": 0,
+   "dy": -0.063
+  },
+  "pyrewing_1_happy": {
+   "file": "poses/pyrewing_1_happy.webp",
+   "h": 0.962,
+   "dx": -0.004,
+   "dy": -0.02
+  },
+  "pyrewing_1_hit": {
+   "file": "poses/pyrewing_1_hit.webp",
+   "h": 0.96,
+   "dx": -0.004,
+   "dy": -0.02
+  },
+  "pyrewing_1_idle2": {
+   "file": "poses/pyrewing_1_idle2.webp",
+   "h": 1.001,
+   "dx": -0.002,
+   "dy": 0.001
+  },
+  "pyrewing_2_ability": {
+   "file": "poses/pyrewing_2_ability.webp",
+   "h": 0.969,
+   "dx": 0,
+   "dy": -0.019
+  },
+  "pyrewing_2_asleep": {
+   "file": "poses/pyrewing_2_asleep.webp",
+   "h": 0.838,
+   "dx": 0.001,
+   "dy": -0.082
+  },
+  "pyrewing_2_attack": {
+   "file": "poses/pyrewing_2_attack.webp",
+   "h": 0.915,
+   "dx": -0.004,
+   "dy": -0.02
+  },
+  "pyrewing_2_happy": {
+   "file": "poses/pyrewing_2_happy.webp",
+   "h": 0.966,
+   "dx": 0.001,
+   "dy": -0.016
+  },
+  "pyrewing_2_hit": {
+   "file": "poses/pyrewing_2_hit.webp",
+   "h": 0.969,
+   "dx": 0.019,
+   "dy": -0.014
+  },
+  "pyrewing_2_idle2": {
+   "file": "poses/pyrewing_2_idle2.webp",
+   "h": 1.005,
+   "dx": 0,
+   "dy": 0.003
+  },
+  "pyrewing_3_ability": {
+   "file": "poses/pyrewing_3_ability.webp",
+   "h": 1.048,
+   "dx": 0,
+   "dy": 0.04
+  },
+  "pyrewing_3_asleep": {
+   "file": "poses/pyrewing_3_asleep.webp",
+   "h": 0.957,
+   "dx": -0.002,
+   "dy": -0.001
+  },
+  "pyrewing_3_attack": {
+   "file": "poses/pyrewing_3_attack.webp",
+   "h": 1.032,
+   "dx": 0.001,
+   "dy": 0.036
+  },
+  "pyrewing_3_happy": {
+   "file": "poses/pyrewing_3_happy.webp",
+   "h": 1.036,
+   "dx": 0.003,
+   "dy": 0
+  },
+  "pyrewing_3_hit": {
+   "file": "poses/pyrewing_3_hit.webp",
+   "h": 1.006,
+   "dx": 0.005,
+   "dy": 0.001
+  },
+  "pyrewing_3_idle2": {
+   "file": "poses/pyrewing_3_idle2.webp",
+   "h": 1.016,
+   "dx": 0,
+   "dy": 0
+  },
+  "eclipsar_1_ability": {
+   "file": "poses/eclipsar_1_ability.webp",
+   "h": 1.063,
+   "dx": 0.007,
+   "dy": 0.02
+  },
+  "eclipsar_1_asleep": {
+   "file": "poses/eclipsar_1_asleep.webp",
+   "h": 0.782,
+   "dx": 0.05,
+   "dy": -0.066
+  },
+  "eclipsar_1_attack": {
+   "file": "poses/eclipsar_1_attack.webp",
+   "h": 0.9,
+   "dx": 0.053,
+   "dy": -0.048
+  },
+  "eclipsar_1_happy": {
+   "file": "poses/eclipsar_1_happy.webp",
+   "h": 1.101,
+   "dx": 0.021,
+   "dy": 0.047
+  },
+  "eclipsar_1_hit": {
+   "file": "poses/eclipsar_1_hit.webp",
+   "h": 1.023,
+   "dx": 0.026,
+   "dy": 0.013
+  },
+  "eclipsar_1_idle2": {
+   "file": "poses/eclipsar_1_idle2.webp",
+   "h": 1.015,
+   "dx": 0.004,
+   "dy": 0.001
+  },
+  "eclipsar_2_ability": {
+   "file": "poses/eclipsar_2_ability.webp",
+   "h": 1.049,
+   "dx": 0.001,
+   "dy": 0.024
+  },
+  "eclipsar_2_asleep": {
+   "file": "poses/eclipsar_2_asleep.webp",
+   "h": 0.763,
+   "dx": 0.004,
+   "dy": -0.112
+  },
+  "eclipsar_2_attack": {
+   "file": "poses/eclipsar_2_attack.webp",
+   "h": 0.895,
+   "dx": 0.004,
+   "dy": -0.049
+  },
+  "eclipsar_2_happy": {
+   "file": "poses/eclipsar_2_happy.webp",
+   "h": 1.067,
+   "dx": 0.003,
+   "dy": 0.042
+  },
+  "eclipsar_2_hit": {
+   "file": "poses/eclipsar_2_hit.webp",
+   "h": 1.017,
+   "dx": 0.005,
+   "dy": 0
+  },
+  "eclipsar_2_idle2": {
+   "file": "poses/eclipsar_2_idle2.webp",
+   "h": 1.015,
+   "dx": 0.001,
+   "dy": 0
+  },
+  "eclipsar_3_ability": {
+   "file": "poses/eclipsar_3_ability.webp",
+   "h": 0.973,
+   "dx": 0.002,
+   "dy": -0.011
+  },
+  "eclipsar_3_asleep": {
+   "file": "poses/eclipsar_3_asleep.webp",
+   "h": 0.833,
+   "dx": 0.002,
+   "dy": -0.042
+  },
+  "eclipsar_3_attack": {
+   "file": "poses/eclipsar_3_attack.webp",
+   "h": 0.863,
+   "dx": 0.001,
+   "dy": -0.054
+  },
+  "eclipsar_3_happy": {
+   "file": "poses/eclipsar_3_happy.webp",
+   "h": 0.963,
+   "dx": -0.001,
+   "dy": -0.021
+  },
+  "eclipsar_3_hit": {
+   "file": "poses/eclipsar_3_hit.webp",
+   "h": 0.972,
+   "dx": 0.001,
+   "dy": -0.011
+  },
+  "eclipsar_3_idle2": {
+   "file": "poses/eclipsar_3_idle2.webp",
+   "h": 1.001,
+   "dx": -0.001,
+   "dy": 0.001
+  },
+  "voltadpole_1_ability": {
+   "file": "poses/voltadpole_1_ability.webp",
+   "h": 1.16,
+   "dx": 0.015,
+   "dy": -0.005
+  },
+  "voltadpole_1_asleep": {
+   "file": "poses/voltadpole_1_asleep.webp",
+   "h": 1.032,
+   "dx": 0.006,
+   "dy": -0.027
+  },
+  "voltadpole_1_attack": {
+   "file": "poses/voltadpole_1_attack.webp",
+   "h": 1,
+   "dx": 0.027,
+   "dy": -0.042
+  },
+  "voltadpole_1_happy": {
+   "file": "poses/voltadpole_1_happy.webp",
+   "h": 1.072,
+   "dx": 0.01,
+   "dy": -0.018
+  },
+  "voltadpole_1_hit": {
+   "file": "poses/voltadpole_1_hit.webp",
+   "h": 1.062,
+   "dx": 0.003,
+   "dy": -0.03
+  },
+  "voltadpole_1_idle2": {
+   "file": "poses/voltadpole_1_idle2.webp",
+   "h": 1.018,
+   "dx": 0,
+   "dy": 0.003
+  },
+  "voltadpole_2_ability": {
+   "file": "poses/voltadpole_2_ability.webp",
+   "h": 1.159,
+   "dx": 0.018,
+   "dy": 0.065
+  },
+  "voltadpole_2_asleep": {
+   "file": "poses/voltadpole_2_asleep.webp",
+   "h": 0.909,
+   "dx": 0.015,
+   "dy": -0.009
+  },
+  "voltadpole_2_attack": {
+   "file": "poses/voltadpole_2_attack.webp",
+   "h": 0.982,
+   "dx": 0.024,
+   "dy": -0.001
+  },
+  "voltadpole_2_happy": {
+   "file": "poses/voltadpole_2_happy.webp",
+   "h": 1.024,
+   "dx": 0.015,
+   "dy": 0.005
+  },
+  "voltadpole_2_hit": {
+   "file": "poses/voltadpole_2_hit.webp",
+   "h": 1.053,
+   "dx": 0.011,
+   "dy": 0.003
+  },
+  "voltadpole_2_idle2": {
+   "file": "poses/voltadpole_2_idle2.webp",
+   "h": 1.01,
+   "dx": 0,
+   "dy": 0.003
+  },
+  "voltadpole_3_ability": {
+   "file": "poses/voltadpole_3_ability.webp",
+   "h": 1.032,
+   "dx": 0.006,
+   "dy": 0.009
+  },
+  "voltadpole_3_asleep": {
+   "file": "poses/voltadpole_3_asleep.webp",
+   "h": 0.93,
+   "dx": 0.009,
+   "dy": -0.02
+  },
+  "voltadpole_3_attack": {
+   "file": "poses/voltadpole_3_attack.webp",
+   "h": 0.833,
+   "dx": 0.01,
+   "dy": -0.082
+  },
+  "voltadpole_3_happy": {
+   "file": "poses/voltadpole_3_happy.webp",
+   "h": 1.062,
+   "dx": 0.009,
+   "dy": 0.048
+  },
+  "voltadpole_3_hit": {
+   "file": "poses/voltadpole_3_hit.webp",
+   "h": 0.998,
+   "dx": -0.004,
+   "dy": -0.002
+  },
+  "voltadpole_3_idle2": {
+   "file": "poses/voltadpole_3_idle2.webp",
+   "h": 1.005,
+   "dx": 0,
+   "dy": 0
+  },
+  "voltadpole_4_ability": {
+   "file": "poses/voltadpole_4_ability.webp",
+   "h": 0.978,
+   "dx": 0.015,
+   "dy": -0.011
+  },
+  "voltadpole_4_asleep": {
+   "file": "poses/voltadpole_4_asleep.webp",
+   "h": 0.954,
+   "dx": -0.005,
+   "dy": -0.009
+  },
+  "voltadpole_4_attack": {
+   "file": "poses/voltadpole_4_attack.webp",
+   "h": 0.921,
+   "dx": 0.009,
+   "dy": -0.034
+  },
+  "voltadpole_4_happy": {
+   "file": "poses/voltadpole_4_happy.webp",
+   "h": 0.982,
+   "dx": 0.001,
+   "dy": -0.007
+  },
+  "voltadpole_4_hit": {
+   "file": "poses/voltadpole_4_hit.webp",
+   "h": 0.957,
+   "dx": -0.004,
+   "dy": -0.03
+  },
+  "voltadpole_4_idle2": {
+   "file": "poses/voltadpole_4_idle2.webp",
+   "h": 1.001,
+   "dx": 0,
+   "dy": 0.001
+  },
+  "breezling_1_ability": {
+   "file": "poses/breezling_1_ability.webp",
+   "h": 1.074,
+   "dx": -0.002,
+   "dy": -0.016
+  },
+  "breezling_1_asleep": {
+   "file": "poses/breezling_1_asleep.webp",
+   "h": 0.85,
+   "dx": 0.004,
+   "dy": -0.05
+  },
+  "breezling_1_attack": {
+   "file": "poses/breezling_1_attack.webp",
+   "h": 0.904,
+   "dx": 0.052,
+   "dy": -0.072
+  },
+  "breezling_1_happy": {
+   "file": "poses/breezling_1_happy.webp",
+   "h": 1.072,
+   "dx": 0.018,
+   "dy": 0.017
+  },
+  "breezling_1_hit": {
+   "file": "poses/breezling_1_hit.webp",
+   "h": 0.987,
+   "dx": -0.003,
+   "dy": -0.024
+  },
+  "breezling_1_idle2": {
+   "file": "poses/breezling_1_idle2.webp",
+   "h": 1.028,
+   "dx": 0,
+   "dy": 0.001
+  },
+  "breezling_2_ability": {
+   "file": "poses/breezling_2_ability.webp",
+   "h": 1.017,
+   "dx": 0.005,
+   "dy": 0.001
+  },
+  "breezling_2_asleep": {
+   "file": "poses/breezling_2_asleep.webp",
+   "h": 0.887,
+   "dx": -0.003,
+   "dy": -0.027
+  },
+  "breezling_2_attack": {
+   "file": "poses/breezling_2_attack.webp",
+   "h": 0.932,
+   "dx": -0.01,
+   "dy": -0.037
+  },
+  "breezling_2_happy": {
+   "file": "poses/breezling_2_happy.webp",
+   "h": 1.063,
+   "dx": 0.001,
+   "dy": 0.03
+  },
+  "breezling_2_hit": {
+   "file": "poses/breezling_2_hit.webp",
+   "h": 1.004,
+   "dx": -0.001,
+   "dy": -0.001
+  },
+  "breezling_2_idle2": {
+   "file": "poses/breezling_2_idle2.webp",
+   "h": 1.02,
+   "dx": -0.001,
+   "dy": 0.003
+  },
+  "breezling_3_ability": {
+   "file": "poses/breezling_3_ability.webp",
+   "h": 1.052,
+   "dx": -0.007,
+   "dy": 0.029
+  },
+  "breezling_3_asleep": {
+   "file": "poses/breezling_3_asleep.webp",
+   "h": 0.784,
+   "dx": -0.012,
+   "dy": -0.099
+  },
+  "breezling_3_attack": {
+   "file": "poses/breezling_3_attack.webp",
+   "h": 0.796,
+   "dx": -0.001,
+   "dy": -0.111
+  },
+  "breezling_3_happy": {
+   "file": "poses/breezling_3_happy.webp",
+   "h": 1.054,
+   "dx": 0,
+   "dy": 0.003
+  },
+  "breezling_3_hit": {
+   "file": "poses/breezling_3_hit.webp",
+   "h": 1.04,
+   "dx": 0,
+   "dy": 0.022
+  },
+  "breezling_3_idle2": {
+   "file": "poses/breezling_3_idle2.webp",
+   "h": 1.017,
+   "dx": -0.001,
+   "dy": 0.003
+  },
+  "breezling_4_ability": {
+   "file": "poses/breezling_4_ability.webp",
+   "h": 1.044,
+   "dx": -0.002,
+   "dy": 0.029
+  },
+  "breezling_4_asleep": {
+   "file": "poses/breezling_4_asleep.webp",
+   "h": 0.837,
+   "dx": -0.003,
+   "dy": -0.057
+  },
+  "breezling_4_attack": {
+   "file": "poses/breezling_4_attack.webp",
+   "h": 0.75,
+   "dx": -0.004,
+   "dy": -0.156
+  },
+  "breezling_4_happy": {
+   "file": "poses/breezling_4_happy.webp",
+   "h": 1.015,
+   "dx": 0.004,
+   "dy": 0.004
+  },
+  "breezling_4_hit": {
+   "file": "poses/breezling_4_hit.webp",
+   "h": 1.021,
+   "dx": -0.002,
+   "dy": 0.02
+  },
+  "breezling_4_idle2": {
+   "file": "poses/breezling_4_idle2.webp",
+   "h": 1.006,
+   "dx": 0,
+   "dy": 0.002
+  },
+  "bubblub_1_ability": {
+   "file": "poses/bubblub_1_ability.webp",
+   "h": 1.005,
+   "dx": 0.01,
+   "dy": 0
+  },
+  "bubblub_1_asleep": {
+   "file": "poses/bubblub_1_asleep.webp",
+   "h": 0.997,
+   "dx": 0.002,
+   "dy": -0.001
+  },
+  "bubblub_1_attack": {
+   "file": "poses/bubblub_1_attack.webp",
+   "h": 1.004,
+   "dx": -0.01,
+   "dy": -0.005
+  },
+  "bubblub_1_happy": {
+   "file": "poses/bubblub_1_happy.webp",
+   "h": 1.022,
+   "dx": -0.006,
+   "dy": 0.012
+  },
+  "bubblub_1_hit": {
+   "file": "poses/bubblub_1_hit.webp",
+   "h": 0.996,
+   "dx": -0.013,
+   "dy": 0
+  },
+  "bubblub_1_idle2": {
+   "file": "poses/bubblub_1_idle2.webp",
+   "h": 1.018,
+   "dx": 0.002,
+   "dy": 0.001
+  },
+  "bubblub_2_ability": {
+   "file": "poses/bubblub_2_ability.webp",
+   "h": 1.087,
+   "dx": 0.007,
+   "dy": 0.054
+  },
+  "bubblub_2_asleep": {
+   "file": "poses/bubblub_2_asleep.webp",
+   "h": 0.98,
+   "dx": 0.004,
+   "dy": -0.001
+  },
+  "bubblub_2_attack": {
+   "file": "poses/bubblub_2_attack.webp",
+   "h": 0.979,
+   "dx": 0.006,
+   "dy": -0.022
+  },
+  "bubblub_2_happy": {
+   "file": "poses/bubblub_2_happy.webp",
+   "h": 1.057,
+   "dx": -0.007,
+   "dy": 0.037
+  },
+  "bubblub_2_hit": {
+   "file": "poses/bubblub_2_hit.webp",
+   "h": 1.009,
+   "dx": -0.011,
+   "dy": 0.01
+  },
+  "bubblub_2_idle2": {
+   "file": "poses/bubblub_2_idle2.webp",
+   "h": 1.014,
+   "dx": 0,
+   "dy": 0.001
+  },
+  "bubblub_3_ability": {
+   "file": "poses/bubblub_3_ability.webp",
+   "h": 0.974,
+   "dx": -0.001,
+   "dy": -0.005
+  },
+  "bubblub_3_asleep": {
+   "file": "poses/bubblub_3_asleep.webp",
+   "h": 0.905,
+   "dx": -0.001,
+   "dy": -0.04
+  },
+  "bubblub_3_attack": {
+   "file": "poses/bubblub_3_attack.webp",
+   "h": 0.943,
+   "dx": -0.002,
+   "dy": -0.026
+  },
+  "bubblub_3_happy": {
+   "file": "poses/bubblub_3_happy.webp",
+   "h": 1.028,
+   "dx": 0.004,
+   "dy": 0.026
+  },
+  "bubblub_3_hit": {
+   "file": "poses/bubblub_3_hit.webp",
+   "h": 1.026,
+   "dx": 0.002,
+   "dy": 0.006
+  },
+  "bubblub_3_idle2": {
+   "file": "poses/bubblub_3_idle2.webp",
+   "h": 1.013,
+   "dx": 0,
+   "dy": 0
+  },
+  "bubblub_4_ability": {
+   "file": "poses/bubblub_4_ability.webp",
+   "h": 0.943,
+   "dx": 0.003,
+   "dy": -0.03
+  },
+  "bubblub_4_asleep": {
+   "file": "poses/bubblub_4_asleep.webp",
+   "h": 0.868,
+   "dx": -0.001,
+   "dy": -0.068
+  },
+  "bubblub_4_attack": {
+   "file": "poses/bubblub_4_attack.webp",
+   "h": 0.873,
+   "dx": 0.001,
+   "dy": -0.062
+  },
+  "bubblub_4_happy": {
+   "file": "poses/bubblub_4_happy.webp",
+   "h": 0.949,
+   "dx": 0,
+   "dy": -0.026
+  },
+  "bubblub_4_hit": {
+   "file": "poses/bubblub_4_hit.webp",
+   "h": 0.94,
+   "dx": 0.008,
+   "dy": -0.03
+  },
+  "bubblub_4_idle2": {
+   "file": "poses/bubblub_4_idle2.webp",
+   "h": 0.944,
+   "dx": 0,
+   "dy": -0.03
+  },
+  "glowlotl_1_ability": {
+   "file": "poses/glowlotl_1_ability.webp",
+   "h": 1.227,
+   "dx": 0.015,
+   "dy": 0.001
+  },
+  "glowlotl_1_asleep": {
+   "file": "poses/glowlotl_1_asleep.webp",
+   "h": 0.899,
+   "dx": 0.022,
+   "dy": -0.11
+  },
+  "glowlotl_1_attack": {
+   "file": "poses/glowlotl_1_attack.webp",
+   "h": 1.016,
+   "dx": -0.014,
+   "dy": -0.013
+  },
+  "glowlotl_1_happy": {
+   "file": "poses/glowlotl_1_happy.webp",
+   "h": 1.174,
+   "dx": 0.001,
+   "dy": -0.009
+  },
+  "glowlotl_1_hit": {
+   "file": "poses/glowlotl_1_hit.webp",
+   "h": 1.157,
+   "dx": -0.002,
+   "dy": 0.009
+  },
+  "glowlotl_1_idle2": {
+   "file": "poses/glowlotl_1_idle2.webp",
+   "h": 1.031,
+   "dx": 0.003,
+   "dy": 0.003
+  },
+  "glowlotl_2_ability": {
+   "file": "poses/glowlotl_2_ability.webp",
+   "h": 1.188,
+   "dx": 0.012,
+   "dy": 0.082
+  },
+  "glowlotl_2_asleep": {
+   "file": "poses/glowlotl_2_asleep.webp",
+   "h": 0.844,
+   "dx": 0.008,
+   "dy": -0.1
+  },
+  "glowlotl_2_attack": {
+   "file": "poses/glowlotl_2_attack.webp",
+   "h": 1.042,
+   "dx": -0.009,
+   "dy": 0.011
+  },
+  "glowlotl_2_happy": {
+   "file": "poses/glowlotl_2_happy.webp",
+   "h": 1.173,
+   "dx": -0.009,
+   "dy": 0.085
+  },
+  "glowlotl_2_hit": {
+   "file": "poses/glowlotl_2_hit.webp",
+   "h": 1.069,
+   "dx": 0.01,
+   "dy": 0.022
+  },
+  "glowlotl_2_idle2": {
+   "file": "poses/glowlotl_2_idle2.webp",
+   "h": 1.03,
+   "dx": 0.004,
+   "dy": 0.001
+  },
+  "glowlotl_3_ability": {
+   "file": "poses/glowlotl_3_ability.webp",
+   "h": 1.104,
+   "dx": -0.001,
+   "dy": 0.074
+  },
+  "glowlotl_3_asleep": {
+   "file": "poses/glowlotl_3_asleep.webp",
+   "h": 0.886,
+   "dx": 0.011,
+   "dy": -0.031
+  },
+  "glowlotl_3_attack": {
+   "file": "poses/glowlotl_3_attack.webp",
+   "h": 0.919,
+   "dx": 0.004,
+   "dy": -0.01
+  },
+  "glowlotl_3_happy": {
+   "file": "poses/glowlotl_3_happy.webp",
+   "h": 1.109,
+   "dx": -0.002,
+   "dy": 0.079
+  },
+  "glowlotl_3_hit": {
+   "file": "poses/glowlotl_3_hit.webp",
+   "h": 1.027,
+   "dx": 0.003,
+   "dy": 0.05
+  },
+  "glowlotl_3_idle2": {
+   "file": "poses/glowlotl_3_idle2.webp",
+   "h": 1.022,
+   "dx": 0.001,
+   "dy": 0
+  },
+  "glowlotl_4_ability": {
+   "file": "poses/glowlotl_4_ability.webp",
+   "h": 0.979,
+   "dx": 0.002,
+   "dy": 0.002
+  },
+  "glowlotl_4_asleep": {
+   "file": "poses/glowlotl_4_asleep.webp",
+   "h": 0.8,
+   "dx": -0.002,
+   "dy": -0.092
+  },
+  "glowlotl_4_attack": {
+   "file": "poses/glowlotl_4_attack.webp",
+   "h": 0.745,
+   "dx": 0.001,
+   "dy": -0.103
+  },
+  "glowlotl_4_happy": {
+   "file": "poses/glowlotl_4_happy.webp",
+   "h": 1.013,
+   "dx": 0,
+   "dy": 0.029
+  },
+  "glowlotl_4_hit": {
+   "file": "poses/glowlotl_4_hit.webp",
+   "h": 0.996,
+   "dx": 0,
+   "dy": 0.009
+  },
+  "glowlotl_4_idle2": {
+   "file": "poses/glowlotl_4_idle2.webp",
+   "h": 0.948,
+   "dx": 0,
+   "dy": -0.028
+  },
+  "rubblebun_1_ability": {
+   "file": "poses/rubblebun_1_ability.webp",
+   "h": 1.069,
+   "dx": 0.016,
+   "dy": -0.003
+  },
+  "rubblebun_1_asleep": {
+   "file": "poses/rubblebun_1_asleep.webp",
+   "h": 0.798,
+   "dx": 0.039,
+   "dy": -0.082
+  },
+  "rubblebun_1_attack": {
+   "file": "poses/rubblebun_1_attack.webp",
+   "h": 0.939,
+   "dx": 0.04,
+   "dy": -0.044
+  },
+  "rubblebun_1_happy": {
+   "file": "poses/rubblebun_1_happy.webp",
+   "h": 1.101,
+   "dx": 0.026,
+   "dy": 0.008
+  },
+  "rubblebun_1_hit": {
+   "file": "poses/rubblebun_1_hit.webp",
+   "h": 0.97,
+   "dx": -0.017,
+   "dy": -0.005
+  },
+  "rubblebun_1_idle2": {
+   "file": "poses/rubblebun_1_idle2.webp",
+   "h": 1.024,
+   "dx": -0.002,
+   "dy": 0.002
+  },
+  "rubblebun_2_ability": {
+   "file": "poses/rubblebun_2_ability.webp",
+   "h": 1.117,
+   "dx": 0.023,
+   "dy": 0.041
+  },
+  "rubblebun_2_asleep": {
+   "file": "poses/rubblebun_2_asleep.webp",
+   "h": 0.701,
+   "dx": 0.005,
+   "dy": -0.104
+  },
+  "rubblebun_2_attack": {
+   "file": "poses/rubblebun_2_attack.webp",
+   "h": 0.966,
+   "dx": 0.022,
+   "dy": -0.005
+  },
+  "rubblebun_2_happy": {
+   "file": "poses/rubblebun_2_happy.webp",
+   "h": 1.09,
+   "dx": 0.032,
+   "dy": 0.029
+  },
+  "rubblebun_2_hit": {
+   "file": "poses/rubblebun_2_hit.webp",
+   "h": 0.999,
+   "dx": 0.004,
+   "dy": -0.009
+  },
+  "rubblebun_2_idle2": {
+   "file": "poses/rubblebun_2_idle2.webp",
+   "h": 1.006,
+   "dx": -0.001,
+   "dy": 0.001
+  },
+  "rubblebun_3_ability": {
+   "file": "poses/rubblebun_3_ability.webp",
+   "h": 0.956,
+   "dx": 0.014,
+   "dy": -0.015
+  },
+  "rubblebun_3_asleep": {
+   "file": "poses/rubblebun_3_asleep.webp",
+   "h": 0.79,
+   "dx": 0.013,
+   "dy": -0.057
+  },
+  "rubblebun_3_attack": {
+   "file": "poses/rubblebun_3_attack.webp",
+   "h": 0.854,
+   "dx": 0.013,
+   "dy": -0.061
+  },
+  "rubblebun_3_happy": {
+   "file": "poses/rubblebun_3_happy.webp",
+   "h": 0.949,
+   "dx": 0.005,
+   "dy": -0.023
+  },
+  "rubblebun_3_hit": {
+   "file": "poses/rubblebun_3_hit.webp",
+   "h": 0.945,
+   "dx": 0.011,
+   "dy": -0.026
+  },
+  "rubblebun_3_idle2": {
+   "file": "poses/rubblebun_3_idle2.webp",
+   "h": 0.944,
+   "dx": 0.001,
+   "dy": -0.029
+  },
+  "sizzlard_1_ability": {
+   "file": "poses/sizzlard_1_ability.webp",
+   "h": 1.313,
+   "dx": 0.022,
+   "dy": 0.004
+  },
+  "sizzlard_1_asleep": {
+   "file": "poses/sizzlard_1_asleep.webp",
+   "h": 0.969,
+   "dx": 0.023,
+   "dy": -0.033
+  },
+  "sizzlard_1_attack": {
+   "file": "poses/sizzlard_1_attack.webp",
+   "h": 1.093,
+   "dx": 0.039,
+   "dy": -0.013
+  },
+  "sizzlard_1_happy": {
+   "file": "poses/sizzlard_1_happy.webp",
+   "h": 1.189,
+   "dx": -0.003,
+   "dy": -0.003
+  },
+  "sizzlard_1_hit": {
+   "file": "poses/sizzlard_1_hit.webp",
+   "h": 1.106,
+   "dx": -0.037,
+   "dy": -0.006
+  },
+  "sizzlard_1_idle2": {
+   "file": "poses/sizzlard_1_idle2.webp",
+   "h": 1.004,
+   "dx": 0.001,
+   "dy": 0.003
+  },
+  "sizzlard_2_ability": {
+   "file": "poses/sizzlard_2_ability.webp",
+   "h": 1.151,
+   "dx": -0.01,
+   "dy": 0.036
+  },
+  "sizzlard_2_asleep": {
+   "file": "poses/sizzlard_2_asleep.webp",
+   "h": 0.908,
+   "dx": 0.03,
+   "dy": 0.001
+  },
+  "sizzlard_2_attack": {
+   "file": "poses/sizzlard_2_attack.webp",
+   "h": 1.046,
+   "dx": 0.039,
+   "dy": 0.044
+  },
+  "sizzlard_2_happy": {
+   "file": "poses/sizzlard_2_happy.webp",
+   "h": 1.139,
+   "dx": 0.004,
+   "dy": 0.074
+  },
+  "sizzlard_2_hit": {
+   "file": "poses/sizzlard_2_hit.webp",
+   "h": 1.04,
+   "dx": -0.038,
+   "dy": 0.019
+  },
+  "sizzlard_2_idle2": {
+   "file": "poses/sizzlard_2_idle2.webp",
+   "h": 1.007,
+   "dx": -0.001,
+   "dy": 0.001
+  },
+  "sizzlard_3_ability": {
+   "file": "poses/sizzlard_3_ability.webp",
+   "h": 0.924,
+   "dx": 0.007,
+   "dy": -0.04
+  },
+  "sizzlard_3_asleep": {
+   "file": "poses/sizzlard_3_asleep.webp",
+   "h": 0.825,
+   "dx": 0.008,
+   "dy": -0.059
+  },
+  "sizzlard_3_attack": {
+   "file": "poses/sizzlard_3_attack.webp",
+   "h": 0.843,
+   "dx": 0.003,
+   "dy": -0.064
+  },
+  "sizzlard_3_happy": {
+   "file": "poses/sizzlard_3_happy.webp",
+   "h": 0.932,
+   "dx": 0.012,
+   "dy": -0.036
+  },
+  "sizzlard_3_hit": {
+   "file": "poses/sizzlard_3_hit.webp",
+   "h": 0.937,
+   "dx": -0.012,
+   "dy": -0.031
+  },
+  "sizzlard_3_idle2": {
+   "file": "poses/sizzlard_3_idle2.webp",
+   "h": 0.946,
+   "dx": -0.003,
+   "dy": -0.031
+  },
+  "driftsnail_1_ability": {
+   "file": "poses/driftsnail_1_ability.webp",
+   "h": 1.203,
+   "dx": -0.003,
+   "dy": -0.001
+  },
+  "driftsnail_1_asleep": {
+   "file": "poses/driftsnail_1_asleep.webp",
+   "h": 0.986,
+   "dx": 0.017,
+   "dy": -0.017
+  },
+  "driftsnail_1_attack": {
+   "file": "poses/driftsnail_1_attack.webp",
+   "h": 0.977,
+   "dx": 0.035,
+   "dy": -0.031
+  },
+  "driftsnail_1_happy": {
+   "file": "poses/driftsnail_1_happy.webp",
+   "h": 1.131,
+   "dx": 0.026,
+   "dy": -0.013
+  },
+  "driftsnail_1_hit": {
+   "file": "poses/driftsnail_1_hit.webp",
+   "h": 1.006,
+   "dx": -0.011,
+   "dy": -0.006
+  },
+  "driftsnail_1_idle2": {
+   "file": "poses/driftsnail_1_idle2.webp",
+   "h": 1.024,
+   "dx": -0.001,
+   "dy": 0.001
+  },
+  "driftsnail_2_ability": {
+   "file": "poses/driftsnail_2_ability.webp",
+   "h": 1.056,
+   "dx": 0.007,
+   "dy": 0.033
+  },
+  "driftsnail_2_asleep": {
+   "file": "poses/driftsnail_2_asleep.webp",
+   "h": 0.938,
+   "dx": -0.004,
+   "dy": -0.012
+  },
+  "driftsnail_2_attack": {
+   "file": "poses/driftsnail_2_attack.webp",
+   "h": 0.953,
+   "dx": -0.001,
+   "dy": -0.01
+  },
+  "driftsnail_2_happy": {
+   "file": "poses/driftsnail_2_happy.webp",
+   "h": 1.081,
+   "dx": 0.007,
+   "dy": 0.048
+  },
+  "driftsnail_2_hit": {
+   "file": "poses/driftsnail_2_hit.webp",
+   "h": 1.006,
+   "dx": -0.004,
+   "dy": 0.007
+  },
+  "driftsnail_2_idle2": {
+   "file": "poses/driftsnail_2_idle2.webp",
+   "h": 1.009,
+   "dx": 0,
+   "dy": 0.001
+  },
+  "driftsnail_3_ability": {
+   "file": "poses/driftsnail_3_ability.webp",
+   "h": 1.002,
+   "dx": -0.002,
+   "dy": 0.001
+  },
+  "driftsnail_3_asleep": {
+   "file": "poses/driftsnail_3_asleep.webp",
+   "h": 1.003,
+   "dx": -0.001,
+   "dy": 0.002
+  },
+  "driftsnail_3_attack": {
+   "file": "poses/driftsnail_3_attack.webp",
+   "h": 1.002,
+   "dx": 0.005,
+   "dy": 0.002
+  },
+  "driftsnail_3_happy": {
+   "file": "poses/driftsnail_3_happy.webp",
+   "h": 1.012,
+   "dx": 0,
+   "dy": 0.012
+  },
+  "driftsnail_3_hit": {
+   "file": "poses/driftsnail_3_hit.webp",
+   "h": 1.003,
+   "dx": -0.001,
+   "dy": 0.001
+  },
+  "driftsnail_3_idle2": {
+   "file": "poses/driftsnail_3_idle2.webp",
+   "h": 1.003,
+   "dx": 0,
+   "dy": 0.001
+  },
+  "gloombat_1_ability": {
+   "file": "poses/gloombat_1_ability.webp",
+   "h": 1.254,
+   "dx": 0.006,
+   "dy": -0.005
+  },
+  "gloombat_1_asleep": {
+   "file": "poses/gloombat_1_asleep.webp",
+   "h": 0.901,
+   "dx": -0.004,
+   "dy": -0.024
+  },
+  "gloombat_1_attack": {
+   "file": "poses/gloombat_1_attack.webp",
+   "h": 1.045,
+   "dx": 0.018,
+   "dy": -0.008
+  },
+  "gloombat_1_happy": {
+   "file": "poses/gloombat_1_happy.webp",
+   "h": 1.15,
+   "dx": -0.001,
+   "dy": -0.006
+  },
+  "gloombat_1_hit": {
+   "file": "poses/gloombat_1_hit.webp",
+   "h": 1.128,
+   "dx": -0.008,
+   "dy": -0.013
+  },
+  "gloombat_1_idle2": {
+   "file": "poses/gloombat_1_idle2.webp",
+   "h": 1.021,
+   "dx": 0.001,
+   "dy": 0.001
+  },
+  "gloombat_2_ability": {
+   "file": "poses/gloombat_2_ability.webp",
+   "h": 1.089,
+   "dx": -0.003,
+   "dy": 0.042
+  },
+  "gloombat_2_asleep": {
+   "file": "poses/gloombat_2_asleep.webp",
+   "h": 0.87,
+   "dx": 0.008,
+   "dy": -0.059
+  },
+  "gloombat_2_attack": {
+   "file": "poses/gloombat_2_attack.webp",
+   "h": 0.952,
+   "dx": -0.002,
+   "dy": -0.014
+  },
+  "gloombat_2_happy": {
+   "file": "poses/gloombat_2_happy.webp",
+   "h": 1.036,
+   "dx": -0.001,
+   "dy": 0.018
+  },
+  "gloombat_2_hit": {
+   "file": "poses/gloombat_2_hit.webp",
+   "h": 1.054,
+   "dx": 0.009,
+   "dy": 0.021
+  },
+  "gloombat_2_idle2": {
+   "file": "poses/gloombat_2_idle2.webp",
+   "h": 1.016,
+   "dx": 0,
+   "dy": 0.002
+  },
+  "gloombat_3_ability": {
+   "file": "poses/gloombat_3_ability.webp",
+   "h": 0.948,
+   "dx": -0.001,
+   "dy": -0.027
+  },
+  "gloombat_3_asleep": {
+   "file": "poses/gloombat_3_asleep.webp",
+   "h": 0.805,
+   "dx": 0,
+   "dy": -0.086
+  },
+  "gloombat_3_attack": {
+   "file": "poses/gloombat_3_attack.webp",
+   "h": 0.878,
+   "dx": 0,
+   "dy": -0.057
+  },
+  "gloombat_3_happy": {
+   "file": "poses/gloombat_3_happy.webp",
+   "h": 0.953,
+   "dx": 0.001,
+   "dy": -0.019
+  },
+  "gloombat_3_hit": {
+   "file": "poses/gloombat_3_hit.webp",
+   "h": 0.944,
+   "dx": 0,
+   "dy": -0.03
+  },
+  "gloombat_3_idle2": {
+   "file": "poses/gloombat_3_idle2.webp",
+   "h": 0.947,
+   "dx": 0,
+   "dy": -0.03
+  },
+  "shroomp_1_ability": {
+   "file": "poses/shroomp_1_ability.webp",
+   "h": 1.059,
+   "dx": -0.006,
+   "dy": 0.006
+  },
+  "shroomp_1_asleep": {
+   "file": "poses/shroomp_1_asleep.webp",
+   "h": 0.866,
+   "dx": 0.029,
+   "dy": -0.035
+  },
+  "shroomp_1_attack": {
+   "file": "poses/shroomp_1_attack.webp",
+   "h": 0.965,
+   "dx": 0.036,
+   "dy": -0.015
+  },
+  "shroomp_1_happy": {
+   "file": "poses/shroomp_1_happy.webp",
+   "h": 1.18,
+   "dx": -0.02,
+   "dy": 0.072
+  },
+  "shroomp_1_hit": {
+   "file": "poses/shroomp_1_hit.webp",
+   "h": 1.153,
+   "dx": -0.01,
+   "dy": 0.059
+  },
+  "shroomp_1_idle2": {
+   "file": "poses/shroomp_1_idle2.webp",
+   "h": 1.02,
+   "dx": -0.003,
+   "dy": 0.002
+  },
+  "shroomp_2_ability": {
+   "file": "poses/shroomp_2_ability.webp",
+   "h": 1.065,
+   "dx": -0.009,
+   "dy": 0.036
+  },
+  "shroomp_2_asleep": {
+   "file": "poses/shroomp_2_asleep.webp",
+   "h": 0.701,
+   "dx": 0.021,
+   "dy": -0.109
+  },
+  "shroomp_2_attack": {
+   "file": "poses/shroomp_2_attack.webp",
+   "h": 0.923,
+   "dx": -0.011,
+   "dy": -0.033
+  },
+  "shroomp_2_happy": {
+   "file": "poses/shroomp_2_happy.webp",
+   "h": 1.04,
+   "dx": 0.022,
+   "dy": 0.025
+  },
+  "shroomp_2_hit": {
+   "file": "poses/shroomp_2_hit.webp",
+   "h": 1.032,
+   "dx": -0.001,
+   "dy": 0.017
+  },
+  "shroomp_2_idle2": {
+   "file": "poses/shroomp_2_idle2.webp",
+   "h": 1.008,
+   "dx": -0.001,
+   "dy": 0.001
+  },
+  "shroomp_3_ability": {
+   "file": "poses/shroomp_3_ability.webp",
+   "h": 0.964,
+   "dx": 0.004,
+   "dy": -0.012
+  },
+  "shroomp_3_asleep": {
+   "file": "poses/shroomp_3_asleep.webp",
+   "h": 0.843,
+   "dx": 0,
+   "dy": -0.062
+  },
+  "shroomp_3_attack": {
+   "file": "poses/shroomp_3_attack.webp",
+   "h": 0.836,
+   "dx": 0,
+   "dy": -0.067
+  },
+  "shroomp_3_happy": {
+   "file": "poses/shroomp_3_happy.webp",
+   "h": 0.962,
+   "dx": 0.004,
+   "dy": -0.01
+  },
+  "shroomp_3_hit": {
+   "file": "poses/shroomp_3_hit.webp",
+   "h": 0.958,
+   "dx": 0.001,
+   "dy": -0.019
+  },
+  "shroomp_3_idle2": {
+   "file": "poses/shroomp_3_idle2.webp",
+   "h": 0.946,
+   "dx": -0.001,
+   "dy": -0.029
+  },
+  "sparkeel_1_ability": {
+   "file": "poses/sparkeel_1_ability.webp",
+   "h": 1.202,
+   "dx": -0.041,
+   "dy": 0.001
+  },
+  "sparkeel_1_asleep": {
+   "file": "poses/sparkeel_1_asleep.webp",
+   "h": 0.94,
+   "dx": -0.01,
+   "dy": -0.059
+  },
+  "sparkeel_1_attack": {
+   "file": "poses/sparkeel_1_attack.webp",
+   "h": 1.01,
+   "dx": 0.047,
+   "dy": 0.004
+  },
+  "sparkeel_1_happy": {
+   "file": "poses/sparkeel_1_happy.webp",
+   "h": 1.022,
+   "dx": -0.003,
+   "dy": 0.003
+  },
+  "sparkeel_1_hit": {
+   "file": "poses/sparkeel_1_hit.webp",
+   "h": 1.043,
+   "dx": 0.006,
+   "dy": 0.001
+  },
+  "sparkeel_1_idle2": {
+   "file": "poses/sparkeel_1_idle2.webp",
+   "h": 1.04,
+   "dx": 0,
+   "dy": 0.004
+  },
+  "sparkeel_2_ability": {
+   "file": "poses/sparkeel_2_ability.webp",
+   "h": 1.101,
+   "dx": -0.009,
+   "dy": 0.032
+  },
+  "sparkeel_2_asleep": {
+   "file": "poses/sparkeel_2_asleep.webp",
+   "h": 0.853,
+   "dx": 0,
+   "dy": -0.082
+  },
+  "sparkeel_2_attack": {
+   "file": "poses/sparkeel_2_attack.webp",
+   "h": 0.958,
+   "dx": 0.022,
+   "dy": 0.002
+  },
+  "sparkeel_2_happy": {
+   "file": "poses/sparkeel_2_happy.webp",
+   "h": 1.01,
+   "dx": 0.019,
+   "dy": 0.001
+  },
+  "sparkeel_2_hit": {
+   "file": "poses/sparkeel_2_hit.webp",
+   "h": 1.013,
+   "dx": -0.035,
+   "dy": 0.002
+  },
+  "sparkeel_2_idle2": {
+   "file": "poses/sparkeel_2_idle2.webp",
+   "h": 1.008,
+   "dx": 0,
+   "dy": 0.002
+  },
+  "sparkeel_3_ability": {
+   "file": "poses/sparkeel_3_ability.webp",
+   "h": 0.951,
+   "dx": -0.014,
+   "dy": -0.024
+  },
+  "sparkeel_3_asleep": {
+   "file": "poses/sparkeel_3_asleep.webp",
+   "h": 0.864,
+   "dx": -0.001,
+   "dy": -0.054
+  },
+  "sparkeel_3_attack": {
+   "file": "poses/sparkeel_3_attack.webp",
+   "h": 0.92,
+   "dx": 0.001,
+   "dy": -0.034
+  },
+  "sparkeel_3_happy": {
+   "file": "poses/sparkeel_3_happy.webp",
+   "h": 0.938,
+   "dx": -0.006,
+   "dy": -0.037
+  },
+  "sparkeel_3_hit": {
+   "file": "poses/sparkeel_3_hit.webp",
+   "h": 0.945,
+   "dx": 0.001,
+   "dy": -0.03
+  },
+  "sparkeel_3_idle2": {
+   "file": "poses/sparkeel_3_idle2.webp",
+   "h": 0.946,
+   "dx": -0.001,
+   "dy": -0.03
+  },
+  "whirlhawk_1_ability": {
+   "file": "poses/whirlhawk_1_ability.webp",
+   "h": 1.136,
+   "dx": 0.036,
+   "dy": 0.009
+  },
+  "whirlhawk_1_asleep": {
+   "file": "poses/whirlhawk_1_asleep.webp",
+   "h": 0.859,
+   "dx": 0.025,
+   "dy": -0.069
+  },
+  "whirlhawk_1_attack": {
+   "file": "poses/whirlhawk_1_attack.webp",
+   "h": 0.937,
+   "dx": 0.049,
+   "dy": -0.064
+  },
+  "whirlhawk_1_happy": {
+   "file": "poses/whirlhawk_1_happy.webp",
+   "h": 1.061,
+   "dx": 0.017,
+   "dy": -0.002
+  },
+  "whirlhawk_1_hit": {
+   "file": "poses/whirlhawk_1_hit.webp",
+   "h": 1.021,
+   "dx": -0.001,
+   "dy": -0.004
+  },
+  "whirlhawk_1_idle2": {
+   "file": "poses/whirlhawk_1_idle2.webp",
+   "h": 1.032,
+   "dx": 0.004,
+   "dy": 0.001
+  },
+  "whirlhawk_2_ability": {
+   "file": "poses/whirlhawk_2_ability.webp",
+   "h": 1.004,
+   "dx": -0.001,
+   "dy": 0.002
+  },
+  "whirlhawk_2_asleep": {
+   "file": "poses/whirlhawk_2_asleep.webp",
+   "h": 0.758,
+   "dx": -0.001,
+   "dy": -0.083
+  },
+  "whirlhawk_2_attack": {
+   "file": "poses/whirlhawk_2_attack.webp",
+   "h": 0.83,
+   "dx": -0.001,
+   "dy": -0.049
+  },
+  "whirlhawk_2_happy": {
+   "file": "poses/whirlhawk_2_happy.webp",
+   "h": 1.08,
+   "dx": -0.002,
+   "dy": 0.054
+  },
+  "whirlhawk_2_hit": {
+   "file": "poses/whirlhawk_2_hit.webp",
+   "h": 1.023,
+   "dx": -0.006,
+   "dy": 0.02
+  },
+  "whirlhawk_2_idle2": {
+   "file": "poses/whirlhawk_2_idle2.webp",
+   "h": 1.036,
+   "dx": -0.002,
+   "dy": 0.002
+  },
+  "whirlhawk_3_ability": {
+   "file": "poses/whirlhawk_3_ability.webp",
+   "h": 1.043,
+   "dx": -0.001,
+   "dy": 0.027
+  },
+  "whirlhawk_3_asleep": {
+   "file": "poses/whirlhawk_3_asleep.webp",
+   "h": 0.925,
+   "dx": 0.001,
+   "dy": -0.008
+  },
+  "whirlhawk_3_attack": {
+   "file": "poses/whirlhawk_3_attack.webp",
+   "h": 0.985,
+   "dx": 0,
+   "dy": 0.007
+  },
+  "whirlhawk_3_happy": {
+   "file": "poses/whirlhawk_3_happy.webp",
+   "h": 1.042,
+   "dx": 0.003,
+   "dy": 0.034
+  },
+  "whirlhawk_3_hit": {
+   "file": "poses/whirlhawk_3_hit.webp",
+   "h": 1.017,
+   "dx": 0,
+   "dy": 0.019
+  },
+  "whirlhawk_3_idle2": {
+   "file": "poses/whirlhawk_3_idle2.webp",
+   "h": 1.013,
+   "dx": 0.001,
+   "dy": 0
+  },
+  "prismoth_1_ability": {
+   "file": "poses/prismoth_1_ability.webp",
+   "h": 1.366,
+   "dx": 0.01,
+   "dy": 0.039
+  },
+  "prismoth_1_asleep": {
+   "file": "poses/prismoth_1_asleep.webp",
+   "h": 1.055,
+   "dx": 0.018,
+   "dy": -0.014
+  },
+  "prismoth_1_attack": {
+   "file": "poses/prismoth_1_attack.webp",
+   "h": 1.044,
+   "dx": 0.041,
+   "dy": -0.044
+  },
+  "prismoth_1_happy": {
+   "file": "poses/prismoth_1_happy.webp",
+   "h": 1.146,
+   "dx": 0.006,
+   "dy": -0.006
+  },
+  "prismoth_1_hit": {
+   "file": "poses/prismoth_1_hit.webp",
+   "h": 1.052,
+   "dx": 0.013,
+   "dy": -0.006
+  },
+  "prismoth_1_idle2": {
+   "file": "poses/prismoth_1_idle2.webp",
+   "h": 1.035,
+   "dx": 0.006,
+   "dy": 0.003
+  },
+  "prismoth_2_ability": {
+   "file": "poses/prismoth_2_ability.webp",
+   "h": 1.11,
+   "dx": 0.006,
+   "dy": 0.032
+  },
+  "prismoth_2_asleep": {
+   "file": "poses/prismoth_2_asleep.webp",
+   "h": 0.886,
+   "dx": 0.014,
+   "dy": -0.093
+  },
+  "prismoth_2_attack": {
+   "file": "poses/prismoth_2_attack.webp",
+   "h": 0.969,
+   "dx": 0.011,
+   "dy": -0.047
+  },
+  "prismoth_2_happy": {
+   "file": "poses/prismoth_2_happy.webp",
+   "h": 1.088,
+   "dx": 0.002,
+   "dy": 0.068
+  },
+  "prismoth_2_hit": {
+   "file": "poses/prismoth_2_hit.webp",
+   "h": 1.039,
+   "dx": -0.008,
+   "dy": 0.016
+  },
+  "prismoth_2_idle2": {
+   "file": "poses/prismoth_2_idle2.webp",
+   "h": 1.005,
+   "dx": -0.003,
+   "dy": 0.002
+  },
+  "prismoth_3_ability": {
+   "file": "poses/prismoth_3_ability.webp",
+   "h": 1.018,
+   "dx": 0,
+   "dy": 0.007
+  },
+  "prismoth_3_asleep": {
+   "file": "poses/prismoth_3_asleep.webp",
+   "h": 0.874,
+   "dx": 0.003,
+   "dy": -0.063
+  },
+  "prismoth_3_attack": {
+   "file": "poses/prismoth_3_attack.webp",
+   "h": 0.892,
+   "dx": -0.002,
+   "dy": -0.075
+  },
+  "prismoth_3_happy": {
+   "file": "poses/prismoth_3_happy.webp",
+   "h": 1.007,
+   "dx": -0.005,
+   "dy": 0.002
+  },
+  "prismoth_3_hit": {
+   "file": "poses/prismoth_3_hit.webp",
+   "h": 0.999,
+   "dx": 0.002,
+   "dy": -0.004
+  },
+  "prismoth_3_idle2": {
+   "file": "poses/prismoth_3_idle2.webp",
+   "h": 1.002,
+   "dx": 0.001,
+   "dy": -0.001
+  },
+  "kilnoceros_1_ability": {
+   "file": "poses/kilnoceros_1_ability.webp",
+   "h": 1.376,
+   "dx": 0.015,
+   "dy": 0.156
+  },
+  "kilnoceros_1_asleep": {
+   "file": "poses/kilnoceros_1_asleep.webp",
+   "h": 0.875,
+   "dx": 0.012,
+   "dy": 0.004
+  },
+  "kilnoceros_1_attack": {
+   "file": "poses/kilnoceros_1_attack.webp",
+   "h": 1.011,
+   "dx": 0.065,
+   "dy": 0.018
+  },
+  "kilnoceros_1_happy": {
+   "file": "poses/kilnoceros_1_happy.webp",
+   "h": 1.119,
+   "dx": -0.009,
+   "dy": 0.035
+  },
+  "kilnoceros_1_hit": {
+   "file": "poses/kilnoceros_1_hit.webp",
+   "h": 1.151,
+   "dx": -0.014,
+   "dy": 0.011
+  },
+  "kilnoceros_1_idle2": {
+   "file": "poses/kilnoceros_1_idle2.webp",
+   "h": 1.017,
+   "dx": 0.001,
+   "dy": 0.003
+  },
+  "kilnoceros_2_ability": {
+   "file": "poses/kilnoceros_2_ability.webp",
+   "h": 1.266,
+   "dx": -0.008,
+   "dy": 0.102
+  },
+  "kilnoceros_2_asleep": {
+   "file": "poses/kilnoceros_2_asleep.webp",
+   "h": 0.815,
+   "dx": 0.013,
+   "dy": -0.016
+  },
+  "kilnoceros_2_attack": {
+   "file": "poses/kilnoceros_2_attack.webp",
+   "h": 0.984,
+   "dx": 0.008,
+   "dy": -0.005
+  },
+  "kilnoceros_2_happy": {
+   "file": "poses/kilnoceros_2_happy.webp",
+   "h": 1.116,
+   "dx": 0,
+   "dy": 0.056
+  },
+  "kilnoceros_2_hit": {
+   "file": "poses/kilnoceros_2_hit.webp",
+   "h": 1.075,
+   "dx": -0.009,
+   "dy": 0.022
+  },
+  "kilnoceros_2_idle2": {
+   "file": "poses/kilnoceros_2_idle2.webp",
+   "h": 1.015,
+   "dx": 0.001,
+   "dy": 0.001
+  },
+  "kilnoceros_3_ability": {
+   "file": "poses/kilnoceros_3_ability.webp",
+   "h": 1,
+   "dx": 0.004,
+   "dy": -0.002
+  },
+  "kilnoceros_3_asleep": {
+   "file": "poses/kilnoceros_3_asleep.webp",
+   "h": 0.875,
+   "dx": 0.001,
+   "dy": -0.05
+  },
+  "kilnoceros_3_attack": {
+   "file": "poses/kilnoceros_3_attack.webp",
+   "h": 0.982,
+   "dx": 0,
+   "dy": -0.017
+  },
+  "kilnoceros_3_happy": {
+   "file": "poses/kilnoceros_3_happy.webp",
+   "h": 1.002,
+   "dx": 0.013,
+   "dy": 0
+  },
+  "kilnoceros_3_hit": {
+   "file": "poses/kilnoceros_3_hit.webp",
+   "h": 0.999,
+   "dx": -0.001,
+   "dy": -0.002
+  },
+  "kilnoceros_3_idle2": {
+   "file": "poses/kilnoceros_3_idle2.webp",
+   "h": 1.002,
+   "dx": 0,
+   "dy": 0
+  },
+  "bellowhale_1_ability": {
+   "file": "poses/bellowhale_1_ability.webp",
+   "h": 1.553,
+   "dx": 0.007,
+   "dy": 0.178
+  },
+  "bellowhale_1_asleep": {
+   "file": "poses/bellowhale_1_asleep.webp",
+   "h": 0.976,
+   "dx": -0.014,
+   "dy": -0.013
+  },
+  "bellowhale_1_attack": {
+   "file": "poses/bellowhale_1_attack.webp",
+   "h": 1.16,
+   "dx": 0.008,
+   "dy": 0.028
+  },
+  "bellowhale_1_happy": {
+   "file": "poses/bellowhale_1_happy.webp",
+   "h": 1.206,
+   "dx": 0.007,
+   "dy": 0.029
+  },
+  "bellowhale_1_hit": {
+   "file": "poses/bellowhale_1_hit.webp",
+   "h": 1.153,
+   "dx": -0.01,
+   "dy": 0.005
+  },
+  "bellowhale_1_idle2": {
+   "file": "poses/bellowhale_1_idle2.webp",
+   "h": 1.02,
+   "dx": 0.001,
+   "dy": 0.005
+  },
+  "bellowhale_2_ability": {
+   "file": "poses/bellowhale_2_ability.webp",
+   "h": 1.248,
+   "dx": 0.006,
+   "dy": 0.113
+  },
+  "bellowhale_2_asleep": {
+   "file": "poses/bellowhale_2_asleep.webp",
+   "h": 0.961,
+   "dx": -0.009,
+   "dy": -0.012
+  },
+  "bellowhale_2_attack": {
+   "file": "poses/bellowhale_2_attack.webp",
+   "h": 1.04,
+   "dx": 0.017,
+   "dy": 0.028
+  },
+  "bellowhale_2_happy": {
+   "file": "poses/bellowhale_2_happy.webp",
+   "h": 1.122,
+   "dx": 0.009,
+   "dy": 0.038
+  },
+  "bellowhale_2_hit": {
+   "file": "poses/bellowhale_2_hit.webp",
+   "h": 1.076,
+   "dx": 0.006,
+   "dy": 0.02
+  },
+  "bellowhale_2_idle2": {
+   "file": "poses/bellowhale_2_idle2.webp",
+   "h": 1.035,
+   "dx": -0.002,
+   "dy": 0.002
+  },
+  "bellowhale_3_ability": {
+   "file": "poses/bellowhale_3_ability.webp",
+   "h": 0.998,
+   "dx": 0.005,
+   "dy": -0.002
+  },
+  "bellowhale_3_asleep": {
+   "file": "poses/bellowhale_3_asleep.webp",
+   "h": 0.892,
+   "dx": -0.003,
+   "dy": -0.037
+  },
+  "bellowhale_3_attack": {
+   "file": "poses/bellowhale_3_attack.webp",
+   "h": 0.92,
+   "dx": 0.003,
+   "dy": -0.032
+  },
+  "bellowhale_3_happy": {
+   "file": "poses/bellowhale_3_happy.webp",
+   "h": 1.001,
+   "dx": 0.013,
+   "dy": 0.001
+  },
+  "bellowhale_3_hit": {
+   "file": "poses/bellowhale_3_hit.webp",
+   "h": 0.999,
+   "dx": -0.001,
+   "dy": -0.001
+  },
+  "bellowhale_3_idle2": {
+   "file": "poses/bellowhale_3_idle2.webp",
+   "h": 1.002,
+   "dx": 0.001,
+   "dy": 0.002
+  },
+  "stormyak_1_ability": {
+   "file": "poses/stormyak_1_ability.webp",
+   "h": 1.359,
+   "dx": 0.032,
+   "dy": 0.072
+  },
+  "stormyak_1_asleep": {
+   "file": "poses/stormyak_1_asleep.webp",
+   "h": 0.912,
+   "dx": 0.013,
+   "dy": -0.079
+  },
+  "stormyak_1_attack": {
+   "file": "poses/stormyak_1_attack.webp",
+   "h": 1.052,
+   "dx": 0.038,
+   "dy": -0.031
+  },
+  "stormyak_1_happy": {
+   "file": "poses/stormyak_1_happy.webp",
+   "h": 1.195,
+   "dx": 0.016,
+   "dy": 0.024
+  },
+  "stormyak_1_hit": {
+   "file": "poses/stormyak_1_hit.webp",
+   "h": 1.069,
+   "dx": 0.006,
+   "dy": 0.006
+  },
+  "stormyak_1_idle2": {
+   "file": "poses/stormyak_1_idle2.webp",
+   "h": 1.036,
+   "dx": -0.004,
+   "dy": 0.001
+  },
+  "stormyak_2_ability": {
+   "file": "poses/stormyak_2_ability.webp",
+   "h": 1.231,
+   "dx": 0.025,
+   "dy": 0.072
+  },
+  "stormyak_2_asleep": {
+   "file": "poses/stormyak_2_asleep.webp",
+   "h": 0.791,
+   "dx": -0.001,
+   "dy": -0.059
+  },
+  "stormyak_2_attack": {
+   "file": "poses/stormyak_2_attack.webp",
+   "h": 0.956,
+   "dx": 0.047,
+   "dy": -0.032
+  },
+  "stormyak_2_happy": {
+   "file": "poses/stormyak_2_happy.webp",
+   "h": 1.061,
+   "dx": 0.009,
+   "dy": 0.035
+  },
+  "stormyak_2_hit": {
+   "file": "poses/stormyak_2_hit.webp",
+   "h": 1.034,
+   "dx": -0.006,
+   "dy": 0.002
+  },
+  "stormyak_2_idle2": {
+   "file": "poses/stormyak_2_idle2.webp",
+   "h": 1.031,
+   "dx": 0.005,
+   "dy": 0.001
+  },
+  "stormyak_3_ability": {
+   "file": "poses/stormyak_3_ability.webp",
+   "h": 1.008,
+   "dx": -0.001,
+   "dy": 0.006
+  },
+  "stormyak_3_asleep": {
+   "file": "poses/stormyak_3_asleep.webp",
+   "h": 0.737,
+   "dx": -0.01,
+   "dy": -0.12
+  },
+  "stormyak_3_attack": {
+   "file": "poses/stormyak_3_attack.webp",
+   "h": 0.891,
+   "dx": 0.006,
+   "dy": -0.066
+  },
+  "stormyak_3_happy": {
+   "file": "poses/stormyak_3_happy.webp",
+   "h": 0.998,
+   "dx": 0,
+   "dy": -0.004
+  },
+  "stormyak_3_hit": {
+   "file": "poses/stormyak_3_hit.webp",
+   "h": 1.003,
+   "dx": -0.011,
+   "dy": 0.001
+  },
+  "stormyak_3_idle2": {
+   "file": "poses/stormyak_3_idle2.webp",
+   "h": 1.002,
+   "dx": 0.001,
+   "dy": 0
+  },
+  "cragtoise_1_ability": {
+   "file": "poses/cragtoise_1_ability.webp",
+   "h": 1.378,
+   "dx": 0.001,
+   "dy": 0.118
+  },
+  "cragtoise_1_asleep": {
+   "file": "poses/cragtoise_1_asleep.webp",
+   "h": 0.955,
+   "dx": -0.001,
+   "dy": -0.001
+  },
+  "cragtoise_1_attack": {
+   "file": "poses/cragtoise_1_attack.webp",
+   "h": 1.025,
+   "dx": 0.047,
+   "dy": 0.006
+  },
+  "cragtoise_1_happy": {
+   "file": "poses/cragtoise_1_happy.webp",
+   "h": 1.241,
+   "dx": 0.008,
+   "dy": 0.047
+  },
+  "cragtoise_1_hit": {
+   "file": "poses/cragtoise_1_hit.webp",
+   "h": 1.039,
+   "dx": -0.008,
+   "dy": -0.004
+  },
+  "cragtoise_1_idle2": {
+   "file": "poses/cragtoise_1_idle2.webp",
+   "h": 1.028,
+   "dx": 0,
+   "dy": -0.021
+  },
+  "cragtoise_2_ability": {
+   "file": "poses/cragtoise_2_ability.webp",
+   "h": 1.171,
+   "dx": 0.001,
+   "dy": 0.019
+  },
+  "cragtoise_2_asleep": {
+   "file": "poses/cragtoise_2_asleep.webp",
+   "h": 0.897,
+   "dx": 0.003,
+   "dy": -0.001
+  },
+  "cragtoise_2_attack": {
+   "file": "poses/cragtoise_2_attack.webp",
+   "h": 0.993,
+   "dx": 0.025,
+   "dy": -0.009
+  },
+  "cragtoise_2_happy": {
+   "file": "poses/cragtoise_2_happy.webp",
+   "h": 1.112,
+   "dx": 0.01,
+   "dy": 0.053
+  },
+  "cragtoise_2_hit": {
+   "file": "poses/cragtoise_2_hit.webp",
+   "h": 0.998,
+   "dx": 0.001,
+   "dy": -0.003
+  },
+  "cragtoise_2_idle2": {
+   "file": "poses/cragtoise_2_idle2.webp",
+   "h": 1.015,
+   "dx": 0,
+   "dy": 0
+  },
+  "cragtoise_3_ability": {
+   "file": "poses/cragtoise_3_ability.webp",
+   "h": 0.999,
+   "dx": -0.002,
+   "dy": 0.002
+  },
+  "cragtoise_3_asleep": {
+   "file": "poses/cragtoise_3_asleep.webp",
+   "h": 0.955,
+   "dx": -0.005,
+   "dy": -0.007
+  },
+  "cragtoise_3_attack": {
+   "file": "poses/cragtoise_3_attack.webp",
+   "h": 0.947,
+   "dx": 0.002,
+   "dy": -0.033
+  },
+  "cragtoise_3_happy": {
+   "file": "poses/cragtoise_3_happy.webp",
+   "h": 1.012,
+   "dx": 0.024,
+   "dy": 0.012
+  },
+  "cragtoise_3_hit": {
+   "file": "poses/cragtoise_3_hit.webp",
+   "h": 0.997,
+   "dx": 0.013,
+   "dy": -0.003
+  },
+  "cragtoise_3_idle2": {
+   "file": "poses/cragtoise_3_idle2.webp",
+   "h": 1,
+   "dx": 0,
+   "dy": 0
+  },
+  "cyclonyx_1_ability": {
+   "file": "poses/cyclonyx_1_ability.webp",
+   "h": 1.443,
+   "dx": 0,
+   "dy": 0.162
+  },
+  "cyclonyx_1_asleep": {
+   "file": "poses/cyclonyx_1_asleep.webp",
+   "h": 0.927,
+   "dx": 0.003,
+   "dy": 0.007
+  },
+  "cyclonyx_1_attack": {
+   "file": "poses/cyclonyx_1_attack.webp",
+   "h": 1.073,
+   "dx": 0.024,
+   "dy": 0.029
+  },
+  "cyclonyx_1_happy": {
+   "file": "poses/cyclonyx_1_happy.webp",
+   "h": 1.302,
+   "dx": -0.005,
+   "dy": 0.103
+  },
+  "cyclonyx_1_hit": {
+   "file": "poses/cyclonyx_1_hit.webp",
+   "h": 1.111,
+   "dx": -0.004,
+   "dy": 0.01
+  },
+  "cyclonyx_1_idle2": {
+   "file": "poses/cyclonyx_1_idle2.webp",
+   "h": 1.057,
+   "dx": -0.001,
+   "dy": 0.003
+  },
+  "cyclonyx_2_ability": {
+   "file": "poses/cyclonyx_2_ability.webp",
+   "h": 1.244,
+   "dx": -0.003,
+   "dy": 0.1
+  },
+  "cyclonyx_2_asleep": {
+   "file": "poses/cyclonyx_2_asleep.webp",
+   "h": 0.699,
+   "dx": -0.01,
+   "dy": -0.089
+  },
+  "cyclonyx_2_attack": {
+   "file": "poses/cyclonyx_2_attack.webp",
+   "h": 0.983,
+   "dx": 0.004,
+   "dy": 0.035
+  },
+  "cyclonyx_2_happy": {
+   "file": "poses/cyclonyx_2_happy.webp",
+   "h": 1.117,
+   "dx": 0.016,
+   "dy": 0.062
+  },
+  "cyclonyx_2_hit": {
+   "file": "poses/cyclonyx_2_hit.webp",
+   "h": 1.044,
+   "dx": 0.007,
+   "dy": 0.034
+  },
+  "cyclonyx_2_idle2": {
+   "file": "poses/cyclonyx_2_idle2.webp",
+   "h": 1.105,
+   "dx": 0.011,
+   "dy": 0.031
+  },
+  "cyclonyx_3_ability": {
+   "file": "poses/cyclonyx_3_ability.webp",
+   "h": 1.065,
+   "dx": 0,
+   "dy": 0.026
+  },
+  "cyclonyx_3_asleep": {
+   "file": "poses/cyclonyx_3_asleep.webp",
+   "h": 0.725,
+   "dx": -0.004,
+   "dy": -0.123
+  },
+  "cyclonyx_3_attack": {
+   "file": "poses/cyclonyx_3_attack.webp",
+   "h": 0.903,
+   "dx": -0.006,
+   "dy": -0.028
+  },
+  "cyclonyx_3_happy": {
+   "file": "poses/cyclonyx_3_happy.webp",
+   "h": 1.037,
+   "dx": 0,
+   "dy": 0.011
+  },
+  "cyclonyx_3_hit": {
+   "file": "poses/cyclonyx_3_hit.webp",
+   "h": 1.039,
+   "dx": -0.004,
+   "dy": 0.003
+  },
+  "cyclonyx_3_idle2": {
+   "file": "poses/cyclonyx_3_idle2.webp",
+   "h": 1.015,
+   "dx": -0.002,
+   "dy": 0
+  },
+  "duskwolf_1_ability": {
+   "file": "poses/duskwolf_1_ability.webp",
+   "h": 1.463,
+   "dx": 0.026,
+   "dy": 0.1
+  },
+  "duskwolf_1_asleep": {
+   "file": "poses/duskwolf_1_asleep.webp",
+   "h": 0.843,
+   "dx": 0.034,
+   "dy": -0.044
+  },
+  "duskwolf_1_attack": {
+   "file": "poses/duskwolf_1_attack.webp",
+   "h": 1.085,
+   "dx": 0.023,
+   "dy": 0.085
+  },
+  "duskwolf_1_happy": {
+   "file": "poses/duskwolf_1_happy.webp",
+   "h": 1.232,
+   "dx": -0.004,
+   "dy": 0.004
+  },
+  "duskwolf_1_hit": {
+   "file": "poses/duskwolf_1_hit.webp",
+   "h": 1.164,
+   "dx": 0.02,
+   "dy": 0.005
+  },
+  "duskwolf_1_idle2": {
+   "file": "poses/duskwolf_1_idle2.webp",
+   "h": 1.042,
+   "dx": -0.004,
+   "dy": 0.002
+  },
+  "duskwolf_2_ability": {
+   "file": "poses/duskwolf_2_ability.webp",
+   "h": 1.189,
+   "dx": -0.004,
+   "dy": 0.084
+  },
+  "duskwolf_2_asleep": {
+   "file": "poses/duskwolf_2_asleep.webp",
+   "h": 0.649,
+   "dx": 0.01,
+   "dy": -0.095
+  },
+  "duskwolf_2_attack": {
+   "file": "poses/duskwolf_2_attack.webp",
+   "h": 0.802,
+   "dx": 0.047,
+   "dy": -0.057
+  },
+  "duskwolf_2_happy": {
+   "file": "poses/duskwolf_2_happy.webp",
+   "h": 1.046,
+   "dx": 0.008,
+   "dy": 0.028
+  },
+  "duskwolf_2_hit": {
+   "file": "poses/duskwolf_2_hit.webp",
+   "h": 1.015,
+   "dx": -0.01,
+   "dy": -0.002
+  },
+  "duskwolf_2_idle2": {
+   "file": "poses/duskwolf_2_idle2.webp",
+   "h": 1.011,
+   "dx": 0.005,
+   "dy": 0.002
+  },
+  "duskwolf_3_ability": {
+   "file": "poses/duskwolf_3_ability.webp",
+   "h": 0.991,
+   "dx": 0.004,
+   "dy": -0.01
+  },
+  "duskwolf_3_asleep": {
+   "file": "poses/duskwolf_3_asleep.webp",
+   "h": 0.597,
+   "dx": -0.005,
+   "dy": -0.199
+  },
+  "duskwolf_3_attack": {
+   "file": "poses/duskwolf_3_attack.webp",
+   "h": 0.809,
+   "dx": 0.001,
+   "dy": -0.078
+  },
+  "duskwolf_3_happy": {
+   "file": "poses/duskwolf_3_happy.webp",
+   "h": 1.004,
+   "dx": -0.004,
+   "dy": 0.002
+  },
+  "duskwolf_3_hit": {
+   "file": "poses/duskwolf_3_hit.webp",
+   "h": 0.994,
+   "dx": -0.023,
+   "dy": -0.001
+  },
+  "duskwolf_3_idle2": {
+   "file": "poses/duskwolf_3_idle2.webp",
+   "h": 1.003,
+   "dx": 0.002,
+   "dy": 0.002
+  },
+  "solmane_1_ability": {
+   "file": "poses/solmane_1_ability.webp",
+   "h": 1.212,
+   "dx": 0.017,
+   "dy": 0.081
+  },
+  "solmane_1_asleep": {
+   "file": "poses/solmane_1_asleep.webp",
+   "h": 0.836,
+   "dx": 0.013,
+   "dy": -0.05
+  },
+  "solmane_1_attack": {
+   "file": "poses/solmane_1_attack.webp",
+   "h": 1.103,
+   "dx": 0.041,
+   "dy": 0.067
+  },
+  "solmane_1_happy": {
+   "file": "poses/solmane_1_happy.webp",
+   "h": 1.317,
+   "dx": 0.034,
+   "dy": 0.176
+  },
+  "solmane_1_hit": {
+   "file": "poses/solmane_1_hit.webp",
+   "h": 1.113,
+   "dx": -0.006,
+   "dy": 0.044
+  },
+  "solmane_1_idle2": {
+   "file": "poses/solmane_1_idle2.webp",
+   "h": 1.071,
+   "dx": 0.006,
+   "dy": 0.006
+  },
+  "solmane_2_ability": {
+   "file": "poses/solmane_2_ability.webp",
+   "h": 1.174,
+   "dx": 0.001,
+   "dy": 0.062
+  },
+  "solmane_2_asleep": {
+   "file": "poses/solmane_2_asleep.webp",
+   "h": 0.768,
+   "dx": 0.028,
+   "dy": -0.1
+  },
+  "solmane_2_attack": {
+   "file": "poses/solmane_2_attack.webp",
+   "h": 0.972,
+   "dx": 0.011,
+   "dy": -0.005
+  },
+  "solmane_2_happy": {
+   "file": "poses/solmane_2_happy.webp",
+   "h": 1.038,
+   "dx": -0.001,
+   "dy": 0.028
+  },
+  "solmane_2_hit": {
+   "file": "poses/solmane_2_hit.webp",
+   "h": 1.059,
+   "dx": -0.031,
+   "dy": 0.011
+  },
+  "solmane_2_idle2": {
+   "file": "poses/solmane_2_idle2.webp",
+   "h": 1.026,
+   "dx": 0.003,
+   "dy": 0.004
+  },
+  "solmane_3_ability": {
+   "file": "poses/solmane_3_ability.webp",
+   "h": 1.054,
+   "dx": 0.003,
+   "dy": 0.026
+  },
+  "solmane_3_asleep": {
+   "file": "poses/solmane_3_asleep.webp",
+   "h": 0.883,
+   "dx": 0.003,
+   "dy": -0.062
+  },
+  "solmane_3_attack": {
+   "file": "poses/solmane_3_attack.webp",
+   "h": 0.974,
+   "dx": 0.004,
+   "dy": -0.025
+  },
+  "solmane_3_happy": {
+   "file": "poses/solmane_3_happy.webp",
+   "h": 1.008,
+   "dx": 0.002,
+   "dy": 0.002
+  },
+  "solmane_3_hit": {
+   "file": "poses/solmane_3_hit.webp",
+   "h": 1.029,
+   "dx": -0.003,
+   "dy": 0.015
+  },
+  "solmane_3_idle2": {
+   "file": "poses/solmane_3_idle2.webp",
+   "h": 1.007,
+   "dx": -0.001,
+   "dy": 0
+  },
+  "bloomwyrm_1_ability": {
+   "file": "poses/bloomwyrm_1_ability.webp",
+   "h": 1.328,
+   "dx": 0.034,
+   "dy": 0.056
+  },
+  "bloomwyrm_1_asleep": {
+   "file": "poses/bloomwyrm_1_asleep.webp",
+   "h": 0.915,
+   "dx": 0.061,
+   "dy": 0.005
+  },
+  "bloomwyrm_1_attack": {
+   "file": "poses/bloomwyrm_1_attack.webp",
+   "h": 1.027,
+   "dx": 0.051,
+   "dy": 0.005
+  },
+  "bloomwyrm_1_happy": {
+   "file": "poses/bloomwyrm_1_happy.webp",
+   "h": 1.307,
+   "dx": 0.013,
+   "dy": 0.075
+  },
+  "bloomwyrm_1_hit": {
+   "file": "poses/bloomwyrm_1_hit.webp",
+   "h": 1.053,
+   "dx": 0.04,
+   "dy": 0.005
+  },
+  "bloomwyrm_1_idle2": {
+   "file": "poses/bloomwyrm_1_idle2.webp",
+   "h": 1.078,
+   "dx": 0.007,
+   "dy": 0.002
+  },
+  "bloomwyrm_2_ability": {
+   "file": "poses/bloomwyrm_2_ability.webp",
+   "h": 1.274,
+   "dx": 0.012,
+   "dy": 0.122
+  },
+  "bloomwyrm_2_asleep": {
+   "file": "poses/bloomwyrm_2_asleep.webp",
+   "h": 0.736,
+   "dx": 0.034,
+   "dy": -0.032
+  },
+  "bloomwyrm_2_attack": {
+   "file": "poses/bloomwyrm_2_attack.webp",
+   "h": 0.919,
+   "dx": 0.026,
+   "dy": -0.009
+  },
+  "bloomwyrm_2_happy": {
+   "file": "poses/bloomwyrm_2_happy.webp",
+   "h": 1.175,
+   "dx": 0.034,
+   "dy": 0.081
+  },
+  "bloomwyrm_2_hit": {
+   "file": "poses/bloomwyrm_2_hit.webp",
+   "h": 1.026,
+   "dx": 0.003,
+   "dy": 0.001
+  },
+  "bloomwyrm_2_idle2": {
+   "file": "poses/bloomwyrm_2_idle2.webp",
+   "h": 1.028,
+   "dx": 0.001,
+   "dy": 0.003
+  },
+  "bloomwyrm_3_ability": {
+   "file": "poses/bloomwyrm_3_ability.webp",
+   "h": 1.009,
+   "dx": 0.012,
+   "dy": 0.006
+  },
+  "bloomwyrm_3_asleep": {
+   "file": "poses/bloomwyrm_3_asleep.webp",
+   "h": 0.951,
+   "dx": 0.001,
+   "dy": -0.025
+  },
+  "bloomwyrm_3_attack": {
+   "file": "poses/bloomwyrm_3_attack.webp",
+   "h": 0.871,
+   "dx": 0.003,
+   "dy": -0.046
+  },
+  "bloomwyrm_3_happy": {
+   "file": "poses/bloomwyrm_3_happy.webp",
+   "h": 1.014,
+   "dx": 0.004,
+   "dy": 0.011
+  },
+  "bloomwyrm_3_hit": {
+   "file": "poses/bloomwyrm_3_hit.webp",
+   "h": 1.006,
+   "dx": 0.002,
+   "dy": 0.003
+  },
+  "bloomwyrm_3_idle2": {
+   "file": "poses/bloomwyrm_3_idle2.webp",
+   "h": 1.002,
+   "dx": 0,
+   "dy": -0.001
+  }
+ }
+}
